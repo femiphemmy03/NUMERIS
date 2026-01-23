@@ -1,0 +1,10 @@
+# requirements.txt
+pandas
+numpy
+tabula-py
+pdfplumber
+camelot-py
+sqlalchemy
+psycopg2-binary
+python-dotenv
+requests
