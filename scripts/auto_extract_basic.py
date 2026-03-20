@@ -7,9 +7,10 @@ import pandas as pd
 from pathlib import Path
 from datetime import datetime
 
-# Paths
-RAW_DIR = Path(__file__).parent.parent / "data" / "raw"
-PROCESSED_DIR = Path("data") / "processed"
+# Paths - absolute for reliability (adjust if project path changes)
+PROJECT_ROOT = Path(r"C:\Users\DELL\Desktop\NUMERIS")
+RAW_DIR = PROJECT_ROOT / "data" / "raw"
+PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
 
 # Create processed folder if missing
 PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
