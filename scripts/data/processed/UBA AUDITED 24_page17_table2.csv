@@ -1,0 +1,18 @@
+0,1,2,3
+Package,Type,Description,Timing
+Basic salary,Fixed,"This is part of gross salary package for Executive
+Directors only","Paid monthly during the
+financial year"
+,,"It reflects the banking industry competitive salary
+package and the extent to which the Bank’s
+objectives have been met for the financial year",
+13th month salary,Fixed,"This is part of gross salary package for Executive
+Directors only","Paid in a month during the
+financial year"
+,,"It reflects the banking industry competitive salary
+package and the extent to which the Bank’s
+objectives have been met for the financial year",
+Directors fees,Fixed,This is paid biannually to Non-Executive Directors only,Paid biannually
+Sitting allowances,Fixed,"Sitting allowances are paid to the Non-Executive
+Directors only for attending Board and Board
+Committee meetings.",Paid after each meeting.

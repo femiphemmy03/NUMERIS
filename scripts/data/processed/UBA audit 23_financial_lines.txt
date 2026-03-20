@@ -1,0 +1,1360 @@
+Tax Identification Number : 01126011-0001
+iii Corporate Governance Report 10 10 Interest income 114
+v 19 12 Impairment charge for credit losses on financial assets 114
+vi 20 13 Fees and commission income 115
+viii 22 15 Net trading and foreign exchange income 115
+ix and report on, UBA Plc's Internal Control Over Financial Reporting for the 24 16 Other operating income 115
+xi Consolidated and Separate Statements of Comprehensive Income 36 18 Employee benefit expenses 116
+Consolidated and Separate Statements of Changes in Equity 38 20 Other operating expenses 116
+Consolidated and Separate Statements of Cash Flows 39 21 Income tax 116
+2 Basis of preparation 40 23 Financial assets at fair value through profit or loss 118
+3.4 Basis of consolidation 40 28 Other assets 124
+3.5 Foreign currency transactions and balances 42 29 Investment in equity-accounted investee 124
+3.6 Interest income and interest expense 42 30 Investment in subsidiaries 125
+3.7 Fees and commission income and expenses 42 31 Property and equipment 128
+3.8 Net trading and foreign exchange income 42 32 Intangible assets 131
+3.9 Dividend income 42 33 Deferred tax assets and liabilities 133
+3.10 Income tax 42 34 Derivative financial instruments 134
+3.11 Cash and bank balances 43 35 Non current assets held for sale 135
+3.12 Financial assets at fair value through profit or loss 43 36 Deposits from banks 136
+3.14 Property and equipment 43 38 Other liabilities 136
+3.15 Intangible assets 44 39 Borrowings 137
+3.16 Impairment of non-financial assets 45 40 Statement of cash flow reconciliation 139
+3.17 Non Current Assets Held for Sale 45 41 Capital and reserves 141
+3.28 IFRS 15: Revenue from contracts with customers 47 52 Condensed results of consolidated subsidiaries 149
+Profit before tax 7 57,680 200,876 6 73,011 1 41,316
+Income tax expense ( 149,984) ( 30,599) (86,385) (7,621)
+Profit after tax 6 07,696 170,277 5 86,626 1 33,695
+Profit Attributable to:
+Equity holders of the Bank 5 98,285 165,451 5 86,626 1 33,695
+withholding tax at an appropriate rate.
+CompaniesOrdinance[Cap37]1922.IttookovertheassetsandliabilitiesoftheBritishandFrenchBankLimited,which
+8 Substantial interest in shares: shareholding of 5% and above
+9 Trading in the shares of UBA
+UBAexperienced robust trading activityin2023,with9.63 billion shares exchanged,representing 28.2%oftheshares
+10 Acquisition of own shares
+The Bank did not purchase its own shares during the year. Also, the Group has a Board approved Global Personal
+relatedindividuals/companiesfrominsiderdealingsonthesharesofUBAPlcandrelatedparties.Theessenceofthe
+affectedpersons/corporatesarerestrictedfromtradingonthesharesoftheBank.Therewasnocaseofviolationwithin
+Group as at 31 December, 2023 and the profit and other comprehensive income for the year ended at that date.
+regardless of their equity interest or social status.
+the Assets and Liabilities Committee (ALCO), the Risk Management Committee (RMC), the Procurement Committee (PC), the IT & Cybersecurity Steering
+Committee (ITCSC), and the Criticized Assets Committee (CAC).
+This is part of gross salary package for Executive
+This is part of gross salary package for Executive
+people, profit and planet. • Ugochukwu Nwaghodoh
+financialstatementswhichgive atrueandfairviewofthestate ofaffairs oftheBankand oftheprofitorlossand
+other comprehensive income for the year ended 31 December, 2023 and in so doing they ensure that:
+(vi)Internalcontrolproceduresareinstitutedwhichasfarasreasonablypossible,safeguardtheassetsoftheBank
+reflect the transactions and dispositions of the assets of the company;
+acquisition, use, or disposition of the company's assets that could have a material effect on
+separate statements of profit or loss and other comprehensive income, the consolidated and
+separate statements of changes in equity and the consolidated and separate statements of cash flows
+The gross balance of loans and advances to (cid:127) We selected material loans and checked
+income
+which have been prepared in line with IAS 29. IAS assets and liabilities are correctly identified
+statements of comprehensive income are in agreement with the books of account; and
+Consolidated and Separate Statements of Comprehensive Income
+Interest income 10 1,075,347 557,152 577,380 344,490
+Interest income on amortised cost and FVOCI securities 1,073,246 556,737 576,409 344,075
+Interest income on FVTPL securities 2,101 415 971 415
+Net interest income 707,540 379,489 326,588 217,305
+Net impairment (charges)/write back on other financial assets ( 63,152) ( 22,297) (16,248) (4,896)
+Net interest income after impairment on financial instruments 500,339 337,521 189,212 206,740
+Fees and commission income 13 307,313 210,522 124,346 113,939
+Net fee and commission income 189,059 127,945 56,329 59,312
+Other operating income 16 33,469 13,040 161,933 52,933
+Share of profit of equity-accounted investee 29 - 311 - -
+Profit before income tax 757,680 200,876 673,011 141,316
+Income tax expense 21 (149,984) (30,599) (86,385) (7,621)
+Profit for the year 607,696 170,277 586,626 133,695
+Other comprehensive income/(loss)
+Items that will be reclassified to Profit or loss:
+value through other comprehensive income (FVOCI):
+Tax relating to net change in fair value for the year 20 4,638 2,847 4,689 2,514
+Net amount transferred to profit or loss (1,006) (1,299) (1,006) (1,300)
+Items that will not be reclassified to Profit or loss:
+Fair value changes on equity investments designated at
+Tax relating to net change in fair value on equity investments (16,280) (740) (16,280) (671)
+Other comprehensive profit/(loss) for the year, net of tax 470,332 (19,787) 110,945 (15,905)
+Total comprehensive income for the year 1,078,028 150,490 697,571 117,790
+Profit for the year attributable to:
+Profit for the year 607,696 170,277 586,626 133,695
+Total comprehensive income attributable to:
+Total comprehensive income for the year 1,078,028 150,490 697,571 117,790
+ASSETS
+Financial assets at fair value through profit or loss 23 33,849 14,963 534 14,963
+Assets under management 24 14,026 12,923 14,026 12,923
+Derivative assets 34(a) 498,824 39,830 498,824 39,830
+- At fair value through other comprehensive income 27 3,093,037 2,177,746 2,710,346 2,056,181
+Other assets 28 758,683 270,211 607,251 172,042
+Intangible assets 32 43,855 33,468 10,763 12,618
+Deferred tax assets 33 9,741 23,603 - 21,862
+Non-Current Assets Held for Sale 35 - 95,593 - 95,593
+TOTAL ASSETS 20,653,197 10,857,571 12,877,773 7,361,044
+LIABILITIES
+Derivative liabilities 34(b) 1,885 79 1,885 79
+Other liabilities 38 313,181 383,283 358,654 326,689
+Current income tax payable 21 42,671 20,281 17,781 8,327
+Deferred tax liability 33 50,805 959 49,087 -
+TOTAL LIABILITIES 18,623,002 9,935,467 11,642,890 6,775,852
+EQUITY
+EQUITY ATTRIBUTABLE TO OWNERS OF THE PARENT 1,962,162 887,297 1,234,883 585,192
+TOTAL EQUITY 2,030,195 922,104 1,234,883 585,192
+TOTAL LIABILITIES AND EQUITY 20,653,197 10,857,571 12,877,773 7,361,044
+Consolidated and Separate Statements of Changes in Equity
+(i)Group Attributable to equity holders of the parent
+capital premium reserve reserve reserve reserve reserve earnings Total interests equity
+Profit for the year - - - - - - - 598,285 598,285 9,411 607,696
+Fair value change in equity instruments classified as FVOCI - - - - 146,524 - - - 146,524 - 146,524
+Net amount transferred to profit or loss - - - - (1,006) - - - (1,006) - (1,006)
+Total comprehensive income for the year - - 408,812 - 34,471 77,941 - 598,285 1,119,509 36,461 1,155,970
+Profit for the year - - - - - - - 165,451 165,451 4,826 170,277
+Fair value change in equity instruments classified as FVOCI 6,659 - 6,659 6,659
+Net amount transferred to profit or loss - - - - (1,299) - - - (1,299) - (1,299)
+Total comprehensive income for the year - - (2,576) - (17,837) - - 165,451 145,038 5,452 150,490
+Consolidated and Separate Statements of Changes in Equity
+Profit for the year - - - - - 586,626 586,626
+Fair value change in equity instruments classified as FVOCI - - - 146,524 - - 146,524
+Net amount transferred to profit or loss - - - (1,006) - - (1,006)
+Total comprehensive income for the year - - - 110,945 - 586,626 697,571
+Profit for the year - - - - - 133,695 133,695
+Fair value change in equity instruments classified as FVOCI - - - 6,039 - - 6,039
+Net amount transferred to profit or loss - - - (1,300) - - (1,300)
+Total comprehensive income for the year - - - (15,905) - 133,695 1 17,790
+Profit before income tax 757,680 200,876 673,011 141,316
+Amortisation of intangible assets 19 5 ,422 4,881 4,085 3,765
+Depreciation of right-of-use assets 19 7 ,379 3,620 2,517 1,406
+Impairment charge on other assets 12 36,202 3,086 8,892 1,645
+Dividend income 16 (19,260) (4,042) (159,424) (51,859)
+Write-off of property and equipment & Intangible assets 31/32 1,633 974 1,019 1,415
+Net amount transferred to the profit or loss (1,006) (1,299) (1,006) (1,300)
+Net interest income 10 / 11 (707,540) (379,489) (326,588) (217,305)
+Share of profit of equity-accounted investee 29 - (311) - -
+Changes in operating assets and liabilities
+Change in financial assets at FVTPL 40 (19,162) (1,796) 14,153 (6,908)
+Change in other assets 40 (1,635,543) (67,352) (451,275) 451
+Change in other liabilities and provisions 40 (83,343) 142,239 9,964 186,930
+Income tax paid 20(c) (80,166) (31,733) (5,983) (2,045)
+Purchase of intangible assets 32 (2,782) (3,408) (1,495) (742)
+Proceeds from disposal of intangible assets 231 708 - 106
+overthebusinessofBritishandFrenchBankLimited(BFB).UBAlisteditssharesontheNigerianStockExchange(NSE)in
+- Financial assets measured at fair value through profit or loss.
+- Financial instruments measured at fair value through other comprehensive income.
+affecttheapplicationofpoliciesandreportedamountsofassetsandliabilities,incomesandexpenses.Theestimates
+of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates.
+fair value of the existing equity interest in the acquiree;
+· less the net amount (generally fair value) of the identifiable assets acquired and liabilities assumed.
+When this total is negative, a bargain purchase gain is recognised in profit or loss.
+Non-controlling interests are measured at their proportionate share of the acquiree's identifiable net assets at the
+as equity transactions.
+Costsrelatedtotheacquisition,otherthanthoseassociatedwiththeissueofdebtorequitysecuritiesthattheGroup
+If the business combination is achieved in stages, the acquisition datecarrying value of anypreviously held equity
+measurement are recognised in profit or loss.
+consideration is classified as equity, it is not remeasured and settlement is accounted for within equity. Otherwise,
+subsequent changes to the fair value of the contingent consideration are recognised in profit or loss.
+whencontrolislost,withthechangeincarryingamountrecognisedinprofitorloss.Thefairvalueistheinitialcarrying
+asset. In addition, any amounts previously recognised in other comprehensive income in respect of that entity are
+accounted forasif the group had directlydisposedof the relatedassetsorliabilities.Thismaymean thatamounts
+previously recognised in other comprehensive income are reclassified to profit or loss.
+Intra-groupbalancesandanyunrealisedgainsorlossesorincomesandexpensesarisingfromintra-grouptransactions,
+Transactionswithnon-controllingintereststhatdonotresultinlossofcontrolareaccountedforasequitytransactions.
+net assets of the subsidiary is recorded in equity. Gains or losses on disposals of non-controlling interests are also
+recorded in equity.
+shareholdingofbetween20%and50%ofthevotingrights.Investmentsinassociatesareaccountedforusingtheequity
+method of accounting. Under the equity method, the investment is initially recognised at cost, and the carrying amount
+is increased or decreased to recognise the investor’s share of the profit or loss of the investee after the date of
+the amounts previously recognised in other comprehensive income is reclassified to profit or loss where appropriate.
+The Group’s share of post-acquisition profit or loss is recognised in profit or loss and its share of post-acquisition
+movements in other comprehensive income is recognised in other comprehensive income with a corresponding
+profit/(loss)' of associates in profit or loss.
+Profits and losses resulting from transactions between the Group and its associate are recognised in the Group’s
+Dilution gains and losses arising on investments in associates are recognised in the profit or loss.
+date,monetaryassetsandliabilitiesdenominatedinforeigncurrenciesarereportedusingtheclosingexchangerate.
+transaction, as well as unrealized foreign exchange differences on unsettled foreign currency monetary assets and
+liabilities, are recognized in profit or loss.
+Unrealizedexchangedifferencesonnon-monetaryfinancialassetsareacomponentofthechangeintheirentirefair
+value.Fornon-monetaryfinancialassetsmeasuredatfairvaluethroughprofitorloss,unrealizedexchangedifferences
+arerecognizedinprofitorloss.Fornon-monetaryfinancialassetsmeasuredatfairvaluethroughothercomprehensive
+income, unrealized exchange differences are recorded in other comprehensive income until the asset is sold or
+Theassetsandliabilitiesofforeignoperations,includinggoodwillandfairvalueadjustmentsarisingonacquisition,are
+translated to Nigerian Naira at exchange rates at each reporting date. The income and expenses of foreign operations
+Foreigncurrencydifferencesarerecognisedinothercomprehensiveincome,andpresentedintheforeigncurrency
+translation reserve in equity. However, if the operation is a non-wholly-owned subsidiary, then the relevant
+reserve related to that foreign operation is re-classified to profit or loss as part of the gain or loss on disposal.
+3.6 Interest income and interest expense
+Interest income and expense for all interest bearing financial instruments are calculated by applying the effective
+interestratetothegrosscarryingamountfornon-creditimpairedfinancialassetsandarerecognisedwithin‘interest
+income’ and ‘interestexpense’in the profitorloss.The effective interestrateistheratethatexactlydiscountsthe
+For credit-impaired financial assets subsequent to initial recognition, interest income is calculated by applying the credit-
+3.7 Fees and commissions income and expenses
+Feesandcommissionincomeandexpensesthatareintegraltotheeffectiveinterestrateonafinancialassetorliability
+areincludedinthemeasurementoftheeffectiveinterestrate.Otherfeesandcommissionincome,includingaccount
+3.8 Net trading and foreign exchange income
+Net trading and foreign exchange income comprises gains less losses related to trading assets and liabilities, and
+derivative financial instruments measured at fair value through profit or loss are also included in net trading income.
+3.9 Dividend income
+Dividend income is recognised when the right to receive income is established. Dividends are reflected as a
+componentofotheroperatingincomeandrecognisedgrossoftheassociatedwithholdingtax.Thewithholdingtax
+expense is included as a component of taxation charge for the relevant period.
+3.10 Income tax
+Incometaxexpensecomprisescurrentanddeferredtax.Incometaxexpenseisrecognisedintheprofitorlossexcept
+to the extent that it relates to items recognised directly in equity, in which case it is recognised in equity.
+Currentincometaxliabilityistheexpectedtaxpayableontaxableincomefortheyear,usingtaxratesenactedor
+substantively enacted at the reporting date, and any adjustment to tax payable in respect of previous years.
+Deferredtaxisrecognisedinrespectoftemporarydifferencesbetweenthecarryingamountsofassetsandliabilitiesfor
+financial reporting purposes and the amounts used for taxation purposes. Deferred tax is not recognised for the
+following temporary differences: the initial recognition of goodwill, the initial recognition of assets or liabilities in a
+transactionthatisnotabusinesscombinationandthataffectsneitheraccountingnortaxableprofit,anddifferences
+taxismeasured atthe taxratesthat areexpectedtobeapplied tothe temporarydifferences when theyreverse,
+Deferredincometaxliabilitiesareprovidedontaxabletemporarydifferencesarisingfrominvestmentsinsubsidiaries,
+associates and joint arrangements, except for deferred income tax liability where the timing of the reversal of the
+Deferredincometaxassetsarerecognisedondeductibletemporarydifferencesarisingfrominvestmentsinsubsidiaries,
+future and there is sufficient taxable profit available against which the temporary difference can be utilised.
+Adeferred tax asset is recognised only to the extentthat itis probable that futuretaxable profitswill beavailable
+againstwhichtheassetcanbeutilised.Deferredtaxassetsarereviewedateachreportingdateandarereducedto
+the extent that it is no longer probable that the related tax benefit will be realised.
+Deferredtaxassetsandliabilitiesareoffsetifthereisalegallyenforceablerighttooffsetcurrenttaxliabilitiesagainst
+currenttaxassets,andtheyrelatetotaxesleviedbythesametaxauthorityonthesametaxableentity,orondifferent
+taxentities,buttheyintendtosettlecurrenttaxliabilitiesandassetsonanetbasisortheirtaxassetsandliabilitieswillbe
+3.12 Financial assets at fair value through profit or loss
+ThesearetheassetstheGroupacquiresprincipallyforthepurposeofsellinginthenearterm,orholdsaspartofa
+portfoliothatismanagedtogetherforshort-termprofitorpositiontaking. Theyaremeasuredatfairvaluewithchanges
+in fair value recognised as part of net trading and foreign exchange income in profit or loss.
+includingrecentmarkettransactions,andvaluationtechniques.Derivativesarecarriedasassetswhentheirfairvalue
+arepositiveandasliabilitieswhentheirfairvaluearenegative.Allchangesinfairvaluearerecognizedaspartofnet
+trading and foreign exchange income in profit or loss.
+measuredreliably.Thecostsoftheday-to-dayservicingofpropertyandequipmentarerecognisedinprofitorlossas
+Depreciationisrecognisedinprofitorlossonastraight-linebasisovertheestimatedusefullivesofeachpartofanitem
+economicbenefitsembodiedintheasset.Leasedassetsaredepreciatedovertheshorteroftheleasetermandtheir
+derecognisedorclassifiedasheldforsaleinaccordancewithIFRS5Non-currentAssetsHeldforSaleandDiscontinued
+Workinprogressrepresentscostsincurredonassetsthatarenotavailableforuse.Onbecomingavailableforuse,the
+the netdisposal proceedsand the carryingamountof theasset) isincluded inprofitorlossinthe yearthe assetis
+3.15 Intangible assets
+Goodwill represents the excess of consideration over the Group's interest in net fairvalue of net identifiable assets,
+liabilitiesandcontingentliabilitiesoftheacquiredsubsidiariesatthedateofacquisition.Whentheexcessisnegative,it
+is recognised immediately in profit or loss. Goodwill is measured at cost less accumulated impairment losses.
+cash generating unit with the carrying value of its net assets, including attributable goodwill. Impairment losses on
+Subsequent expenditure on software assets is capitalised only when it increases the future economic benefits
+Amortisationisrecognisedinprofitorlossonastraight-linebasisovertheestimatedusefullifenotexceedingfiveyears,
+3.16 Impairment of non-financial assets
+Inassessingvalueinuse,theestimatedfuturecashflowsarediscountedtotheirpresentvalueusingapre–taxdiscount
+Forassetsexcludinggoodwill,anassessmentismadeateachreportingdateastowhetherthereisanyindicationthat
+noimpairmentlossbeenrecognisedfortheassetinprioryears.Suchreversalisrecognisedinprofitorloss.Impairment
+3.17 Non-Current Assets Held for Sale
+Non-currentassetsclassifiedasheldforsalearemeasuredatthelowerofcarryingamountandfairvaluelesscoststo
+sell. Non-current assets are classified as held for sale if their carrying amount will be recovered through a sale
+sales of such assets.
+Immediatelybeforeclassificationasheldforsaleordistribution,theassetsarere-measured inaccordance withthe
+Group’saccountingpolicies.Thereaftergenerallytheassetsaremeasuredattheloweroftheircarryingamountand
+Repossessedcollateralrepresentsfinancialandnon-financialassetsacquiredbytheGroupinsettlementofoverdue
+loans.Theassets areinitiallyrecognisedatfairvaluewhenacquiredandincludedintherelevantassetsdependingon
+the natureand the Group'sintention in respectof recoveryof theseassets;and aresubsequentlyremeasuredand
+accounted for in accordance with the accounting policies for these categories of assets. In situation property is
+carrying amount and fair value less costs to sell and reported as assets held for sale.
+TheGroupclassifiesnon-currentassetsanddisposalgroupsasheldforsaleiftheircarryingamountswillberecovered
+principally through a sale transaction rather than through continuing use. Non-current assets and disposal groups
+totheaccountingpolicyforconsolidation).Accountingpolicyforassociatesisappliedtorepossessedshareswherethe
+repossessing the pledged shares.
+The Group classifies debt and equity as financial liabilities or equity instruments in accordance with the substance of the
+amortisedcostusingtheeffectiveinterestmethod,exceptwheretheGroupchoosestocarrytheliabilitiesatfairvalue
+through profit or loss.
+Provisionsaredeterminedbydiscountingtheexpectedfuturecashflowsatapre-taxratethatreflectscurrentmarket
+continuingwiththecontract.Beforeaprovisionisestablished,theGrouprecognisesanyimpairmentlossontheassets
+Financial guarantee liabilities are initially recognised at their fair value, which is the premium received, and then
+included within other liabilities.
+furthercontributionsifthefunddoesnotholdsufficientassetstopayallemployeesthebenefitsrelatingtoemployee
+Obligationsforcontributionstodefinedcontributionplansarerecognisedasanexpenseinprofitorlosswhentheyare
+Incrementalcostsdirectlyattributabletotheissueofanequityinstrumentaredeductedfromtheinitialmeasurement
+of the equity instruments.
+(b) Dividend on ordinary shares
+DividendsontheGroup’sordinarysharesarerecognisedinequityintheperiodinwhichtheyarepaidor,ifearlier,
+(c) Treasury shares
+WheretheGrouporanymemberoftheGrouppurchasestheGroup’sshares,theconsiderationpaidisdeductedfrom
+the shareholders’ equity as treasury shares until they are cancelled. Where such shares are subsequently sold or
+reissued, any consideration received is included in shareholders’ equity.
+TheGrouppresentsbasicearningspershare(EPS)foritsordinaryshares.BasicEPSiscalculatedbydividingtheprofitor
+lossattributabletoordinaryshareholdersoftheGroupbytheweightedaveragenumberofordinarysharesoutstanding
+DilutedEPSisdeterminedbyadjustingtheprofitorlossattributabletoordinaryshareholdersandtheweightedaverage
+number of ordinary shares outstanding for the effects of all dilutive potential ordinary shares.
+The Group commonlyactsastrustees in otherfiduciarycapacities thatresultin the holdingorplacingof assetson
+behalfofindividuals,trusts,retirementbenefitplansandotherinstitutions.Theseassetsandincomesarisingthereonare
+excluded from these financial statements, as they are not assets of the Group.
+carrying amount is recognised as an expense in the period in which the related revenue is recognised.
+revenuesandincurexpenses,includingrevenuesandexpensesthatrelatetotransactionswithanyoftheGroup'sother
+3.28 IFRS 15: Revenue from contracts with customers
+IFRS15 -Revenue fromContracts withCustomers definesprinciplesforrecognisingrevenueand isapplicable toall
+contractswithcustomers.However,interestandfeeincomeintegraltofinancialinstrumentsandleaseswillcontinueto
+RevenueunderIFRS15isrecognisedasgoodsandservicesaretransferred,totheextentthatthetransferoranticipates
+regardingthenature,extentandtimingaswellasanyuncertaintyofrevenueandthecorrespondingcashflowswith
+a. Initial recognition, classification and measurement of financial assets
+Regular-waypurchasesand sales of financial assetsarerecognizedon thesettlementdate.Financial assets,which
+include both debt and equity securities are measured at initial recognition at fair value, and are classified and
+subsequently measured at fair value through profit or loss (FVTPL), fair value through other comprehensive income
+TheGrouphasirrevocablyelectedtomeasureequityinstrumentsatFVOCIasnoequityinstrumentisheldfortrading
+TheGroupdeterminesthebusinessmodelsatthelevelthatbestreflectshowportfoliosoffinancialassetsaremanaged
+•Howtheeconomicactivitiesofourbusinessesgeneratebenefits,forexamplethroughtradingrevenue,enhancing
+•Hold-to-Collect(HTC):Theobjectiveofthisbusinessmodelistoholdfinancialassetstocollectcontractualprincipal
+models where assets are held-for-trading or managed on a fair value basis.
+financial asset for a period of time, and a profit margin.
+asdescribedbelow.Interestincome,includingtheamortizationofpremiumsanddiscountsonsecuritiesmeasuredat
+amortisedcostarerecordedininterestincome.Impairmentgainsorlossesrecognizedonamortisedcostsecuritiesare
+betweenthesaleproceedsandtheamortisedcostofthesecurityatthetimeofthesaleisrecordedasafixedincome
+securities income in Net trading and foreign exchange income.
+valueincludedinfairvaluereserveinequity.Impairmentgainsandlossesareincludedinallowanceforcreditlosses
+and foreign exchange income.
+EquitysecuritiescarriedatFVOCIaremeasuredatfairvalue.Unrealizedgainsandlossesarisingfromchangesinfair
+valuearerecordedinfairvaluereserveandnotsubsequentlyreclassifiedtoprofitorlosswhenrealized.Dividendsfrom
+FVOCI equity securities are recognized in other operating income.
+dateandsettlementdatearereflectedinincomeforsecuritiesmeasuredatFVTPL,andchangesinthefairvalueof
+foreign exchange rates on debt securities, which are recorded in net trading and foreign exchange income.
+repurchasing. The fair value option can be used for financial assets if it eliminates or significantly reduces a
+measurementorrecognitioninconsistencythatwouldotherwisearisefrommeasuringassetsorliabilities,orrecognizing
+financialliabilitiesif:(i)theelectioneliminatesanaccountingmismatch;(ii)thefinancialliabilityispartofaportfoliothat
+Financial assets designated as FVTPL are recorded at fair value and any unrealized gains or losses arising due to
+changes in fair value are included in net trading and foreign exchange income.
+Financial assets are reclassified when and only when the business model for managing those assets changes. The
+classificationoffinancialassetspolicyprovidedabove.Loansarecarriedatamortisedcostusingtheeffectiveinterest
+method, which represents the gross carrying amount less allowance for credit losses.
+Interestonloansisrecognizedininterestincomeusingtheeffectiveinterestmethod.Theestimatedfuturecashflows
+Interestincomeovertheexpectedtermofsuchloansusingtheeffectiveinterestmethod.Wherethereisareasonable
+expectationthataloanwillbeoriginated,commitmentandstandbyfeesarealsorecognizedasinterestincomeover
+liabilities and amortised into Other operating income over the commitment or standby period.
+An allowance for credit losses (ACL) is established for all financial assets, except for financial assets classified or
+designated as FVTPL and equity securities, which are not subject to impairment assessment. Assets subject to
+impairmentassessmentincludeloans,overdrafts,debtsecurities,interestreceivableandotherfinancialassets.These
+presentedinprofitorlosswiththecorrespondingentrytoothercomprehensiveincome.ACLonotherfinancialassetsis
+and included in Other Liabilities – Provisions.
+is based on changes in credit risk of financial assets since initial recognition:
+1) Performing financial assets:
+expected to result from defaults occurring over the 12 months following the reporting date. Interest income is
+calculated on the gross carrying amount of these financial assets.
+2) Underperforming financial assets:
+allowanceisrecognizedequaltothecreditlossesexpectedovertheremaininglifetimeoftheasset.Interestincomeis
+calculated on the gross carrying amount of these financial assets.
+3) Impaired financial assets
+onchangesincreditqualitysinceinitialrecognition.Interestrevenueiscalculatedbasedonthecarryingamountof
+the asset, net of the loss allowance, rather than on its gross carrying amount.
+The ACLrepresentsan unbiasedestimateof expectedcreditlosseson ourfinancial assetsasatthe balancesheet
+performed independently at each reporting period. Assets can move in both directions through the stages of the
+applicable are Project Financing, Object Financing, Income Producing Real Estate, Commercial Real Estate and
+m. Credit-impaired financial assets (Stage 3)
+Financial assets are assessed for credit-impairment at each balance sheet date and more frequently when
+betweentheasset’sgrosscarryingamountandthepresentvalueofestimatedfuturecashflowsdiscountedatthe
+instrument’s original effective interest rate. For impaired financial assets with drawn and undrawn components,
+incomebasedonthegrosscarryingamountoftheasset.Rather,interestincomeiscalculatedbyapplyingtheoriginal
+effective interest rate to the amortised cost of the asset, which is the gross carrying amount less the related ACL.
+Followingimpairment,interestincome isrecognizedon the unwindingof the discountfrom the initial recognition of
+The following will be applicable to modified financial assets:
+• The general impairment model does not apply to purchased or originated credit-impaired assets.
+p. Classification and measurement of financial liabilities
+The Group recognizes financial liabilities when it first becomes a party to the contractual rights and obligations in the
+Under IFRS 9, financial liabilities are either classified as financial liabilities at amortised cost or financial liabilities at FVTPL.
+The Group classifies its financial liabilities as measured at amortised cost, except for:
+i.FinancialliabilitiesatFVTPL:thisclassificationisappliedtoderivatives,financial liabilitiesheld fortrading(e.g.short
+positions in the trading booking) and other financial liabilities designated as such at initial recognition. A financial liability
+and for which there is evidence of a recent actual pattern of short-term profit-taking.
+Gains orlossesfrom financial liabilities designatedatfairvalue through profitorlossarepresentedpartiallyinother
+comprehensiveincome(theamountofchangeinthefairvalueofthefinancialliabilitythatisattributabletochanges
+conditionsthatgiverisetomarketrisk)andpartiallyprofitorloss(theremainingamountofchangeinthefairvalueof
+gains and losses attributable to changes in the Group’s credit risk are also presented in profit or loss;
+Financialliabilitiesthatarenotclassifiedatfairvaluethroughprofitorlossaremeasuredatamortisedcostusingthe
+effectiveinterestratemethod.Financialliabilitiesmeasuredatamortisedcostaredepositsfrombanksorcustomers,
+borrowings, and subordinated liabilities.
+substantiallyalltherisksandrewardsofownershipofthefinancialassetsaretransferred,orhasassumedanobligation
+AnyinterestintransferredfinancialassetsthatiscreatedorretainedbytheGroupisrecognisedasaseparateassetor
+The Group may enter into transactions whereby it transfers assets , but retains either all risks and rewards of the
+transferredassetsoraportionofthem.Ifallorsubstantiallyallrisksandrewardsareretained,thenthetransferredassets
+Therightsandobligationsretainedinthetransferarerecognisedseparatelyasassetsandliabilitiesasappropriate.In
+The Group adopts a single measurement approach and recognizes right to use of assets and lease liability at
+Right-of-useassetsaremeasuredatcost,lessanyaccumulateddepreciationandimpairmentlosses,andadjustedfor
+anyremeasurementofleaseliabilities.Thecostofright-of-useassetsincludestheamountofleaseliabilitiesrecognised,
+received. Right-of-use assets are depreciated on a straight-line basis over the shorter of the lease term and the
+estimated useful lives of the assets.
+Atthecommencementdateofthelease,theGrouprecognisesleaseliabilitiesmeasuredatthepresentvalueoflease
+commencementdate,theamountofleaseliabilitiesisincreasedtoreflecttheaccretionofinterestandreducedfor
+theleasepaymentsmade.Inaddition,thecarryingamountofleaseliabilitiesisremeasuredifthereisamodification,a
+Whenassetsareleasedtoathirdpartyunderfinanceleaseterms,thepresentvalueoftheleaseincomeisrecognised
+asareceivable.Thedifferencebetweenthegrossreceivableandthepresentvalueofthereceivableisrecognisedas
+unearnedfinanceincome.Leaseincomeisrecognisedoverthetermoftheleaseusingthenetinvestmentmethod
+(before tax), which reflects a constant periodic rate of return.
+(a)thegeneralpopulationpreferstokeepitswealthinnon-monetaryassetsorinarelativelystableforeigncurrency.
+The carryingamounts of non-monetaryassetsandliabilitiesareadjusted toreflectthechange inthe generalprice
+gains and losses are recognised [in other comprehensive income/directly in equity].
+Gains or losses on the net monetary position are recognised in profit or loss. All items recognised in the income
+statementarerestatedbyapplyingthechangeinthegeneralpriceindexfromthedateswhentheitemsofincome
+Atthebeginningofthefirstperiodofapplication,thecomponentsofequity,exceptretainedearnings,arerestatedby
+restatements are recognised directly in equity as an adjustment to opening retained earnings. Restated retained
+and in subsequent periods, all components of equity are restated by applying a general price index from the beginning
+equity/directly in equity].
+and transparency about an insurer's financial health and the profitablity of new and in-force insurance business.
+d) Deferred tax related to assets and liabilities arising from a single transaction Amendments to IAS 12
+The amendments clarify that where payments that settle a liability are deductible for tax purposes, it is a matter of
+judgement (having considered the applicable tax law) whether such deductions are attributable for tax purposes to
+rise to equal taxable and deductible temporary differences. It only applies if the recognition of a lease asset and lease
+liability (or decommissioning liability and decommissioning asset component) give rise to taxable and deductible
+e) International Tax Reform Pillar Two Model RulesA mendments to IAS 12
+The amendments clarify that IAS 12 applies to income taxes arising from tax law enacted or substantively enacted to
+(OECD), including tax law that implements qualified domestic minimum top up taxes. Such tax legislation, and the
+income taxes arising from it, are referred to as ‘Pillar Two legislation’ and ‘Pillar Two income taxes,’ respectively.
+information about deferred tax assets and liabilities related to Pillar Two income taxes.
+a) Sale or Contribution of Assets between an Investor and its Associate or Joint Venture - IFRS 10 and IAS 28
+(b) Non-current Liabilities with Covenants - IAS 1 Presentation of Financial Statements
+liabilities and cash flows, including terms and conditions of those arrangements, quantitative information on liabilities
+e) Classification of Liabilities as Current or Non-current and Non-current Liabilities with Covenants - Amendments to IAS 1
+classifies debt and other financial liabilities as either current or noncurrent, depending on the rights that exist at the end
+The amendments could affect the classification of liabilities, particularly for entities that previously considered
+management's intentions to determine classification and for some liabilities that can be converted into equity.
+2. ensure sustainable profitability and enterprise value protection by maintaining growth within appropriate risk-control
+· Set pricing strategies for the Group on assets and liabilities (pool rate, asset and/or liability composition)
+(iv)Criticized Assets Committee
+The Criticized Assets Committee is a management committee which reviews Past Due Obligations (PDOs) and
+· Develops the framework to reduce the Group’s portfolio of risk assets on watch-list as well as delinquent accounts
+(k)Periodic review of the Risk Assets Portfolio and Limits in line with internal and regulatory benchmarks.
+the standard.The Bank has developed and maintains robustbusinesscontinuityplan thatprotectstaff,itsassets, and the
+resolution, sanction implementation and management attention. The group takes proactive steps to ensure follow up on
+thisisreflectedinthemanagementofsuchportfolio.Thedefaultalsoleadstopreventionoffurtherdrawdownwhilestepsare
+andadvancestocustomers,loansandadvancestobanks,financialassetsheldfortradingandinvestmentsecurities.External
+five steps.
+Steps Activities
+riskisrepresentedbythenetcarryingamountsofthefinancialassetswiththeexceptionoffinancialandotherguaranteesissuedby
+Credit risk exposures relating to on-balance sheet assets are as follows:
+Financial assets at fair value through profit or loss
+Derivative assets 498,824 39,830 498,824 39,830
+Assets under management 14,026 12,923 14,026 12,923
+income:
+Other assets 720,311 236,031 589,128 145,950
+Non-Current Assets Held for Sale - 82,217 - 82,217
+Other financial assets exposure to total exposure 36% 27% 50% 35%
+Credit risk exposures relating to off-balance sheet assets are as
+Financial assets
+Assets under management 14,026 - - 14,026 14,026 - - 14,026
+Financial assets at FVTPL:
+Derivative assets 498,824 - - 498,824 498,824 - - 498,824
+Other assets 144,167 576,144 - 720,311 561,493 27,635 - 589,128
+Total financial assets 9,279,392 8,041,955 2,511,245 19,832,591 9,697,270 38,652 2,425,702 12,167,897
+Financial assets
+Assets under management 12,923 - - 12,923 12,923 - - 12,923
+Financial assets at FVTPL: - -
+Derivative assets 39,830 - - 39,830 39,830 - - 39,830
+Other assets 119,547 116,484 - 236,031 119,547 26,403 - 145,950
+Non-Current Assets Held for Sale 82,217 - - 82,217 82,217 - - 82,217
+Total financial assets 6,012,584 3,273,658 997,810 10,284,053 5,802,580 37,420 965,545 6,805,545
+Assets under management - - - 14,026 - - - - - - - - 14,026
+Financial assets at FVTPL:
+Derivative assets - - - 498,824 - - - - - - - - 498,824
+Other assets - - - 576,144 144,167 - - - - - - - 720,311
+Total financial assets 217,604 488,925 11,705 7,648,156 776,147 595,731 7,645,403 380,542 662,403 1,081,942 258,340 65,693 19,832,591
+Financial assets
+Assets under management - - - 14,026 - - - - - - - - 14,026
+Financial assets at FVTPL:
+Derivative assets - - - 498,824 - - - - - - - - 498,824
+Other assets - - - 27,635 561,493 - - - - - - - 589,128
+Total financial assets 39,404 251,986 3,697 6,078,696 885,371 443,800 2,819,430 270,441 495,769 686,587 185,393 7,323 12,167,897
+Assets under management - - - 12,923 - - - - - - - - 12,923
+Financial assets at FVTPL:
+Derivative assets - - - 39,830 - - - - - - - - 39,830
+Other assets - - - 100,977 135,054 - - - - - - - 236,031
+Non-Current Assets Held for Sale - - - - - - - - - - 82,217 - 82,217
+Total financial assets 85,766 154,686 11,769 3,056,130 795,946 337,990 4,433,319 172,355 468,587 511,347 237,298 18,859 10,284,053
+Financial assets
+Assets under management - - - 12,923 - - - - - - - - 12,923
+Financial assets at FVTPL:
+Derivative assets - - - 39,830 - - - - - - - - 39,830
+Other assets - - - 26,403 119,547 - - - - - - - 145,950
+Non-Current Assets Held for Sale - - - - - - - - - - 82,217 - 82,217
+Total financial assets 67,746 109,730 8,375 2,597,820 705,562 275,933 2,286,898 132,576 229,817 140,226 222,843 28,021 6,805,545
+TheGroupmanagesthecreditqualityofitsfinancialassetsusinginternalcreditratings.ItistheGroup’spolicytomaintainaccurateandconsistentrisk
+(December 2022 : N77.03 billion). There are no other financial assets with renegotiated terms as at 31 December 2023 (December 2022: nil).
+TheGrouprecordsanallowanceforexpectedlossesforallloansandotherdebtfinancialassetsnotheldatFVPL,togetherwithloancommitmentsand
+(i)The table below shows the credit quality by class of asset for all financial assets exposed to credit risk.
+Assets under management 14,026 14,026 14,026 14,026
+Financial assets at FVTPL:
+Derivative assets 498,824 - - 498,824 498,824 - - 498,824
+Other assets 720,311 - 28,945 749,256 589,128 - 22,733 611,861
+Gross financial assets 18,651,555 824,993 694,937 20,171,485 11,621,703 540,944 168,025 12,330,672
+Allowance for impairment on financial assets is as follows:
+Other assets 28,945 - - 28,945 22,733 - - 22,733
+financial assets 242,476 17,226 79,192 338,894 120,346 14,317 28,113 162,776
+Assets under management 12,923 12,923 12,923 12,923
+Financial assets at FVTPL:
+Derivative assets 39,830 - - 39,830 39,830 - - 39,830
+Non-Current Assets Held for Sale 82,217 - - 82,217 82,217 82,217
+Other assets 220,524 - 14,213 234,737 145,950 - 11,878 157,828
+Gross financial assets 9,588,788 499,064 314,791 10,402,644 6,326,480 444,455 103,375 6,874,311
+Allowance for impairment on financial assets is as follows:
+Other assets 1 4,213 - - 14,213 3 80 - 1 1,498 11,878
+financial assets 82,884 11,757 23,951 118,591 34,152 3,847 30,766 68,766
+(ii)The internal credit rating of financial assets that are classified as Stage 1 at the reporting date is as follows:
+Very Acceptable Moderately Gross for credit Carrying
+Assets under management - 14,026 - - - 14,026 - 14,026
+Financial assets at FVTPL:
+Derivative assets 498,824 - - - - 498,824 - 498,824
+Other assets - - - - 749,256 749,256 (28,945) 720,311
+(ii)The internal credit rating of financial assets that are classified as Stage 1 at the reporting date is as follows:
+Very Acceptable Moderately Gross for credit Carrying
+Assets under management - 12,923 - - - 12,923 - 12,923
+Financial assets at FVTPL: -
+Derivative assets 39,830 - - - - 39,830 - 39,830
+Other assets - - - - 220,524 234,737 (14,213) 220,524
+Very Acceptable Moderately Gross for credit Carrying
+Assets under management - 14,026 - - - 14,026 - 14,026
+Financial assets at FVTPL: -
+Derivative assets 498,824 - - - - 498,824 - 498,824
+Other assets - - - - 611,861 611,861 (22,733) 589,128
+Very Acceptable Moderately Gross for credit Carrying
+Assets under management - 12,923 - - - 12,923 - 12,923
+Financial assets at FVTPL: -
+Derivative assets 39,830 - - - - 39,830 - 39,830
+Non-Current Assets Held for Sale 82,217 82,217 82,217
+Other assets - - - - 1 57,828 157,828 ( 11,878) 145,950
+ProvisionsforloansrecognizedintheprofitandlossaccountshouldbedeterminedbasedontherequirementsofIFRS.However,theIFRSprovisionshouldbe
+•PrudentialProvisionsislessthanIFRSprovisions;IFRSdeterminedprovisionischargedtothestatementofcomprehensiveincome.Thecumulativebalance
+statementofchangesinequity.Theseamountsrepresentthedifferencebetweenprovisionsforcreditandotherknownlossesasdeterminedunderthe
+registeredsecuritiesoverassets,andguarantees.Estimatesoffairvaluearebasedonthevalueofcollateralassessedatthetime
+3. Stock and shares
+Stocks and shares of reputable quoted companies are acceptable collateral securities. Unquoted shares are usually not
+The Bank accepts to take a charge on both current and non-current assets of a borrower by a debenture which is a written
+charge on the company’s assets, both present and future.
+guaranteeoftheFederalandStateGovernments.Otherguaranteesmusthoweverbesupportedbytangibleassetsforthemto
+Other financial assets comprising cash and bank balances (including balances with central banks), financial assets held for
+ThereposessedcollateralintheGroup'sbookshavebeenrecognizedasassetsclassifiedasheldforsaleinlinewithIFRS5.See
+note 34. These assets were held as collateral against certain loans and have been used in offsetting the affected customers'
+theriskofbeingunabletofundassetsatappropriatematuritiesandratesandtheriskofbeingunabletoliquidateanassetatareasonablepriceandin
+apolicyofmanagingassetswithliquidityinmindandmonitoringfuturecashflowsandliquidityonadailybasis.TheGroupremainswellfundedwith
+riskthatthegroupwillbeunabletosellassetswithoutincurringanunacceptableloss,inordertogeneratecashrequiredtomeetpaymentobligations
+expectedmaturitydate.Tomitigatetheseuncertainties,ourfunding baseis diverseandlargelycustomer-driven,whilecustomer assetsareofshort
+tenor.Inadditionwehavecontingencyfundingplansincludingaportfolioofliquidassetsthatcanberealisedifaliquiditystressoccurs,aswellasready
+(GRMC),theboardhasdelegateditsresponsibilityforthemanagementofliquidityrisktotheGroupAssets&LiabilityCommittee(GALCO).GALCOisthe
+CentralBanksinordertoprotectthirdpartydeposits,andfundinggapanalysisofassetsandliabilities.Thefundinggapanalysis isappliedthroughthe
+ThekeymeasureusedbytheGroupformanagingliquidityriskistheratioofnetliquidassetstodepositsfromcustomers.Forthispurpose,netliquidassets
+prescribedbytheCentralBankofNigeria.DetailsoftheBank'sratioofnetliquidassetstodepositsandcustomersatthereportingdateandduringthe
+(c) Analysis of financial assets and liabilities by remaining contractual maturities
+ThetablesbelowshowtheundiscountedcashflowontheGroup'sfinancialliabilitiesandonthebasisoftheearliestpossiblecontractualmaturity.The
+Grossnominalinflow/outflowdisclosedinthetableisthecontractual,undiscountedcashflowsonthefinancialliabilitiesorcommitments,exceptfor
+derivatives assets and liabilities which are stated at their fair values.
+TheGroup'sexpectedcashflowsonsomefinancialassetsandfinancialliabilitiesvarysignificantlyfromthecontractualcashflows.Demandandsavings
+Maturity analysis for financial liabilities
+31 December 2023 Gross Less More
+Non-derivative financial liabilities
+Other financial liabilities 301,022 310,882 - 77,969 81,735 105,729 45,449
+Total financial liabilities 18,515,482 18,981,735 5,096,084 5,288,675 2,772,106 1,804,222 4,020,649
+Derivative liabilities:
+Assets used to manage liquidity
+Assets under management 14,026 14,026 - - 11,905 - 2,121
+Financial assets at FVTPL
+Other assets 720,311 749,256 35,279 661,024
+Derivative assets 498,824 1,033,098 - 509,614 523,485 - -
+Total financial assets 20,072,170 20,470,614 3,688,390 4,632,397 2,829,632 3,653,853 5,613,389
+Maturity analysis for financial liabilities
+31 December 2023 Gross Less More
+Non-derivative liabilities
+Other financial liabilities 353,243 352,941 - 75,555 46,827 209,084 21,475
+Total financial liabilities 11,568,726 11,209,367 2,485,347 3,071,512 1,748,423 1,362,578 2,541,507
+Derivative liabilities
+Assets used to manage liquidity
+Assets under management 14,026 14,026 - - 11,905 - 2,121
+Financial assets at FVTPL
+Other assets 589,128 182,824 - 173,102 - 9,722 -
+Total financial assets 12,209,651 12,437,240 4,813,682 1,925,480 1,689,754 2,047,167 1,961,159
+Maturity analysis for financial liabilities (Continued)
+31 December 2022 Gross Less More
+Non-derivative financial liabilities
+Other financial liabilities 375,887 475,740 - 152,551 155,510 50,910 116,769
+Total financial liabilities 9,906,753 10,385,841 6,013,421 1,281,766 1,299,232 724,557 1,066,867
+Derivative liabilities:
+Assets used to manage liquidity
+Assets under management 12,923 12,923 - - - - 12,923
+Financial assets at FVTPL
+Other assets 250,244 234,737 - 226,316 - 8,421 -
+Derivative assets 39,830 39,830 103 2,144 798 7,892 28,893
+Non - Current Assets Held for Sale 82,217 82,217 - - - 82,217 -
+Total financial assets 10,444,871 11,638,230 3,453,505 1,959,016 1,507,617 1,346,730 3,371,364
+Maturity analysis for financial liabilities
+31 December 2022 Gross Less More
+Non-derivative liabilities
+Other financial liabilities 321,136 333,230 - 135,551 - 80,910 116,769
+Total financial liabilities 6,761,893 6,939,724 5,019,074 999,845 388,651 399,725 132,429
+Derivative liabilities
+Assets used to manage liquidity
+Assets under management 12,923 12,923 - - - - 12,923
+Financial assets at FVTPL
+Other assets 145,950 67,178 67,178 - - - -
+Non - Current Assets Held for Sale 82,217 82,217 - - - 82,217 -
+Total financial assets 6,848,922 7,326,097 2,515,431 1,037,991 879,778 909,529 1,983,370
+foreign exchange rates and equity prices. The overall objective of market risk management is to manage and control market risk exposures within
+positionswhilenon-tradingportfolioscomprisepositionsthatprimarilyarisefromtheinterestratemanagementofourretailandcommercialbankingassets
+andliabilitiesaswell asfinancial instrumentsdesignatedasFVOCI andamortised cost.UBAGroupfollows theStandardised Approachformarketrisk
+The universal market risk factors in UBA Group are interest rates, foreign exchange rates and equity prices. The associated market risks are:
+· Equity risk; arising from changes in in the prices of equities, equity indices and equity baskets.
+placeforeachtradingportfolio.UBAGroupsetsvariouslimitsfortotalmarketriskandspecificforeignexchange,interestrate,equityandotherpricerisks.
+StoplossTriggers:Stoplosstriggersareusedtoprotecttheprofitabilityofthetradingdesk.TheyestablishdecisionpointstoconfirmtheGroup'stolerance
+1) Fair value through profit or loss(FVTPL) – valued on fair value accounting methodology and MTM daily.
+2) Fair value through other comprehensive income(FVOCI) – valued on fair value accounting methodology and MTM monthly.
+otherwisecalculatedfromamarketinput.Assetsthatmustbemarked-to-modeleitherdon'thavearegularmarketthatprovidesaccuratepricing,or
+revenues, the changes in accumulated other comprehensive income (loss) from its investment portfolios and capital invested in foreign currencies.
+bookearnings(netinterestincomeandbankingbookMTMprofitorloss)andeconomicvalueofequity.Marketriskinthebankingbookarisesasaresultof
+the mismatch between the future yield on assets and their funding cost and also the different re-pricing characteristics of banking book assets and
+liabilities. UBA Group uses a variety of tools to track and manage this risk. These tools include;
+UBAGroup’sprincipal measureofrisktonetinterestrevenueisinterestrateexposure(IRE).Thisis therisk thatchanges ininterest ratescouldhavea
+andpredictableovertime.TheBankisexposedtointerestrateriskthroughtheinterest-bearingassetsandliabilitiesinitstradingandbanking books.Non-
+certain structural exposures within the Group balance sheet, mainly due to different re-pricing characteristics of banking book assets and liabilities.
+matchbetweenmaturingassetsandmaturingliabilities,andchangesininterestratesmeansthattheNetInterestMargin(NIM)isaffectedonadailybasis
+bymaturingandre-pricingactivities.ThischangeismeasuredthroughcalculationofEarningsatRiskorEaRonaportfoliooverthelifeofitsassetsand
+liabilities.EaRisusuallycalculatedatvariouslevelsofchangetosimulatethelikelychangeinthecourseofnormalbusinessortheexpectedriskwhere
+The management of interest rate risk against interest rate gap limits is supplemented by monitoring the sensitivity of the Group's financial assets and liabilities
+UBAGroup'soperationsaresubjecttotheriskofinterestratefluctuationstotheextentthatinterest-earningassets(includinginvestments)andinterest-
+bearingliabilitiesmatureorre-priceatdifferenttimes orindifferingamounts.Riskmanagementactivitiesareaimedatoptimisingnetinterestincomeand
+Thetablebelowisasummaryofthegroup'sinterestrategappositionatthereportingdate.Allassets,liabilitiesandderivativesinstrumentsareallocatedto
+gapintervalsbasedoneithertheirre-pricingormaturitycharacteristics.TheGroup'sassetsandliabilitiesareincludedatcarryingamountandcategorised
+bytheearlieroftheircontractualre-pricingormaturitydates. Assetsandliabilitiesforwhichnoidentifiablecontractualrepricingormaturitydatesexistare
+Assets under management 14,026 - - 11,905 2,121 - -
+Financial assets at FVTPL
+Equity 287,257 - - - - - 287,257
+Derivative assets 498,824 - - - - - 498,824
+Other assets 720,311 - - - - - 720,311
+Other liabilities 301,022 303 77,969 81,735 95,566 45,449 -
+Assets under management 12,923 - - 10,877 2,046 - -
+Financial assets at FVTPL
+Equity 148,621 - - - - - 148,621
+Derivative assets 39,830 - - - - - 39,830
+Other assets 220,524 - - - - - 220,524
+Non-Current Assets Held for Sale 82,217 - - - - - 82,217
+Other liabilities 375,887 20,077 - - - 128,937 226,873
+Assets under management 14,026 - - 11,905 2,121 - -
+Financial assets at FVTPL
+Equity 278,009 - - - - 278,009 -
+Derivative assets 498,824 - - 498,824 - - -
+Other assets 589,128 52,485 - - - - 536,643
+Other liabilities 353,243 302 - - - - 352,941
+Assets under management 12,923 - - 10,877 2,046 - -
+Financial assets at FVTPL
+Equity 146,992 17,365 - - - - 129,627
+Derivative assets 39,830 28,893 - - - - 10,937
+Other assets 145,950 79,497 - - - - 66,453
+Non-Current Assets Held for Sale 82,217 - - - - - 8 2,217
+Other liabilities 321,136 168,816 152,320
+onprofitorloss.Thesensitivityanalysisisbasedonaconservativeassumptionof50basispointchangeontheinstrumentwithothervariablesremaining
+Impact on profit or loss:
+The Group is exposed to the impact of price changes on its financial assets measured at FVTPL, FVTOCI and its equity instruments.
+Thetablebelowshowstheimpactofpricechanges(increase/decrease)ontheGroup'sfinancialassetsmeasuredatfairvalueandtheeffectonprofit&
+Impact on profit or loss:
+Derivative assets 498,824 39,830 498,824 39,830
+Impact on profit or loss:
+Derivative liabilities 1,885 79 1,885 79
+Impact on profit or loss:
+comprehensiveincome.Fordebtsecuritieswhicharecategorisedunderlevel1inthefairvaluehierarchy,a2%changeinpriceshasbeenassumed with
+Impact on other comprehensive income:
+Equity price risk
+Equitypriceriskistheriskthatthefairvalueofequitiesdecreasesasaresultofchangesinthelevelofequityindicesandindividualstocks.Thenon-trading
+equity price risk exposure arises from equity securities classified as FVOCI. The sensitivity analysis on the Group's total equity position is shown below.
+Sensitivityanalysisforlevel1equitysecuritiesisbasedonaveragemovementinsharepriceindexforquotedsharesduringtheyear.Pricesensitivityanalysis
+thatweredoneasatthereportingdate. Forunquotedequitysecuritiescategorisedunderlevel3inthefairvaluehierachy,5%increases/decreaseswere
+assumed for the significant unobservable inputs (cost of equity and terminal growth rates).
+Total Equity Positions
+Impact on Other comprehensive income:
+operations' results into Naira. The impact on equity as a result of structural foreign exchange risk is recognised in the foreign currency
+Group'sprofitbeforetaxandequitytochangesinexchangerates.Theanalysiscalculatestheeffectofreasonablypossiblemovementofthe
+foreign exchange ratesagainstthe Nigerian Naira (all other variablesbeing constant)on the income statementdue tochanges tothe
+carryingamountsoftheGroup'sforeigncurrencysensitivefinancialassetsandliabilities.Anegativeamountinthetablereflectsapotential
+netreductionintheincomestatementorequity,whileapositiveamountreflectsanetpotentialincrease.Anequivalentdecreaseineachof
+foreignoperationsarenottakenintoaccounteventhoughtheymayhaveanimpactonequity.Thisisbecauseforeigncurrencyriskcanonly
+Financial assets at FVTPL 534 - - - 33,315 33,849
+Derivative assets 498,824 - - - - 498,824
+Other assets 243,877 35,192 40,864 17,104 416,408 749,256
+Total financial assets 7,543,251 4,999,247 685,252 35,267 7,350,596 20,226,113
+Other liabilities 77,929 38,434 153,245 3,839 - 301,022
+Total financial liabilities 6,710,004 5,290,280 589,969 35,009 6,375,129 18,517,367
+Effect of naira depreciation by 10% on profit before tax 74,207 9,528 26 - 83,761
+Effect of naira appreciation by 10% on profit before tax (74,207) (9,528) (26) - (83,761)
+Financial assets at FVTPL 14,963 - - - - 14,963
+Derivative assets 39,830 - - - - 39,830
+Other assets 27,956 122,003 7,234 16 77,527 234,737
+Total financial assets 4,509,654 2,614,575 251,028 5,116 3,083,604 10,463,978
+Other liabilities 210,711 25,399 51,950 - 87,829 375,889
+Total financial liabilities 3,843,285 2,823,523 246,611 12,691 2,980,722 9,906,832
+Effect of naira depreciation by 10% on profit before tax 36,743 442 (758) - 36,427
+Effect of naira appreciation by 10% on profit before tax (36,743) (442) 758 - (36,427)
+Financial assets at FVTPL 534 - - - - 534
+Derivative assets 498,824 - - - - 498,824
+Other assets 243,877 353,390 1,052 2,048 74 600,440
+Total financial assets 7,543,251 4,545,630 377,627 12,129 10,514 12,489,151
+Other liabilities 77,929 38,434 223,802 - 13,078 353,243
+Total financial liabilities 6,710,004 4,466,576 355,306 25,645 13,079 11,570,611
+Effect of naira depreciation by 15% on profit before tax 166,823 3,348 (2,027) (385) 167,759
+Effect of naira appreciation by 15% on profit before tax ( 166,823) (3,348) 2,027 3 85 ( 167,759)
+Financial assets held for trading 14,963 - - - - 14,963
+Derivative assets 39,830 - - - - 39,830
+Other assets 27,956 109,287 2,923 7,401 2,837 150,404
+Total financial assets 4,509,654 2,242,905 129,955 11,692 7,877 6,902,083
+Other liabilities 210,711 27,528 7 4,831 189 7 ,877 321,136
+Total financial liabilities 3,843,286 2,752,966 145,644 12,197 7,877 6,761,970
+Effect of naira depreciation by 15% on profit before tax 9,947 (2,353) (76) - 7,518
+Effect of naira appreciation by 15% on profit before tax ( 9,947) 2 ,353 76 - (7,518)
+assets. Total regulatory capital and risk weighted assets are calculated as shown in the table below.
+The Central Bank of Nigeria requires the Bank to maintain a prescribed ratio of total capital to total risk-weighted assets.
+goodwillandintangibleassets,andotherregulatoryadjustmentsrelatingtoitemsthatareincludedinequitybutaretreateddifferentlyforcapital
+Tier2capitalincludesqualifyingsubordinatedliabilitiesandtheelementofthefairvaluereserverelatingtounrealisedgainsonfinancialinstruments
+making deductions of goodwill, deferred tax asset and other intangible assets but before deductions of investments.
+Banking operations are categorised mainly as trading book or banking book, and risk-weighted assets are determined according to specified
+requirements that seek to reflect the varying levels of risk attached to assets and off-balance sheet exposures.
+CommonEquityTierI(CET1)capitalratio,11.25percentasTierIcapitalratio,15percentasTotalCapitalAdequacyRatio,additional1percenteach
+Gross Tier 1 capital 1,360,469 780,779 868,274 439,610
+Deferred tax on accumulated losses 3 3 - 13,296 - 2,797
+Intangible assets 43,855 33,468 10,763 12,618
+Composition of risk-weighted assets:
+Total Risk-weighted assets 5,425,441 2,779,880 3,074,259 1,690,930
+The fair values of financial assets and financial liabilities that are traded in active markets are based on quoted market prices or dealer price
+regularlyoccurringmarkettransactionsonanarm’slengthbasis.ThequotedmarketpriceusedforfinancialassetsheldbytheGroupisthecurrent
+bidprice.TheseinstrumentsareincludedinLevel1.InstrumentsincludedinLevel1compriseprimarilyquotedequityanddebtinvestmentsclassified
+includerisk-freeandbenchmarkinterestrates,creditspreadsandotherpremiausedinestimatingdiscountrate,bondandequityprices,foreign
+currency exchange rates, equity and equity index prices and expected price volatilities and correlations.
+model inputs areusually available inthe marketfor listeddebtandequity securities,exchange-traded derivatives and simpleover-the-counter
+IftheGroupmeasuresportfoliosoffinancialassetsandfinancialliabilitiesonthebasisofnetexposurestomarketrisks,thenitappliesjudgmentin
+Assets Note Level 1 Level 2 Level 3 Total
+Financial assets at FVTPL 23
+Derivative assets measured at fair value
+through profit and loss:
+Equity investments 4,945 - 282,312 287,257
+Total assets 4,945 3,338,451 282,312 3,625,708
+Liabilities
+Financial liabilities at fair value through profit
+Assets Note Level 1 Level 2 Level 3 Total
+Financial assets at FVTPL 23
+Derivative assets measured at fair value 33(a) - 498,824 - 498,824
+through profit and loss:
+Equity investments 4,945 - 273,064 278,009
+Liabilities
+Financial liabilities at fair value through profit
+Assets Note Level 1 Level 2 Level 3 Total
+Financial assets held for trading 23
+Derivative assets measured at fair value 33(a) - 39,830 - 39,830
+through profit and loss:
+Equity investments 3,447 - 145,174 148,621
+Total assets 3,447 2,099,425 145,174 2,248,046
+Liabilities
+Financial liabilities
+Assets Note Level 1 Level 2 Level 3 Total
+Financial assets held for trading 23
+Derivative assets measured at fair value 33(a) - 39,830 - 39,830
+through profit and loss:
+Equity investments 3,447 - 143,545 146,992
+Liabilities
+Financial liabilities
+Gain/(loss) recognised in other comprehensive income (under fair value gain 146,524 6,660 146,524 6,039
+ThefairvalueoftheGroup'sequityinvestmentinCSCSLimitedwaspreviouslycategorisedaslevel3inthefairvaluehierarchy.This
+wasbecausetheshareswerenotlistedonanexchangeandtherewerenorecentobservablearm'slengthtransactionsintheshares.
+Cost of equity r 2023)
+costofequity,inisolation,
+Income higher fair values
+Unquoted equity
+• Equity risk premium was determined using market returns obtained from Damodaran Online.
+• Equity risk premium were obtained from Damodaran Online (with specific focus on emerging markets data), adjusted for size
+leadtodifferentmeasurementsoffairvalue.ForfairvaluemeasurementsinLevel3,changingthecostofequityorterminalgrowth
+rate by a reasonable possible value, in isolation, would have the following effects on other comprehensive income for the year:
+Key Assumption Effect on other comprehensive income (OCI)
+Cost of Equity (15,834) 17,663 (5,530) 6,139
+Assets
+Assets under management 14,026 14,026 14,026
+Other assets - 720,311 720,311 720,311
+Liabilities
+Other liabilities - - 301,022 301,022 301,022
+Assets
+Assets under management 12,923 12,923 12,923
+Other assets - 236,031 220,524 236,031
+Liabilities
+Other liabilities - - 375,887 375,887 375,887
+Assets
+Assets under management 14,026 14,026 14,026
+Other assets - 589,128 589,128 589,128
+Liabilities
+Other liabilities - - 353,243 353,243 353,243
+Assets
+Assets under management 12,923 12,923 12,923
+Other assets - 161,457 145,950 161,457
+Liabilities
+Other liabilities - - 321,135 321,136 321,135
+iv) Other assets
+The bulk of these financial assets have short (less than 3months) maturities and their amounts are a reasonable approximation of fair value.
+vi) Other liabilities
+The carrying amount of financial liabilities in other liabilities is a reasonable approximation of fair value.
+FinancialassetsandliabilitiesareoffsetandthenetamountreportedinthestatementoffinancialpositionwheretheGroupcurrentlyhasalegally
+In millions of Nigerian Naira Gross
+Gross amounts amounts
+Financial assets
+Financial liabilities
+In millions of Nigerian Naira Gross
+Gross amounts amounts
+Financial assets
+Financial liabilities -
+In millions of Nigerian Naira Gross
+Gross amounts amounts
+Financial assets
+Financial liabilities
+In millions of Nigerian Naira Gross
+Gross amounts amounts
+Financial assets
+Financial liabilities -
+affect the reported amount of revenues, expenses, assets and liabilities, and the accompanying disclosures, as well as the
+disclosure of contingent liabilities.
+amountofassetsorliabilitiesaffectedinfutureperiods.IntheprocessofapplyingtheGroup’saccountingpolicies,management
+reportingdate,thathaveasignificantriskofcausingamaterialadjustmenttothecarryingamountsofassetsandliabilities.Existing
+Themeasurementoftheexpectedcreditloss(ECL)allowanceforfinancialassetsmeasuredatamortisedcostandFVOCI isan
+- Establishing groups of financial assets for the purposes of measuring ECL.
+Thedeterminationoffairvalueforfinancialassetsandliabilitiesforwhichthereisnoobservablemarketpricerequirestheuseof
+(iii) Deferred tax assets
+Deferredtaxassetsarerecognisedfordeductibletemporarydifferences,unusedtaxlossesandunusedtaxcreditstotheextent
+thatitisprobablethattaxableprofitwillbeavailableagainstwhichthelossescanbeutilised.Managementjudgementisrequired
+todeterminetheamountofdeferredtaxassetsthatcanberecognised,basedonthelikelytimingandleveloffuturetaxable
+profits,togetherwithfuturetaxplanningstrategies. Indeterminingthetimingandleveloffuturetaxableprofitstogetherwithfuture
+taxplanningstrategies,theGroupassessedtheprobabilityofexpectedfuturetaxableprofitsbasedonexpectedrevenuesforthe
+next five years. Details of the Group's recognised and unrecognised deferred tax assets and liabilities are as disclosed in note 32.
+Derivative assets (375) 375 49,284 (49,284)
+Derivative liabilities 20 (20) (80) 80
+(i) Fair value of equity instruments
+offinancialassetsandfinancialliabilitiesrecordedinthestatementoffinancialpositioncannotbederivedfromactivemarkets,
+(v) Determination of incremental borrowing rate used for discounting lease liabilities
+results of operations and non-monetary assets and liabilities and of the Group.
+relevance. Changes in any such estimates may significantly impact the carrying value of those non-monetary assets or liabilities,
+which is expected to materially contribute to group revenue in the future. The entities within this reporting segment have been
+UnallocatedSegment –Thiscomprisesassetsthatareheldsolelyforthepurposeofdisposal.TheyarenotutilizedfortheGroup'sdayto
+No single external customer or group amounts to 10% or more of the Group's revenues.
+TherevenuefromexternalpartiesreportedtotheChiefOperatingDecisionMaker ismeasuredinamannerconsistentwiththatinthe
+income statement.
+Inter-segment transactions, balances, income and expenses on transactions between group companies are eliminated. Profits and
+losses resulting from inter-segment transactions that are recognised in assets are also eliminated. Transfer prices between operating
+Total revenue1 1,354,942 767,482 161,197 (208,235) 2,075,386
+Impairment loss recognised in income statement (139,648) (79,993) (3,450) - (207,201)
+Profit before tax 592,415 243,772 101,876 (195,979) 757,680
+Income tax expenses (88,815) (58,469) (2,701) - (149,984)
+Profit for the period 503,600 185,304 99,176 (195,979) 607,696
+Total segment assets2 11,450,259 8,640,856 1,615,151 (1,053,069) 20,653,197
+Total segment liabilities 10,536,759 7,627,670 1,479,386 (1,020,813) 18,623,002
+Total revenue within the scope of IFRS 15 127,420 1 75,085 4 ,808 - 3 07,313
+Total revenue1 543,748 327,029 48,219 (66,131) 852,864
+Impairment loss recognised in income statement (7,550) (29,754) (4,664) - (41,968)
+Share of gains in equity-accounted investee - - - 311 311
+Profit before tax 134,119 92,030 21,203 (46,476) 200,876
+Income tax expenses (10,055) (20,362) (255) 73 (30,599)
+Profit for the period 124,064 71,668 20,948 (46,403) 170,277
+Total segment assets2 6,730,082 3,915,863 889,347 (677,721) 10,857,571
+Total segment liabilities 6,160,351 3,421,231 864,272 (510,386) 9,935,467
+Total revenue within the scope of IFRS 15 119,479 8 8,584 2 ,459 - 2 10,522
+Investments in associate and accounted for by using the equity
+Non-current assets
+The following table presents income and profit and certain asset and liability information for the Group’s business segments:
+Revenue:
+Derived revenue from external customers 494,629 625,381 498,188 457,188 2,075,386
+Impairment loss recognised in income statement (76,890) (20,842) (326) ( 1 0 9 , 1 4 2 )- ( 2 0 7 , 2 0 1 )-
+Share of profit of equity-accounted investee - - - - --
+Profit before income tax 200,379 68,166 173,893 315,242 757,680
+Taxation (39,665) (75,896) (34,422) - (149,984)
+Profit for the period 160,714 (7,730) 139,471 315,242 607,696
+Total segment assets 4,646,187 10,653,066 5,353,944 - 20,653,197
+Total segment liabilities 1,773,238 13,036,354 3,813,411 - 18,623,002
+Revenue:
+Derived revenue from external customers 298,693 392,005 162,166 - 852,864
+Net impairment Gain on financial assets (44,968) (14,979) 17,979 -- (41,968)
+Share of profit of equity-accounted investee - 311 - - 311
+Profit before income tax 108,246 36,107 56,522 - 200,876
+Taxation (16,489) (5,500) (8,610) - (30,599)
+Profit for the period 91,757 30,607 47,912 - 170,277
+Total segment assets 3,723,173 4,223,938 2,814,867 95,593 10,857,571
+Total segment liabilities 1,773,238 5,870,436 2,196,201 95,593 9,935,467
+10 Interest income
+Interest income on amortised cost and FVOCI securities
+Interest income on loans and advances to banks 106,358 35,700 44,554 2,007
+Interest income on financial assets at FVTPL
+Total interest income 1,075,347 557,152 577,380 344,490
+1. Interest income at amortized cost and fair value through OCI are calculated using the effective interest method.
+2.InterestincomeincludesaccruedinterestonimpairedloansofN4.063billionfortheGroup(Bank:N2.704billion)fortheyearended31
+SLeubaoserd liianbaitleitide sliabilities 2,359 1,261 780 558
+12b Net impairment charge/(write back) on other financial assets
+Impairment charge on other assets (Note 28(a)) 36,202 3,086 8,892 1,645
+13 Fees and commission income Group Group Bank Bank
+Electronic banking income [2] 125,579 78,947 60,054 45,811
+Trade transactions income [3] 28,724 37,526 15,151 27,692
+[1] Credit related fees and commission income excludes amount included in determining effective interest rates on financial assets
+[2]Electronic banking income represents income taken on transactions processed via electronic channels such as ATM, POS, mobile
+[3]Tradetransactionsincomeentailsone-offchargesasrelatedtoletterofcreditsandothertradebusinesseswhichareexcludedfrom
+statement fees, cash management, stopped cheques and other transactional related income.
+15 Net trading and foreign exchange income Group Group Bank Bank
+Fixed income securities(i) 63,340 20,025 53,396 19,355
+Foreign exchange trading income(ii) 112,147 39,873 32,063 23,076
+(ii) Foreign exchange income comprises trading income on foreign currencies and gains and losses from revaluation of trading position.
+16 Other operating income Group Group Bank Bank
+Dividend income (i) 19,260 4,042 159,424 51,859
+Other Income (ii) 13,758 8,722 2,070 825
+Rental income 330 255 322 249
+(i)DividendincomeofN159.42billionfortheBankincludesasumofN146.86billion(Dec2022:N48.32billion)beingtotaldividendearned
+fromtheBank'ssubsidiaries.ThisamounthasbeeneliminatedinarrivingattheGroup'sdividendofN19.26billionincomefromotherequity
+Depreciation of right-of-use assets (note 31) 7,379 3,620 2,517 1,406
+Amortisation of intangible assets (note 32) 5,422 4,881 4,085 3,765
+balance sheet size of the Bank. The current applicable rate based on AMCON Act of 2015 is 0.5% of total assets plus total off balance
+21 Taxation Group Group Bank Bank
+Recognised in the statement of comprehensive income Dec. 2023 Dec. 2022 Dec. 2023 Dec. 2022
+(a) Current tax expense
+(b) Deferred tax expense/(credit)
+Total income tax expense 149,984 30,599 86,385 7,621
+(c) Current income tax payable Group Group Bank Bank
+Tax paid (80,166) (31,733) (5,983) (2,045)
+Income tax charge 102,556 30,599 15,437 7,621
+Tax recognized on changes in fair value of FVOCI
+(d) Reconciliation of effective tax rate
+ThetaxontheGroup’sprofitbeforetaxdiffersfromthetheoreticalamountthatwouldariseusingthetaxrateapplicabletoprofitsofthe
+Bank(Parent).Thereconciliationofamountreportedastaxexpenseinthestatementofcomprehensiveincometotheincometaxusing
+the domestic corporation tax rate is presented below:
+Domestic corporation tax rate 30% 30% 30% 30%
+Profit before income tax 757,680 200,876 673,011 141,316
+Income tax using the domestic corporation tax rate 227,304 60,263 201,903 42,395
+Tax effects of :
+Education tax (iii) 488 1,415 488 1,415
+Minimum tax 6,504 2,804 6,505 2,804
+Effect of Permanent differences - Income not subject to tax (418,647) (290,196) (186,782) (53,384)
+Effective tax rate 20% 15% 13% 5%
+Income Tax recognized in Other Comprehensive Income
+Income tax relating to net changes in FVOCI instruments 4,638 2,847 4,689 2,514
+Fair value changes on equity investments designated at FVOCI 162,804 7,399 162,804 6,710
+Income tax relating to net changes in FVOCI on Equity instruments (16,280) (740) (16,280) (671)
+Companies Income Tax
+The tax law issimilar in most of the countriesthe Bankoperates. The Companies Income Tax Act (CITA) in Nigeria requirescompanies
+havingmorethanN100MillionNairaturnovertopayincometaxattherateof30%oftheirtaxableprofits.Wherethecompanydonot
+have ataxable profit orwheretheincome taxon thetaxable profitislowerthan theprescribedminimum tax,theminimum taxshall
+apply. Minimum tax in Nigeria is assessed at the rate of 0.5% of the turnover.
+Duetounutilizedtaxlossesandunclaimedcapitalallowance,theUBAPlchasnotaxableprofitfortheyearended31December2023, as
+a result, was assessed to minimum tax for the year under review. The minimum tax charge for the year was N6.504 billion.
+i.EducationTax:EducationtaxisapplicabletoUBAPlconlyand itsimposedonNigeriancompaniesbytheTertiaryEducationTrustFund
+Act.Therateapplicabletothefinancial statementis2.5%oftheassessableprofit.Theratehasbeenincreasedto3% effectivefrom1
+September 2023. The education tax charge for the year is NIL because UBA Plc has no assessable profit.
+ii. Information Technology Levy: UBAPlc is also required to pay 1% of its profit before tax (PBT)as the National Information Technology
+0.005% of the net profit of companies operating in Nigeria. The Nigerian Police Trust Fund Levy for the year was N34 million.
+NationalAgencyforScienceandEngineeringInfrastructureAct.Therateofthelevyis0.25%oftheprofitbeforetaxforspecificcompanies
+v.NationalFiscalStabilizationLevy:ThislevyispayablebycertaincompaniesinGhanaincludingBanksatarateof5%ofprofitbeforetax
+vi:FinancialSectorRecoveryLevy:ThislevyispayablebyBanksinGhanaatarateof5%ofprofitbeforetaxanditispayablequarterly.
+Thecalculationofbasicearningspershareasat31December2023wasbasedontheprofitattributabletoordinaryshareholdersoftheParentofN598.285
+billion(Bank:N586.626billion)andtheweightedaveragenumberofordinarysharesoutstandingof34.199billion(Bank:34.199billion).TheBankhadno
+Profit attributable to equity holders of the parent 598,285 165,451 586,626 133,695
+Weighted average number of ordinary shares outstanding (in millions) 34,199 34,199 34,199 34,199
+23 Financial assets at fair value through profit or loss Group Group Bank Bank
+(i) Thisrepresentstreasurybillsmeasuredatfairvaluethroughprofitorloss,withmaturityabovethreemonthsfromthedateofpurchase.Theyhavebeen
+24 Assets under management Group Group Bank Bank
+Registrar is reported as “unclaimed dividend” in other liabilities).
+Registrar is reported as “unclaimed dividend” in other liabilities).
+Gross amount 323,915 305,924 150,606 233,695
+Gross amount 5,470,264 3,219,715 3,450,155 2,174,779
+Gross amount 5,470,264 3,219,715 3,450,155 1,942,913
+Gross amount 395,710 305,108 79,102 231,866
+Gross amount 5,074,554 2,914,607 3,371,053 1,942,913
+Loans and advances to individuals Gross Stage 1 - 12- Stage 2 - Stage 3 - Total Carrying
+Loans and advances to individuals Gross Stage 1 - 12- Stage 2 - Stage 3 - Total Carrying
+Gross Stage 1 - 12- Stage 2 - Stage 3 - Total Carrying
+Gross Stage 1 - 12- Stage 2 - Stage 3 - Total Carrying
+Equity investments 287,257 133,114 278,009 131,485
+Gross amount 4,380,306 2,006,305 181,908 118,520
+(i) (i) Included in investment securities at FVOCI , amortised cost and FVTPL instruments are pledged financial assets which cannot be re-pledged or resold by
+Total Pledged assets 999,875 199,972 999,875 199,972
+(ii) Equity securities at FVOCI are analysed below: Group Group Bank Bank
+1 This constitutes other unquoted equity investments (in enties such as GIM UEMOA, The Insurance and Reinsurance Company of the Gulf of Guinea (ARGG)
+28 Other assets
+Financial assets
+Non-financial assets Dec. 2023 Dec. 2022 Dec. 2023 Dec. 2022
+Recoverable taxes 8,891 7,069 1,258 2,995
+(a)Movement in impairment for other assets
+During the year, the Bank reclassified the sum of N22.1billion of AGSMEEIS Investment from investment securities to other assets. This reclassification also
+29 Investment in equity-accounted investee
+The Group has divested from its equity accounted investment and recognised same as a full subsidiary, having increased its investments to subsidiary
+holdings. Hence, share of profit of equity-accounted investee is nil as at 31 December 2023
+(a) Movement in investment in equity-accounted investee
+shares Number of holding holding
+Name (Before) shares (After)
+The table below shows the Group's (49%) share of UBA Zambia's profit at the date of control (01 March 2022).
+Profit After tax at the date of control 634
+Share of profit 311
+The proportion of the voting rights in the subsidiary undertakings held directly by the parent company do not differ from the proportion of ordinary shares held. The
+parent company does not have any shareholdings in the preference shares of subsidiary undertakings included in the Group.
+as a custodian of pension assets, to hold and deal in such assets as directed by the Pension Fund Administrators and in line with regulations of the National Pension
+There are no significant restrictions on the Group’s ability to access or use the assets and settle the liabilities of any member of the Group to the extent that
+Other financial assets 385,386 223,263 947,534 448,378 582,531 250,863 137,218 7 0,903
+Non-financial assets 23,958 4,547 60,990 9,989 6,652 3,140 3,961 2 ,120
+Total assets 609,882 327,556 1,037,315 490,739 664,730 288,366 247,799 103,113
+Financial liabilities 488,574 259,510 913,846 4 50,219 603,044 259,950 217,478 8 2,674
+Non-financial liabilities 7,104 4,574 52,952 8 ,510 8,617 3,943 5,472 1 ,907
+Total liabilities 495,678 264,084 966,798 458,729 611,661 263,893 222,950 84,581
+Net assets 114,204 63,472 70,517 32,010 53,069 24,473 24,849 18,532
+comprehensive income
+Operating Revenue 8 4,302 5 0,299 4 4,191 24,857 4 8,783 1 9,557 2 7,145 1 4,048
+Profit for the period (6,313) 2,583 11,570 7 ,607 10,194 3 ,602 6,874 3 ,435
+Other comprehensive income - - - - - - - -
+Total comprehensive income (6,313) 2,583 11,570 7,607 10,194 3,602 6,874 3,435
+Total comprehensive income allocated to non- (583) 238 4,195 2 ,758 1,386 4 90 1,100 550
+Other financial assets 107,605 44,292 152,413 49,433 604,710 290,708
+Non-financial assets 6,680 2,987 4,460 2,272 13,700 17,336
+Total assets 156,950 71,242 190,059 60,879 741,332 351,468
+Financial liabilities 117,195 52,348 161,925 46,757 663,958 312,324
+Non-financial liabilities 3,843 9,722 14,752 5,082 8,737 5,649
+Total liabilities 121,038 62,069 176,677 51,839 672,695 317,974
+Net assets 35,912 9,173 13,382 9,040 68,637 33,494
+comprehensive income
+Operating Revenue 17,384 6,445 14,554 6,687 48,640 19,127
+Profit/(loss) for the year 3,108 (840) (1,318) (1,677) 7,713 5,919
+Total comprehensive income 3,108 (840) (1,318) (1,677) 7,713 5,919
+Total comprehensive income allocated to non-
+Other financial assets 70,962 31,329 37,524 23,426
+Non-financial assets 3,597 2,390 7,650 7,728
+Total assets 136,811 73,352 51,342 34,242
+Financial liabilities 84,989 53,126 40,496 27,909
+Non-financial liabilities 5,629 1,590 2,043 1,586
+Total liabilities 90,618 54,716 42,539 29,496
+Net assets 46,193 18,636 8,803 4,747
+comprehensive income
+Operating Revenue 23,715 8,950 8,846 4,566
+Profit for the year 10,271 3,269 2,146 216
+Other comprehensive income - - - -
+Total comprehensive income 10,271 3,269 2,146 216
+Total comprehensive income allocated to non- 314 100 384 39
+Right-of-use assets 34,602 24,123 11,038 10,627
+(iii) Transfer relates to reclaassification of previously classified non-current assets held for sale as classification conditions are no longer met.
+(b) Right-of-use assets
+Right-of-use assets
+Right of use assets represent the group's leases, which have been accounted for in line with IFRS 16, as described under accounting policies in note 3.29
+Right-of-use assets
+(iii) Transfer relates to reclaassification of previously classified non-current assets held for sale as classification conditions are no longer met.
+(e) Right-of-use assets
+Right-of-use assets
+Right-of-use assets
+32 Intangible assets
+1 Transfers represents reclassification of items from property and equipment (work in progress) to intangible assets - purchased software (work in progress) during the period
+Gross earnings ( % annual growth rate) 18.5 17.7 11.0 7.3 10.2
+Discount rate (pre-tax) (%) 18.1 18.8 8.8 7.9 49.3
+Gross earnings Thisistheaverageannualgrowthrateoverthefive-yearperiod.Basedonpastperformance,expectationsof
+Discount rate The discount rate wasa pre-taxmeasure basedon the longest tenuredgovernment bondissued by the
+32 Intangible assets - continued
+Net assets (28,369) (21,170) (71,974) (23,522) ( 23,808)
+33 Deferred tax assets and liabilities
+Recognised deferred tax assets and liabilities
+Deferred tax assets and liabilities are attributable to the following:
+(a) 31 December 2023 Assets Liabilities Net Assets Liabilities Net
+Financial assets at FVOCI - 16,280 (16,280) - (6,180) 6,180
+Tax losses carried forward (6,932) 32,984 (39,916) - - -
+Other liabilities - 1,272 (1,272) - (2,554) 2,554
+Net deferred tax assets /(liabilities) 9,741 50,805 (41,064) - 49,087 (49,087)
+31 December 2022 Assets Liabilities Net Assets Liabilities Net
+Financial assets at FVOCI - - - 379 - 379
+Tax losses carried forward 6,323 - 6,323 6,083 - 6,083
+Other liabilities - 677 (677) (168) - (168)
+Net deferred tax assets /liabilities 23,603 959 22,644 21,862 - 21,862
+in profit or loss in equity balance
+Financial assets at FVOCI - - (16,280) (16,280)
+Tax losses carried forward 6,323 (46,239) 16,280 (39,916)
+In millions of Nigerian Naira Opening in profit or loss Recognised Closing
+balance in equity balance
+Financial assets at FVOCI 379 5,801 (11,591) 6,180
+Tax losses carried forward 6,083 (6,082) 11,591 -
+Tax losses on fair value gain on derivatives (3,332) (147,540) - (150,872)
+Group Opening in profit or loss Recognised Closing
+In millions of Nigerian Naira balance in equity balance
+Financial assets at FVOCI (13,475) 13,475 - -
+Tax losses carried forward 21,491 (15,168) - 6,323
+Tax losses on fair value gain on derivatives 4,486 4,486 - -
+In millions of Nigerian Naira Opening in profit or loss Recognised Closing
+balance in equity balance
+Financial assets at FVOCI (13,476) 13,855 - 379
+Tax losses carried forward 19,741 (13,658) - 6,083
+Tax losses on fair value gain on derivatives (4,486) 1,154 - (3,332)
+Unrecognised deferred tax assets
+TheDeferredTaxmovedfromAsset position(N21.862bn)in2022toLiability(N55.399bn)in2023.ThefairvaluegainonderivativesincreasedfromN6.5bnin
+2022toN348bnin2023.Thiswaspreviouslyexemptedfromtaxableincome.ThisincreasedtheDeferredTaxLiabilityforthisitemfromN2bntoN115bn.The
+Deferred Tax Liabilies of N115billion eroded the Deferred Tax Assets b/f of N21.8billion.
+Thetablebelowshowsthefairvaluesofderivativefinancialinstrumentsrecordedasassetsorliabilitiestogetherwiththeirnotionalamounts.Thenotional
+amountwhichisrecordedgross,istheamountofaderivative'sunderlyingasset,referencerateorindexandisthebasisuponwhichchangesinthevalue
+Derivative assets Dec. 2023 Dec. 2022 Dec. 2023 Dec. 2022
+Derivative liabilities
+(a) Derivative assets
+The movement in derivative assets is as follows:
+Derivative assets are current in nature
+(b) Derivative liabilities Group Group Bank Bank
+Derivative liabilities are current in nature
+Derivative assets :
+Net fair value loss on derivative assets 458,994 6,490 458,994 6,490
+Derivative liabilities:
+Net fair value loss on derivative liabilities (1,806) 19 (1,806) 19
+Net fair value gain on derivative assets and liabilities (Note 15) 457,188 6,509 457,188 6,509
+35 Non-Current Assets Held for Sale
+34.2 longer met. These properties were valued at lower of carrying amounts before classified as Non-current Assets Held for Sale adjusted for depreciation, and its recoverable
+38 Other liabilities Group Group Bank Bank
+Financial liabilities
+Lease liabilities (note (iii)) 30,554 20,077 7,739 6,883
+Deferred income 4,775 902 558 701
+Total other liabilities 313,181 383,283 358,654 326,689
+(iii) Finance cost on the lease liabilities is included in Interest expense' in note 11.
+The movement in lease liabilities balance during the year is as follows:
+Lease liabilities -
+Maturity analysis for Lease Liabilities
+Less than 1 - 3 months 3 - 6 months 6 - 12 More than 1 Gross Total
+Lease liabilities -
+Maturity analysis for Lease Liabilities
+Less than 1 - 3 months 3 - 6 months 6 - 12 More than 1 Gross Total
+The amount represents a provision for certain legal claims. The provision charge is recognised in profit or loss within ‘other operating expenses’. In the directors’ opinion, after
+Charge to profit or loss 17 1,232 - 1,273
+i Change in financial assets at FVTPL
+Finance cost - (interest income) 106,358 35,700 44,554 2 ,007
+Finance cost - (interest income) 391,907 263,083 273,781 214,914
+vChange in other assets
+Impairment charges on other assets (36,202) (3,086) (8,892) (1,645)
+Change in deferred tax asset 13,862 19,726 21,862 (0)
+Dividend income 1 9,260 - 159,424 5 1,859
+Subscription for shares - African subsidiaries - - 11,421 (35,295)
+Finance cost - (interest income) 69,750 18,415 65,408 21,619
+ix Change in other liabilities and provisions
+Deferred tax liabilities 2,418 (17,990) (21,861) -
+Movement in lease liabilities (5,165) 10,627 716 3,170
+Movement in assets under management (12,923) (12,923)
+Impairment of finanial assets (17) (1,232) - (1,273)
+Interest income 1 ,075,347 557,152 577,380 3 44,490
+Interest income (505,231) (237,344) (192,666) (105,536)
+shares of 50k each 17,100 17,100 17,100 17,100
+Number of shares in issue at end of the period 34,199 34,199 34,199 34,199
+Share premium is the excess paid by shareholders over the nominal value for their shares.
+Retained earnings is the carried forward recognised income net of expenses plus current period profit attributable to shareholders.
+appropriation, In the current period, the Bank transferred N87.994 billion representing 15% (2022: 15%) of its profit after taxation to statutory reserves.
+-SmallandMediumEnterprisesEquityInvestmentScheme(SMEEIS)reservesofN2.635billionasat31December2023(December2022:N2.635billion).The
+-Agriculture/SmallandMediumEnterprisesEquityInvestmentScheme(AGSMEEIS)reservesofN22.192billionasat31December2023(December2022:
+Thefairvaluereserveincludesthenetcumulativechangeinthefairvalueofinvestmentsatfairvaluethroughothercomprehensiveincome.Thenet
+cumulativefairvaluechangeonequityinstrumentsistransferredtoretainedearningswhentheinvestmentisderecognisedwhilethenetcummulativefairvalue
+change on debt instruments is recycled to the income statement.
+Number of Shares in Issue and Ranking for Dividend 3 4,199 3 4,199
+dividendofN2.80pershare(Dec2022:N1.10pershare) fromtheretainedearningsaccountasat31December2023. Thenumberofsharesinissueand
+ranking for dividend represents the outstanding number of shares as at 31 December 2022 and 31 December 2021 respectively.
+Payment of dividend to shareholders is subject to withholding tax at a rate of 10%.
+(ii) Contingent liabilities
+In the normal course of business, the Group conducts business involving acceptances, performance bonds and indemnities. Contingent liabilities and
+reimbursementbythecustomerisnormallyimmediate.EndorsementsareresidualliabilitiesoftheGroupinrespectofbillsofexchange,whichhavebeenpaid
+Othercontingentliabilitiesincludeperformancebondsandare,generally,short-termcommitmentstothirdpartieswhicharenotdirectlydependentonthe
+Thefollowingtablessummarisethenominalprincipalamountofcontingentliabilitiesandcommitmentswithoff-balancesheetrisk.Therearenoguarantees,
+commitments or other contingent liabilities arising from related party transactions.
+Gross amount 2,787,956 2,010,166 916,196 704,467
+Capitalcommitmentsareirrevocablecontractualcommitmentsfortheacquisitionofitemsofpropertyandequipmentorintangibleassets.Atthebalance
+Intangible assets 732 2,650
+UnitedBankforAfricaPlc(UBAPlc)istheultimateparent/controllingpartyoftheGroup.ThesharesofUBAPlcarelistedontheNigerianStockExchangeand
+Interest income earned during the period 12 24
+estate, equity and other assets of the respective borrowers. No impairment losses (2022: Nil) have been recorded against related party loans.
+Interest income earned during the year 3,314 781
+Deposit liabilities
+Deposit liabilities relating to key management personnel and their related persons and entities as at end of the period is as follows:
+Non-monetary assets and liabilities These balances are expressed at amounts current at the date of acquisition and are restated by applying the change
+Non-monetary assets and liabilities with These balances are not restated, however, for the presentation in the statement of profit or loss and other
+a measurement basis that is already at comprehensive income, the carrying amount at the beginning of the period (i.e. the comparative balance) should be
+B. Statement of changes in equity
+On 1 January 2023 (i.e the beginning of the first period when IAS 29 is applied), the components of shareholders’ equity, excluding retained earnings, are
+On 31 December 2023 (at the end of the first period) and in subsequent periods, all components of shareholders’ equity are restated by applying the GPI from
+the beginning of the period or the date of contribution, if later. The movements for the period in shareholders’ equity are disclosed in accordance with IAS 1
+C. Statement of profit or loss and comprehensive income
+All items in the statement of profit or loss and other comprehensive income for the current reporting period have been restated by applying the change in the
+GPI from the dates when the items of income and expense were originally recorded.
+The result of the current period restated comprehensive income is added to the balance of the restated opening retained earnings in the statement of financial
+● the result from the restatement of non-monetary items, equity and items in the statement of comprehensive income
+The monetary gain or loss is reported in the restated statement of profit or loss and comprehensive income and is separately disclosed.
+Hyperinflation accounting is applied to all of the subsidiary’s assets and liabilities before translation. Restated amounts in the subsidiary’s financial statements
+(i.e. assets, liabilities, equity income and expenses) are then translated at the prevailing closing rate
+IFRS 10 Consolidated Financial Statements (“IFRS 10”) requires the elimination of intra-group assets and liabilities, equity, income, expenses and cash flows
+Interest income 25,228 91,275 116,503
+Fees and commission income 7,852 7,820 15,672
+Net trading and foreign exchange income 2,522 7,219 9,740
+Other income 5 5 10
+Allowance for credit losses on financial assets (458) (29,343) (29,801)
+Income tax expense (5,883) (10,907) (16,790)
+Other assets 1,861 8,591 10,451
+Current tax assets - 7,024 7,024
+Deferred income tax assets - 9,532 9,532
+Other liabilities (17,411) (16,792) (34,203)
+Current tax liabilities (11) - (11)
+Deferred tax liabilities (13) - (13)
+Revenue reserve 4,765 80,223 84,988
+net change in Other Comprehensive Income (OCI). This is in line with the March 2020 IFRS IC Agenda Decision, which provided management with accounting
+choices of either treating the combined effect of restating and translating the opening net assets values as a change in OCI or as a change in equity.
+Share Capital Retained Statutory Other Foreign Total Equity
+and the profit and other comprehensive income for the period ended which have not been adjusted or disclosed.
+IncompliancewithRule17.15DisclosureofDealingsinIssuers’Shares,RulebookoftheExchange2015(IssuersRule)UnitedBankforAfricaPlcmaintainsa
+Company’sshares.ThePolicyundergoesperiodicreviewsbytheBoardandisupdatedaccordingly.TheCompanyhasmadespecificinquiriesofallits
+Condensed statements of comprehensive income
+Operating Revenue 84,302 20,009 80,645 48,640 14,554 42,336 32,324 48,783
+Net impairment gain/(reversal) on financial assets (34,135) (3,617) (10,417) (4,303) (3,231) (26,294) (8,161) (7,260)
+Profit before income tax (6,014) 6,015 25,856 7,713 (141) (531) 8,858 10,820
+Income tax expense (299) (8) - - (1,177) - - (626)
+Profit for the year from continuing operations (6,313) 6,007 25,856 7 ,713 (1,318) ( 531) 8 ,858 10,194
+Profit for the year (6,313) 6,007 25,856 7,713 (1,318) (531) 8,858 10,194
+Assets
+Other assets 8,591 164,788 8,120 11,910 2,501 3,606 8,650 7,671
+Intangible assets 277 5 271 7 19 33 3 -
+Deferred tax assets 9,532 - - - - - - -
+Total assets 609,882 310,628 1,194,815 741,332 190,059 419,292 283,274 664,730
+Other liabilities 14,128 26,455 13,131 7,685 14,752 5,232 16,992 8,097
+Current income tax liabilities (7,024) 2,933 1,124 1,052 - - 4,061 520
+Deferred tax liability - 177 1,144 - - - - -
+Total Equity 114,203 22,659 105,350 68,638 13,382 35,474 56,697 53,069
+Total liabilities and equity 609,882 310,628 1,194,815 741,332 190,059 419,292 283,274 664,730
+Condensed statements of comprehensive income
+Operating Revenue 24,818 44,191 36,155 17,384 44,693 23,715 98,519 9,063 12,662
+Net impairment gain/(reversal) on financial assets (7,879) (4,914) (7,271) (2,276) (8,754) (1,767) (14,545) (2,432) (1,871)
+Profit before income tax 7,296 11,570 9,440 3,108 18,979 10,271 28,944 4,885 (454)
+Income tax expense (0) - - - (141) (0) (328) - -
+Profit for the year from continuing operations 7 ,296 11,570 9 ,440 3 ,108 1 8,838 1 0,271 2 8,616 4,885 ( 454)
+Profit for the year 7,296 11,570 9,440 3,108 18,838 10,271 28,616 4,885 (454)
+Assets
+Other assets 1,861 53,989 4,315 3,013 26,071 793 52,019 779 5,206
+Intangible assets - 277 35 153 7 144 (9) 15 178
+Deferred tax assets - - - - - - - 69 -
+Non-current assets held for distribution - - - - - - - - -
+Total assets 174,715 1,037,315 223,036 156,950 423,726 136,811 1,292,284 15,729 155,618
+Derivative liabilities - - - - - - - - -
+Other liabilities 3,881 52,578 7,822 3,843 26,276 5,629 31,422 - 10,000
+Current income tax liabilities 11 374 3,643 - - - 15,011 2,829 132
+Deferred tax liability 13 - - - - - - - -
+Total Equity 28,886 70,518 29,414 35,912 100,967 46,193 136,875 12,014 13,585
+Total liabilities and equity 174,715 1,037,315 223,036 156,950 423,726 136,811 1,292,284 15,729 155,618
+Condensed statements of comprehensive income
+Operating Revenue 8,846 24,953 40,959 27,145 1,460,592 (169,901) 2,075,386
+Net impairment gain/(reversal) on financial assets (722) - (4,043) (4,139) (137,376) 88,204 (207,201)
+Share of Profit of equity-accounted investee - - - - - - -
+Profit before income tax 2,146 4,327 11,266 7,004 673,011 (86,690) 757,680
+Income tax expense - - - (130) (86,385) (60,891) (149,984)
+Profit for the year 2,146 4,327 11,266 6,874 586,626 (147,581) 607,696
+Assets
+Financial assets at FVTPL - - 33,315 - 534 - 33,849
+Assets under management - - - - 14,026 - 14,026
+Derivative assets - - - - 498,824 - 498,824
+Other assets 6,464 3,833 2,970 3,679 607,251 (229,394) 758,683
+Investments in equity-accounted investee - - - - - - -
+Intangible assets 21 (112) 1,261 1,500 10,763 29,005 43,855
+Deferred tax assets - - - 140 - - 9,741
+Non-current assets held for distribution - - - - - - -
+Total assets 51,342 323,570 477,306 251,478 12,877,774 (1,358,466) 20,653,197
+Derivative liabilities - - - - 1,885 - 1,885
+Other liabilities 2,043 9,469 4,440 2,940 358,654 (312,288) 313,180
+Current tax liability - 50 51 122 17,781 - 42,671
+Deferred tax liability - 384 - - 49,087 - 50,805
+Total Equity 8,803 44,032 58,678 28,528 1,234,883 (288,565) 2,030,195
+Total liabilities and equity 51,342 323,570 477,306 251,478 12,877,774 (1,358,466) 20,653,196
+Condensed statements of comprehensive income
+Operating Revenue 50,299 6,967 29,987 19,127 6,687 14,063 13,457 19,557
+Net impairment gain/(reversal) on financial assets (21,970) (503) (2,703) (131) (940) (193) 124 (11)
+Profit before income tax 3,835 1,825 10,458 6,910 (1,677) 7,140 3,921 3,790
+Income tax expense (1,252) (485) (581) (991) - (2,448) (1,176) (188)
+Profit for the year 2,583 1,340 9,877 5,919 (1,677) 4,692 2,745 3,602
+Assets
+Other assets 10,140 42,524 16,002 16,133 895 (1,539) 5,961 5,446
+Intangible assets 110 4 161 10 10 12 110 -
+Deferred tax assets 723 216 737 - - - - -
+Total assets 327,556 113,612 525,394 351,468 60,879 153,238 130,851 288,366
+Other liabilities 10,102 1,515 19,764 4,559 5,082 587 5,834 3,738
+Current income tax liabilities (5,528) 687 - 1,090 - 2,695 1,293 205
+Deferred tax liability - - 861 - - - - -
+Total Equity 63,473 12,888 50,516 33,494 9,040 17,983 21,942 24,473
+Total liabilities and equity 327,556 113,612 525,394 351,468 60,879 153,238 130,851 288,366
+Condensed statements of comprehensive income
+Operating Revenue 13,964 24,857 14,838 6,445 24,815 8,950 40,097 8,847 2,917
+Net impairment gain/(reversal) on financial assets
+Profit/(loss) before income tax 8,867 7,748 5,644 (369) 10,041 3,811 16,374 7,265 (1,542)
+Income tax expense (2,224) (141) (2,110) (471) - (542) (5,838) (2,434) (29)
+Profit/(loss) for the year 6,643 7,607 3,534 (840) 10,041 3,269 10,536 4,831 (1,571)
+Assets
+Financial assets at FVTPL - - - - - - - - -
+Derivative assets - - - - - - - - -
+Other assets 870 6,243 1,347 816 18,022 735 15,887 784 4,701
+Investments in equity-accounted investee - - - - - - - - -
+Intangible assets - 133 21 84 1 105 4 40 461
+Deferred tax assets - - - - - - - 65 -
+Total assets 120,959 490,739 151,408 71,242 199,549 73,352 509,011 14,612 79,774
+Derivative liabilities - - - - - - - - -
+Other liabilities 10,303 8,355 8,961 9,661 9,541 1,590 9,308 - 4,278
+Current income tax liabilities (47) 154 2,320 60 - - 6,416 2,838 45
+Deferred tax liability (19) - - - - - - 12 -
+Total Equity 17,947 32,010 18,333 9,173 53,621 18,636 58,320 10,891 5,443
+Total liabilities and equity 120,959 490,739 151,408 71,242 199,549 73,352 509,011 14,612 79,774
+Condensed statements of comprehensive income
+Operating Revenue 4,566 11,387 18,564 14,048 564,555 (66,130) 852,864
+Net impairment gain/(reversal) on financial assets (58) (864) (1,649) 255 (10,565) (548) (41,968)
+Share of loss of equity-accounted investee - - - - - 311 311
+Profit before income tax 657 376 5,237 4,770 141,316 (45,521) 200,876
+Income tax expense (441) (111) (255) (1,335) (7,621) 73 (30,599)
+Profit for the year from continuing operations 216 265 4 ,982 3,435 133,695 (45,448) 170,277
+Profit for the year 216 265 4,982 3,437 133,695 (45,448) 170,277
+Assets
+Financial assets at FVTPL - - - - 14,963 - 14,963
+Assets under management - - - - 12,923 - 12,923
+Derivative assets - - - - 39,830 - 39,830
+Other assets 6,751 2,359 721 1,702 156,535 (58,332) 254,704
+Investments in equity-accounted investee - - - - - - -
+Intangible assets 8 35 856 857 8,853 21,594 33,468
+Deferred tax assets - - - - 21,862 - 23,603
+Non-current assets held for distribution - - - - 95,593 - 9 5,593
+Total assets 34,242 129,408 266,178 104,815 7,357,279 (696,358) 10,857,571
+Derivative liabilities - - - - 79 - 79
+Other liabilities 1,586 1,309 2,199 936 326,690 (62,615) 383,282
+Current tax liability - 119 269 (664) 8,327 - 20,281
+Deferred tax liability - - - 105 - - 959
+Total Equity 4,747 22,360 21,127 20,234 585,193 (238,393) 873,449
+Total liabilities and equity 34,242 129,408 266,178 104,815 7,361,045 (748,780) 10,808,915
+Gross revenue 2,075,386 853,175
+- Current Income tax 149,984 13 30,599 8
+Gross revenue 1,460,592 564,555
+- Taxation 86,385 10 7,621 3
+ASSETS
+Financial assets at fair value through profit or loss 33,849 14,963 13,096 214,400 102,388
+Assets under management 14,026 12,923 - - -
+Derivative assets 498,824 39,830 33,340 53,148 48,131
+- At fair value through other comprehensive income 3,093,037 2,193,253 993,791 1,421,527 901,048
+Other assets 758,683 254,704 149,154 110,829 139,885
+Investments in equity-accounted investee - - 8,945 4,504 4,143
+Intangible assets 43,855 33,468 30,450 28,900 17,671
+Deferred tax assets 9,741 23,603 43,329 40,602 43,054
+TOTAL ASSETS 20,653,197 10,857,571 8,541,318 7,693,377 5,620,907
+LIABILITIES
+Derivative liabilities 1,885 79 98 508 852
+Other liabilities 313,181 383,283 216,209 157,826 107,255
+Current income tax liabilities 42,671 20,281 21,415 9,982 9,164
+Subordinated liabilities - - - - 30,048
+Deferred tax liabilities 50,805 959 19,617 16,992 16,974
+TOTAL LIABILITIES 18,623,002 9,935,467 7,736,511 6,973,831 5,022,929
+EQUITY
+EQUITY ATTRIBUTABLE TO EQUITY - 1,962,162 887,297 776,174 691,651 578,573
+TOTAL EQUITY 2,030,195 922,104 804,807 719,546 597,978
+TOTAL LIABILITIES AND EQUITY 20,653,197 10,857,571 8,541,318 7,693,377 5,620,907
+Summarized Statement of Comprehensive Income
+Net operating income 1,589,325 592,624 442,994 403,042 346,293
+Share of profit/(loss) of equity-accounted investee - 311 1,928 1,071 413
+Profit before income tax expense 790,484 200,876 153,073 127,257 111,287
+Income tax expense (149,984) (30,599) (34,395) (18,095) (22,198)
+Profit after taxation 640,500 170,277 118,678 109,162 89,089
+Profit from discontinued operations - - - - -
+Profit for the year 640,500 170,277 118,678 109,162 89,089
+- Equity holders of the parent 598,285 165,451 115,883 105,909 86,220
+Other comprehensive income for the year 470,332 (19,786) (14,607) 43,326 35,350
+Total comprehensive income for the year 1,110,832 150,491 104,071 152,488 124,439
+ASSETS
+Financial assets at fair value through profit or loss 534 14,963 7,984 171,058 102,388
+Assets under management 14,026 12,923 - - -
+Derivative assets 498,824 39,830 33,340 53,148 48,131
+- At fair value through other comprehensive income 2,710,346 2,071,689 840,249 1,233,684 772,658
+Other assets 607,251 156,535 88,649 96,524 111,607
+Investments in equity-accounted investee - - 2,715 2,715 2,715
+Intangible assets 10,763 12,618 18,063 16,237 7,070
+Deferred tax assets - 21,862 21,862 21,862 21,862
+Non-current assets held for Sale - 95,593 95,909 - -
+TOTAL ASSETS 12,877,774 7,361,045 5,574,976 5,207,833 4,136,493
+LIABILITIES
+Derivative liabilities 1,885 79 98 508 852
+Current income tax liabilities 17,781 8,327 2,751 1,478 722
+Subordinated liabilities - - - - 30,048
+Other liabilities 358,655 326,691 127,338 93,669 57,150
+TOTAL LIABILITIES 11,593,804 6,775,852 5,073,375 4,729,893 3,689,971
+EQUITY
+TOTAL EQUITY 1,234,883 585,193 501,601 477,940 446,522
+TOTAL LIABILITIES AND EQUITY 12,828,687 7,361,045 5,574,976 5,207,833 4,136,493
+Summarized statement of comprehensive income
+Net operating income 1,141,783 382,743 239,434 236,068 227,464
+Profit before income tax expense 673,011 141,317 60,519 58,360 70,063
+Income tax expense (86,385) (7,621) (1,850) (1,449) (7,313)
+Profit for the year 586,626 133,696 58,669 56,911 62,750
+Other comprehensive income for the year 110,945 (15,905) (16,198) 5,427 48,244
+Total comprehensive income for the year 697,571 117,791 42,471 62,338 110,994

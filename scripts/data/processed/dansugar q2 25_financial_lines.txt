@@ -1,0 +1,373 @@
+Consolidated and separate statements of profit or loss and other comprehensive income 2
+Consolidated and separate statements of changes in equity 4
+Consolidated and separate statement of profit or loss and other comprehensive income
+Revenue 5 216,281,226 430,211,916 172,897,105 295,624,440 665,689,763 216,281,226 430,211,916 172,897,105 295,624,440 665,689,763
+Gross profit 42,419,765 51,677,098 9,388,031 18,138,790 31,109,484 42,419,765 51,677,098 9,388,031 18,138,790 31,109,484
+Other income 11 101,755 244,952 163,196 215,681 2,213,001 94,313 191,794 116,002 168,287 2,061,075
+Operating profit/(loss) 14 35,346,322 38,098,930 5,031,067 10,326,536 12,671,380 36,699,622 41,110,015 5,231,746 10,780,180 14,232,580
+Finance income 8 457,494 2,859,163 2,349,966 4,242,606 7,612,562 457,494 2,859,163 2,349,966 4,242,605 7,612,562
+Loss before tax 523,887 (22,107,973) (104,561,941) (211,419,631) (270,894,179) - 1,903,186 (19,046,596) (104,399,088) (210,661,224) (269,143,810)
+Taxation 12.1 (1,150,000) (2,166,355) 29,547,308 67,411,592 78,277,361 (1,150,000) (2,166,355) 29,547,308 67,411,592 78,277,361
+Other comprehensive income:
+Income tax on revaluation surplus - - - - ( 106,568,811) - - - - (106,568,811)
+Total comprehensive (loss)/income
+Total comprehensive (loss)/income
+Assets
+Deferred tax assets 13 8,231,388 8,231,388 102,509,375 8,231,388 8,231,388 102,509,375
+Deposit for shares 21 0 - - 73,793,520 72,596,256 70,022,964
+Total non-current assets 620,610,394 624,876,212 277,602,208 595,760,269 594,038,124 281,378,148
+Current assets
+Biological assets 17 17,484,835 19,189,380 18,350,974 17,484,835 19,189,379 18,350,974
+Other assets 18 31,973,673 15,144,041 16,270,205 31,725,853 14,980,907 16,267,158
+Total current assets 412,460,189 425,956,517 437,051,354 410,743,726 424,306,147 435,288,226
+Total assets 1,033,070,583 1,050,832,729 714,653,562 1,006,503,995 1,018,344,271 716,666,374
+Equity
+Liabilities
+Non-Current Liabilities
+Current Liabilities
+Current tax liabilities 12.3 4,326,001 4,410,858 12,338,533 4,330,937 4,415,793 12,343,462
+Financial liabilities 30 735,208,972 717,507,521 639,933,321 735,177,701 717,476,251 639,849,626
+Other liabilities 31 5,351,819 12,031,953 23,019,951 5,351,819 12,031,953 23,019,951
+Total current liabilities 842,780,820 836,051,565 777,275,102 842,393,730 835,976,793 775,965,384
+Total liabilities 848,282,998 838,605,055 779,415,816 848,021,479 838,648,804 778,106,098
+Total equity and liabilities 1,033,070,583 1,050,832,729 714,653,562 1,006,503,995 1,018,344,271 716,666,374
+Consolidated and separate statements of changes in equity
+Other comprehensive Income - - 288,752,005 - 288,752,005
+Total comprehensive income for the period 6,073,439 - 6,320,524 - 288,752,005 (121,450,502) - 179,695,464
+Total comprehensive income for the period 6,073,439 - - - (125,717,093) - - (113,323,130) (47,902) - ( 113,371,032)
+Other comprehensive income - - - 325,598,704 325,598,704 - 325,598,704
+Total comprehensive income for the period - - (24,274,328) (24,274,328) - (24,274,328)
+Other comprehensive income - - - (3,165,761) (3,165,761) - (3,165,761)
+Loss before taxation (22,107,973) (270,894,179) (211,419,631) (19,046,596) (269,143,810) (210,661,224)
+Adjustments for non-cash income and expenses:
+Increase in impairment loss on financial assets - 907,121 (33,972) 511,388 907,121 (33,972)
+(Profit)/loss on sale of assets - (17,161) - - (17,161) -
+Interest income (2,859,163) (7,612,562) (4,242,606) (2,859,163) (7,612,562) (4,242,605)
+Fair value loss/(gain) on biological assets (1,902,886) (10,099,566) (8,197,785) (1,902,886) (10,099,566) (8,197,785)
+Net (additon)/usage of biological assets 3,607,431 5,374,613 4,311,237 3,607,431 5,374,613 4,311,237
+(Increase)/decrease in other assets (16,829,632) (14,399,033) (15,525,197) (16,744,946) (14,237,294) (15,523,546)
+Increase/(decrease) in other liabilities (6,680,134) (5,799,878) 5,227,655 (6,680,134) (5,799,878) 5,227,655
+Tax paid (2,251,211) (13,412,266) (4,059,534) (2,251,211) (13,412,260) (4,059,534)
+Deposit for shares - - - (1,197,264) (5,560,965) (2,987,673)
+Lease Liabilities payment (45,000) (226,251) (92,488) - (226,251) (112,660)
+TheGrouphas consistently beenmaking profits until recently.The Directors believethat thereis nointentionorthreat from any
+country'seconomyingeneral.Theglobalfinancialsystemcontinuestoexhibitsignsofdeepstressandmanyeconomiesaround
+assets which is measured at fair value less cost to sell. Historical cost is generally based on the fair value of the
+consideration given in exchange for assets. All amounts disclosed in the financial statements and notes have been
+Companylosescontrolofthesubsidiary. Specifically,incomeandexpensesofasubsidiaryacquiredordisposedofduring
+theyearareincludedintheconsolidated statementofprofitorlossandother comprehensive income from the datethe
+Company gains control until the date when the Company ceases to control the subsidiary. Profit or loss and each
+component of other comprehensive income are attributed to the owners of the Company and to the non-controlling
+interests. Total comprehensive income of subsidiaries is attributed to the owners of the Company and to the non-
+line with the Group‘s accounting policies. All intragroup assets and liabilities, equity, income, expenses and cash flows
+acquiredordisposedofduringtheyearareincludedintheGroupstatementofcomprehensiveincomefromtheeffective
+has been recognised in profit or loss.
+2.4 Revenue recognition
+Revenueismeasuredat thefairvalueof theconsideration receivedorreceivableforgoodsorservices,in theordinary
+course of the Group's activities and it is stated net of value added tax (VAT), rebates and returns. A valid contract is
+recognised as revenue after;
+stated in the credit management policy at the inception of the contract. The Group is the principal in all of its revenue
+arrangement since it is the primary obligor in all of the revenue arrangements, has inventory risk and determines the
+Revenueisrecognisedwhenthecontrolofthegoodsandservicearetransferredtothecustomer.Thisoccurswhenthe
+Revenuefromsaleofsugarandmolassesisrecognisedbasedonthepricespecifiedinthecontract,netoftheestimated
+recognitionofrevenueandgrantingrebatesiswithinonemonth.Returnsongoodsareestimatedattheinceptionofthe
+contract except where the timing between when the revenue is recognised and when the returns occur is considered
+ThedeliveryserviceprovidedbytheGroupisasalesfulfilmentactivityandtheincomeearnedisrecognisedatthepointin
+Revenue recognition (continued)
+Disaggregation of revenue from contract with customers
+The Group recognises revenue from the transfer of goods at a point in time in the following product lines. The Group
+derives revenue from the sale of sugar, molasses and freight services.
+Revenue from contract with customers 39,812 426,886,121 3,285,983 430,211,916
+2.5 Interest income Recognition
+Interest income from a financial asset is recognised when it is probable that the economic benefits will flow to the
+Companyandtheamountofrevenuecanbemeasuredreliably.Interestincomeisaccruedonatimebasis,byreference
+future cash receipts through the expected life of the financial asset's to that assets's net carrying amount on initial
+An operating segment is a distinguishing component of the Group and Company that earns revenue and incurs
+2.7 Taxation
+Income tax expense represents the sum of the tax currently payable and deferred tax.
+Current tax
+The tax currently payable is based on taxable profit for the year. Taxable profit differs from profit as reported in the
+statementsofcomprehensiveincomebecauseofitemsofincomeorexpensethataretaxableordeductibleinotheryears
+anditemsthatarenevertaxableordeductible.TheGroup'sliabilityforcurrenttaxiscalculatedusingtaxratesthathave
+Current income tax is the expected amount of income tax payable on the taxable profit for the year determined in
+accordance with the Companies Income Tax Act (CITA) using statutory tax rates of 30% at the reporting sheet date.
+Education tax is calculated at 3% of the assessable profits in accordance with the Tertiary Education Tax Act.
+2.7 Taxation (continued)
+Currentanddeferredtaxarerecognisedinprofitandloss,exceptwhentheyrelatetoitemsthatarerecognisedinother
+comprehensive income or directly in equity, in which case, the current and deferred tax are recognised in other
+comprehensive income or directly in equity respectively. Where current tax and deferred tax arises from the initial
+accounting for a business combination, the tax effect is included in the accounting for the business combination.
+associate. In addition, the Company account for all amounts previously recognised in other income in relation to that
+associateontheassetsorliabilities.Therefore,ifagainorlosspreviouslyrecognizedinothercomprehensiveincome
+bythatassociatewouldbereclassifiedtoprofitorlossonthedisposaloftherelatedassetsandliabilities,theCompany
+reclassifies the gain or loss from equity to profit or loss (as a reclassification adjustments) when it loses significant
+Whenthecompanytransactswithitsassociate,profitsandlossesresultingfromthetransactionswiththeassociateare
+Deferred tax
+Thecarryingamountofdeferredtaxassets isreviewedattheendof eachreportingperiodandreducedtotheextent
+that it is no longer probable that sufficient taxable profits will be available to allow all or part of the asset to be recovered.
+Deferred tax assets and liabilities are measured at the tax rates that areexpected toapplyinthe periodin whichthe
+liability is settled or the asset realised, based on tax rates (and tax laws) that have been enacted or substantively
+enacted by the end of the reporting period. The measurement of deferred tax liabilities and assets reflects the tax
+recover or settle the carrying amount of its assets and liabilities.
+Deferredtaxassetsandliabilitiesareoffsetwhenthereisalegallyenforceablerighttosetoffcurrenttaxassetsagainst
+currenttaxliabilitiesandwhentheyrelatetoincometaxesleviedbythesametaxationauthorityandtheGroupintends
+tosettleitscurrenttaxassetsandliabilitiesonanetcurrentanddeferredtaxarerecognisedinprofitandloss,except
+when theyrelate to items that are recognised in other comprehensive income or directlyin equity, in which case, the
+currentanddeferredtaxarerecognisedinothercomprehensiveincomeordirectlyinequityrespectively.Wherecurrent
+tax and deferred tax arises from the initial accounting for a business combination, the tax effect is included in the
+are grossed up so that the net book book value as at revaluation date will reflect the revalued amount. Revalued assets are
+If an item is revalued, the entire class of assets to which that asset belongs will be revalued. The following asset classes are
+If a revaluation results in an increase in value, the revaluation surplus, net of tax, will be credited to other comprehensive
+income and accumulated in equity under the heading "revaluation surplus" unless it represents the reversal of a revaluation
+decrease of the same asset previously recognised as an expense, in which case it will be recognised in profit or loss. A
+to retained earnings will not be made through profit or loss.
+property, plant and equipment are recognized in profit or loss as incurred.
+Depreciationisrecognizedinprofitorlossonastraight-linebasisovertheestimatedusefullivesofeachpartofanitemof
+intheasset.Leasedassetsaredepreciatedovertheshorteroftheleasetermandtheirusefullivesunlessitisreasonably
+certainthattheCompanywillobtainownershipbytheendoftheleaseterminwhichcasetheassetsaredepreciatedover
+Depreciationisrecognisedsoastowriteoffthecostofassets(otherthanpropertiesunderconstruction)lesstheirresidualvalues
+Assetsheldunderfinanceleasesaredepreciatedovertheirexpectedusefullivesonthesamebasisasownedassetsor,where
+2.9 Intangible assets
+Intangible assets acquired separately
+Intangible assets with finite useful lives that are acquired separately are carried at cost less accumulated amortisation and
+Derecognition of intangible assets
+carrying amount of the asset, are recognised in profit or loss when the asset is derecognized.
+Impairment of tangible and intangible assets
+At the end of each reporting period, the Group reviews the carrying amounts of its tangible and intangible assets to determine
+whether there is any indication that those assets have suffered an impairment loss. If any such indication exists, the recoverable
+corporate assets are also allocated to individual cash-generating units, or otherwise they are allocated to the smallest group of cash-
+Intangible assets with indefinite useful lives and intangible assets not yet available for use are tested for impairment at least annually,
+cash flows are discounted to their present value using a pre-tax discount rate that reflects current market assessments of the time
+of the asset (or cash-generating unit) is reduced to its recoverable amount. An impairment loss is recognised immediately in profit or
+reversal of an impairment loss is recognised immediately in profit or loss.
+plans are recognized as an employee benefit expense in profit or loss in the periods during which services are rendered by
+of their gross salary (basic, housing and transport) while the Group contributes 10% on behalf of the employees to the same plan.
+losses were recognised in the income statement. These gains or losses were recognised over the expected average remaining
+Government grants are recognised as income over the periods necessary to match them with the related costs that they are
+intended to compensate. Grants related to income are presented as a credit in the profit or loss (separately).
+termination options. The lease agreements do not impose any covenants, however, leased assets may not be used as security for
+When assets are subject to an operating lease, the assets continue to be recognised as property and equipment based on the
+nature of the asset. Lease income is recognised on a straight line basis over the lease term.
+Lease incentives are recognised as a reduction of rental income on a straight-line basis over the lease term.
+When assets are held subject to a finance lease, the related asset is derecognised and the present value of the lease payments
+(discounted at the interest rate implicit in the lease) is recognised as a receivable. The difference between the gross receivable and
+the present value of the receivable is recognised as unearned finance income. Lease income is recognised over the term of the
+lease using the net investment method (before tax), which reflects a constant periodic rate of return.
+IFRS9replacestheprovisionsofIAS39thatrelatetotherecognition,classificationandmeasurementoffinancialassets
+andfinancialliabilities;derecognitionoffinancialinstruments;impairmentoffinancialassetsandhedgeaccounting.IFRS9
+Financial assets
+Itisthe Company’s policyto initiallyrecognise financial assets atfair value plus transaction costs,except in the case of
+financial assets recorded at fair value through profit or loss which are expensed in profit or loss.
+cost, fair value through profit or loss and at fair value through other comprehensive income.
+The business models applied to assess the classification of the financial assets held by the company are;
+• Hold to collect: Financial assets in this category are held bythe Companysolely to collect contractual cash flows and
+thesecashflowsrepresentssolelypaymentsofprincipalandinterest.Assetsheldunderthisbusinessmodelaremeasured
+• Fair value through other comprehensive income: Financial assets in this category are held to collect contractual cash
+interest. These financial assets are measured at fair value through other comprehensive income.
+• Fair value through profitor loss:This categoryisthe residual categoryfor financial assets thatdo notmeet the criteria
+described above. Financial assets in this category are managed in order to realise the asset’s fair value.
+ThefinancialassetsofDangoteSugarareheldtocollectcontractual cashflowsthataresolelypaymentsof principal(for
+non-interest bearing financial assets) or solely payments of principal and interest ((for interest bearing financial assets)
+The Company’s financial assets include trade and other receivables, cash and cash equivalents. They are included in
+currentassets,exceptformaturitiesgreaterthan12monthsafterthereportingdate.Interestincomefromtheseassetsis
+includedinfinanceincomeusingtheeffectiveinterestratemethod.Anygainorlossarisingonderecognitionisrecognised
+directly in profit or loss and presented in finance income/cost.
+Financial liabilities
+Financial liabilities of the Company are classified and measured at fair value on initial recognition and subsequently at
+amortised cost net of directly attributable transaction costs. The Company’s financial liabilities include trade and other
+Impairment of financial assets
+applicabletofinancial assetsmeasured atamortised costor atfair valuethrough othercomprehensive income(FVOCI).
+the gross carrying amount of the receivable to arrive at the loss allowance for the period.
+of legal action, sanction or other regulatory penalties that may impair future financial performance. Financial assets
+that can occur within one year, while assets in stage 2 or 3 have their ECL measured on a lifetime basis.
+information,suchasthegrossdomesticproduct(GDP)inNigeria,inflationandexchangerate,toarriveatanECLwhichis
+Loss allowances for financial assets measured at amortised cost are deducted from the gross carrying amount of the
+related financial assets and the amount of the loss is recognised in profit or loss.
+TheCompanyassessesthecreditriskofitsfinancialassetsbasedontheinformationobtainedduringperiodicreviewof
+Company identifies the assets that require close monitoring.
+Furthermore, financial assets that have been identified to be more than 30 days past due on contractual payments are
+assessed to have experienced significant increase in credit risk. These assets are grouped as part of Stage 2 financial
+assets where the three-stage approach is applied.
+Financial assets
+financial assets are recognised in profit or loss.
+Financial liabilities
+carrying amounts is recognised immediately in the statement of profit or loss.
+Offsetting of financial assets and financial liabilities
+Financial assets and liabilities are offset and the net amount is reported in the statement of financial position when there is
+The Group presents basic and diluted earnings per share (EPS) data for its ordinary shares. Basic EPS is calculated by
+dividing the profit or loss attributable to ordinary shareholders of the Group by the weighted average number of ordinary
+shares outstanding during the period, adjusted for own shares held, if any. Diluted EPS is determined by adjusting the profit
+or loss attributable to ordinary shareholders and the weighted average number of ordinary shares outstanding, adjusted for
+the effects of all dilutive potential ordinary shares.
+translation at year-end exchange rates of monetary assets and liabilities denominated in foreign currencies are recognized
+in the statement of profit or loss and other comprehensive income.
+Non-monetary assets and liabilities in a foreign currency that are measured in terms of historical cost are translated using
+Non-monetary assets and liabilities denominated in foreign currencies that are stated at fair value are translated to the
+Borrowing costs directly attributable to the acquisition, construction, or production of qualifying assets, which are assets that
+assets, until such time as the assets are substantially ready for their intended use or sale.
+Investment income earned on the temporary investment of specific borrowings pending their expenditure on qualifying
+assets is deducted from the borrowing costs eligible for capitalization.
+All other borrowing costs are recognised in profit or loss in the period in which they are incurred.
+- that engages in business activities from which it may earn revenue and incur expenses (including revenues and expenses
+2.20 Biological assets
+Recognition of assets
+The Group recognises biological assets or agricultural produce when, and only when, all of the following conditions are met:
+transactions are outside the scope of the reporting standard on Business Combinations (IFRS 3). The assets and the liabilities of
+Any difference arising between the acquirer’s cost of investment and the acquiree’s net assets is recorded directly in equity. Any
+non-controlling interest is measured as a proportionate share of the book values of the related assets and liabilities. Comparative
+of control). Any expenses incurred as a result of the combination are written off immediately in the statement of profit or loss and
+other comprehensive income.
+significantriskofcausingamaterialadjustmenttothecarryingamountsofassetsandliabilitieswithinthenextfinancialyear,are
+i) Impairment of financial assets
+The loss allowances for financial assets are based on assumptions about risk of default, expected loss rates and maximum
+ii) Fair values of biological assets
+The directors have developed a model using the multi-period excess earnings method (MPEEM) under the income approach for the
+distribution expenses, administrative expenses and contributory assets charges.
+5 Revenue GROUP GROUP GROUP COMPANY COMPANY COMPANY
+Revenue from the sale of sugar - 50kg 416,854,000 643,735,203 284,193,427 416,854,000 643,735,203 284,193,427
+Revenue from the sale of sugar - Retail 10,032,121 17,454,099 8,604,326 10,032,121 17,454,099 8,604,326
+Revenue from the sale of molasses 3,285,983 4,161,935 2,558,868 3,285,983 4,161,935 2,558,868
+Freight income 39,812 338,526 267,819 39,812 338,526 267,819
+6.1 Segmental revenue and results
+Revenue from external customers by region of operations is listed below.
+Segment Revenue Segment Cost of Sales Segment Gross Profit
+Segment Revenue Segment Cost of Sales Segment Gross Profit/(loss)
+6.2 Segment assets and liabilities
+Theamountprovidedtothechiefoperatingdecisionmakerwithrespecttototalassetsaremeasuredinamannerconsistentwiththatof
+the financial statements. These assets are allocated based on the operations of the of the segment and the physical location of the asset.
+Investments in shares held by the Group and deferred tax assets are not considered to be segment assets and are not allocated to
+Capital expenditure reflects additionals to non-current assets, other than financial instruments, deferred tax assets, post employment
+benefit assets and rights arising under insurance contracts.
+Theamountsprovidedtothechiefoperatingdecisionmakerwithrespecttothetotalliabilitiesaremeasuredinamannerconsistentwith
+that of the financial statements. These liabilities are allocated based on the operations of the segment.
+The Group's interest-bearing liabilities are not considered to be segment liabilities but rather are managed by the Group's treasury function.
+Thetablebelowprovidesinformationonthesegmentassetsandliabilitiesaswellasareconciliationtototalassetsandliabilities asper
+Total Segment Assets Total Segment liabilities
+Unallocated deferred tax - - - 8,231,388 - 102,509,375
+Tota(l1 S,0e5g0m,8e3n2t, 7A2s9sets Total Segment liabilities
+Unallocated deferred tax - - - 8,231,388 - 102,509,373
+The company has one Customer (NBC) whose Sales make up 31.74% of total revenue. The revenue from the customer within the Second
+Quarter 2025 is 63.9 billion and the revenue from the Customer is included in the Lagos Region.
+to distributors account for 65% of the Group's revenue.
+TheGroupprovidesadeliveryservicetocustomersbytransportingrefinedsugartootherdestinations.Freightincomerepresentsrevenueearnedinthisrespect
+9 Finance income
+Interest income on bank deposits 2,859,163 7,612,562 4,242,606 2,859,163 7,612,562 4,242,605
+11 Other income
+Insurance claim income 63,195 313,960 94,120 63,195 264,011 94,120
+Grant income 7,089 28,739 16,468 7,089 28,739 16,468
+Rental income 93,020 275,452 48,810 93,020 275,452 48,810
+WHT credit from interest income - 1,148,388 - - 1,148,388 -
+Profit on sale of asset (Note 11.1) - 17,161 - - 17,161 -
+Miscellaneous income (0) 618 - (0) 618 -
+11.1 Loss/(profit) on sale of asset for the period is arrived at as below:
+Cost of assets disposed - 22,508 - - 22,508 -
+Accum dep of assets disposed - (17,157) - - (17,157) -
+(Loss)/Profit on sale of asset - - (17,161) - - - - - (17,161) - -
+12 Taxation R
+12.1 Major components of the tax expense a
+Current Tax
+Income tax based on profit for the year 2,166,355 3,377,543 1,952,486 2,166,355 3,377,543 1,952,486
+Education tax expense - - - - - -
+Deferred tax
+Deferred tax expense/(credit) recognised in the
+relation to the deferred tax of prior periods
+Total deferred tax credit 2,166,355 - (81,654,904) - (67,411,592) - 2,166,355 - (78,277,361) - (67,411,592)
+Total tax credit recognised in profit or loss 4,332,710 - (78,277,361) - (65,459,106) - 4,332,710 - (74,899,818) - (65,459,106)
+Recognised in other comprehensive income - 106,568,810 - - 106,568,810 -
+Thetaxratesusedintheabovecomparativefiguresarethecorporatetaxrateof30%(2023:30%)payablebycorporateentitiesinNigeria.EducationTaxrateisalso
+payableat3%ofassessableprofit(2023:3%ofassessableprofit)whilePoliceTrustFundLevyis0.005%(2023:0.005%)ofthenetprofitofthecompaniesoperating
+12.2 Reconciliation of the tax expense
+Reconciliation between accounting profit and tax expense
+Accounting profit before tax (22,107,973) - (270,894,179) - ( 106,857,693) - (19,046,596) - (269,143,810) - ( 106,262,140)
+Income tax expense calculated at 30% of PBT - (80,743,143) 1,952,486 - (80,743,143) 1,952,486
+Tertiary education tax expense calculated at 2.5% of
+assessable profits
+Effect of income that is exempt from taxation - (67,875) - - (67,875) -
+determining taxable profit - 774,368 - - 774,368 -
+Effectof tax adjustments (minimim tax, dividend tax etc) - 3,375,268 - - 3,375,268 -
+to the deferred tax of prior periods
+Adjustment recognised due to difference in tax rate - (1,612,546) - - (1,612,546) -
+Income tax expense recognised in profit or loss - (78,277,361) (13,572,063) - (78,277,361) (13,572,063)
+12.3 Current tax liabilities
+13 Deferred tax balances
+Deferredincometaxesarecalculatedonalltemporarydifferencesundertheliabilitymethodusinganeffectivetaxrateof30%(2022:30%).Thedeferredtaxassets
+and the deferred tax liability relate to income tax in the same jurisdiction and the law allows net settlement.
+Deferredtaxassets arerecognisedonlytothe extentthat isprobable thatfuture taxableprofit willbe availableagainst whichthe temporarydifferences canbe
+Deferred tax assets /(iabilities)
+Deferred tax liabilities are attributable to the following:
+Unutilised tax credits 5,635,987 5,635,987 - 5 ,635,987 5,635,987 -
+Tax losses 60,977,236 60,977,236 - 6 0,977,236 60,977,236 -
+Net defered tax assets 8,231,388 8,231,388 102,509,375 8,231,388 8,231,388 102,509,375
+13 Deferred tax balances (Continued)
+Deferred income tax charged in profit or loss ("P/L) are attributable to the following items:
+13.1 Deferred tax reconciliation Opening Movement Movement Closing
+Deferred tax (liabilities)/assets in relation to:
+Unutilised tax credits - ( 5,635,987) - ( 5,635,987)
+Tax losses - ( 60,977,236) - ( 60,977,236)
+Deferred tax (liabilities)/assets in relation to:
+14 Operating profit
+Profit for the period is arrived at after charging/(crediting):
+14.1 Operating profit is arrived at as below:
+Gross profit 51,677,098 31,109,484 18,138,790 5 1,677,098 31,109,484 18,138,790
+Other income 11 244,952 2,213,001 215,681 1 91,794 2,061,075 168,287
+Impairment (losses)/gains on financial assets 23 ( 511,388) (907,121) 33,972 ( 511,388) (907,121) 33,972
+Basicearningspershareisdeterminedbydividingprofitorlossattributabletotheordinaryequityholders byweightedaveragenumberofordinarysharesoutstandingduringthe
+The weighted average number of ordinary shares used in the calculation of earnings per share are as follows:
+Weighted average number of ordinary shares for the purpose of
+The following Right-of Use assets have been included in the property, plant and equipment movement schedules above:
+17 Biological assets
+Description of biological assets and activities
+Biologicalassetscompriseofgrowingcane.Thegrowingcanerepresentsbiologicalassetswhichareexpectedtobeharvestedasagriculturalproduce,
+intendedforproductionofsugar.Thebiologicalassetshavebeenmeasuredatfairvaluelesscosttosell.Asat31Mar,2025,thegrouphasatotalof8,600
+TheGroupadoptedthemulti-periodexcessearningsmethod(MPEEM)undertheincomeapproach toestimatingthefairvalueoftheBiologicalAssets.TheMPEEM
+estimatesthefairvalueofanassetbasedonthecashflowsattributabletotheassetafterdeductingthecashflowsattributabletootherassets(contributoryassets).
+considered as contributory assets for the purpose of MPEEM valuation.
+The fair value of biological assets are determined based on unobservable inputs, using the best information available in the circumstances and therefore falls within the
+level 3 fair value category. Growing cane were valued using the income approach.
+Changes in fair value of the biological asset are recognised in the statement of profit and loss.
+18 Other assets
+21 Deposit for shares
+Dangote Adamawa Sugar Ltd and Nasarawa Sugar Company Limited) shall be converted to deposit for shares or equity contribution in the books of both DSR and the
+respective entities and same shall thereafter be converted to equity in future.
+Other financial assets 20,197,244 39,353,280 57,701,685 20,185,659 39,341,695 57,690,100
+assets accordingly.
+23.2 Allowance for impairment of financial assets
+23.3 Provision for impairment (gain)/loss on financial assets GROUP GROUP GROUP COMPANY COMPANY COMPANY
+Balance at January 1 ( 12,146,878,239 Ordinary shares of
+12,146,878,239 Ordinary shares issued at N0.5 each 6,073,439 6,073,439 6,073,439 6,073,439 6,073,439 6,073,439
+12,000,000,000 ordinary shares of N0.5 each issued at
+Income tax on revaluation surplus (106,568,811) (106,568,811) - (106,568,811) (106,568,811) -
+Share of Profit/(loss) for the period (30,614) (17,504) (7,584) - - -
+TheGroupoperatesadefinedcontributionretirementbenefitplanforallqualifyingemployees.Theassetsoftheplansareheldseparatelyfromthoseof
+Theemployeescontribute8%oftheirgrosssalary(basic,housingandtransport)whiletheGroupcontributes10%onbehalfoftheemployeestothe
+30 Financial Liabilities
+Non-current liabilities - - - - - -
+Current liabilities 735,208,972 717,507,521 639,933,321 735,177,701 717,476,251 639,849,626
+Non-current liabilities 123,486,496 37,253,788 394,318 123,486,496 37,253,788 394,318
+Current liabilities - 109,068,030 - - 109,068,030 -
+palliative. However, it was subsequently reviewed back to 9% in Q3 2022. It is secured on fixed and floating assets of Dangote Sugar Refinery, Numan
+31 Other Liabilities
+Lease liabilities
+31.2 Amounts recognised in the statement of profit or loss
+Depreciation charge on right of use assets
+Lease rental recognised in profit or loss as rental income in which the Group acts as a lessor is as shown below:
+Other income
+Rental income on operating lease (Note 11) 93,020 2 75,452 48,810 9 3,020 2 75,452 4 8,810
+ThecapitalstructureoftheGroupismadeupofequitycomprisingissuedcapital,sharepremiumandretainedearnings.TheGroupisnotsubjecttoanyexternallyimposed
+statement of financial position as at 30 June 2025) less cash and cash equivalents. Total capital is calculated as ‘equity' as shown as at 31 March 2025 plus net debt.
+Total Equity 184,787,585 212,227,674 (64,762,254) 158,482,516 179,695,467 (61,439,724)
+andbymatchingthematurityprofilesoffinancialassetsandliabilities.Tomanageliquidityrisk,ourallocationofLettersofCreditonrawsugarandspares/chemicalsare
+Financialliabilitiesthatcanberepaidatanytimehavebeenassignedtotheearliestpossibletimeperiod.Itisnotexpectedthatthecash
+ThecarryingvalueoftheGroup'sfinancialassetsrepresentsitsmaximumexposuretocreditrisk.Themaximumexposuretocreditriskatthereportingdate
+ExcludedfromtheotherreceivablesbalanceshownabovearetheVAT,advancetovendors,WithholdingtaxreceivableandNDCCreceivables,theseare
+monitors interest rate exposures on its investment portfolio and borrowings so as to minimise the effect of interest rate fluctuations on the income statement.
+33 Financial assets by category
+Assets
+34 Financial liabilities by category
+Liabilities
+Lease liabilities 5,502,178 5,295,371 4,142,086 5,627,749 5,404,231 4,064,670
+Gross amount due from related parties (Note 23) 6,871,731 8,878,020 5,944,705 6,871,731 8,878,020 5,944,705
+taxable persons shall be carried out in a manner that is consistent with arm's length principle has come up with basis of computing its
+Royalty payment shall be made in addition to management fees payable from 1 January 2015 at the rate of 0.5% of the total revenue.
+In compliance with Rule 17.15 Disclosure of Dealings in Issuers’ Shares, Rulebook of The Exchange 2015 (Issuers’ Rule), Dangote Sugar Refinery Plc maintains a Security
+shares. The Policy undergoes periodic review by the Board and is updated accordingly. The Company has made specific inquiries of all its directors and other insiders and is not

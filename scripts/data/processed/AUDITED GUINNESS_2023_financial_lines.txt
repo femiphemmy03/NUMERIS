@@ -1,0 +1,538 @@
+Income Statement 36
+Statement of Comprehensive Income 37
+Statement of Changes in Equity 38
+Revenue 229,440,861 206,822,127 11 %
+Profit from operating activities 23,357,684 23,900,060 (2) %
+(Loss)/profit for the year (18,168,041) 15,651,362 (216) %
+Total comprehensive (loss)/income for the year (18,168,041) 15,599,736 (216) %
+Total equity 56,424,616 89,979,391 (37) %
+Net assets per share 2,576 4,108 (37) %
+experience in Business Strategy, Finance and Tax management supported by a solid background in FMCG, Oil and gas and
+Ms. Edozien has over 30 years’ experience in consulting, finance/private equity, general management and business
+Edozien was the Head of West Africa for Actis LLP an emerging markets private equity firm where she completed a
+He is the author of the books – 'The Law & Practice of Private Equity'; 'Ship Acquisition & Finance: Law & Practice';
+focused private equity infrastructure fund, that is a joint venture between Asset & Resource Management Holding Company
+Revenue 229,440,861 206,822,127
+Profit from operating activities 23,357,684 23,900,060
+(Loss)/profit before income tax (22,138,599) 23,674,161
+Tax credit/(expense) 3,970,558 (8,022,799)
+(Loss)/profit for the year (18,168,041) 15,651,362
+Other comprehensive loss, net of tax — (51,626)
+Total comprehensive (loss)/income for the year (18,168,041) 15,599,736
+Directors Number of shares Number of shares
+The Share Capital of the Company stands at N1,095,191,409.50k divided into 2,190,382,819 ordinary shares of 50 kobo
+As at 30th June 2023, the issued and fully paid-up share capital of the Company is 2,190,382,819 ordinary shares of 50
+kobo each (2022: 2,190,382,819 ordinary shares of 50 kobo each).
+- Guinness Overseas Limited (a subsidiary of Diageo plc) with 1,099,230,804 ordinary shares (2022: 1,099,230,804
+ordinary shares) constituting 50.18% shareholding (2022: 50.18% shareholding);
+- Atalantaf Limited (a subsidiary of Diageo plc) with 171,712,564 ordinary shares (2022: 171,712,564 ordinary shares)
+- Stanbic IBTC Nominees Limited with 140,075,979 ordinary shares (2022: 136,610,979 ordinary shares) constituting
+- Mutima Opportunity Fund LP with 122,857,111 ordinary shares (2022: 112,502,111 ordinary shares) constituting 5.61%
+a sound system of internal controls to safeguard shareholders’ investments and the Company’s assets. There are currently
+ordinary course of business, for example bank borrowings and acquisitions or disposals of fixed assets of
+voting shares of any company or the making of any takeover offer.
+Similarly, the Committee reviewed reports on significant tax risks, management of the risk of fraud, risks relating to
+– Employment Equity and Equality
+Equity and Equality are a key part of to our purpose of ‘Celebrating life, every day, everywhere’. We remain committed to
+skills, business modelling and simple business arithmetic as well as provision of trade assets and seed capital to start off
+ACQUISITION OF OWN SHARES
+The Company did not purchase any of its own shares during the 2023 financial year (2022: Nil).
+give a true and fair view of the state of financial affairs of the Company at the end of the year and of its profit or loss. The
+a) keeps proper accounting records that disclose, with reasonable accuracy, the financial position of the Company and
+b)establishes adequate internal controls to safeguard its assets and to prevent and detect fraud and other irregularities, and
+the Company and of its profit. The Directors further accept responsibility for the maintenance of accounting records that
+ASSETS N’000 N’000
+Non-current assets
+Right-of-use assets 24(a) 217,574 368,512
+Intangible assets 16 549,950 326
+Total non-current assets 99,945,171 98,059,172
+Current assets
+Total current assets 141,802,973 117,601,036
+Total assets 241,748,144 215,660,208
+Equity
+Total equity 56,424,616 89,979,391
+Liabilities
+Non-current liabilities
+Lease liabilities 24(b) 154,272 177,144
+Deferred tax liabilities 27 479,144 10,443,073
+Total non-current liabilities 1,652,105 11,948,187
+Current liabilities
+Current tax liabilities 13(d) 5,256,637 8,740,294
+Lease liabilities 24(b) 29 51
+Contract liabilities 8(b) 1,590,422 1,866,384
+Total current liabilities 183,671,423 71,54 9,317133,732,630
+Total liabilities 185,323,528 125,680,817
+Total equity and liabilities 241,748,144 215,660,208
+Income Statement
+Revenue 8(a) 229,440,861 206,822,127
+Gross profit 78,133,073 72,662,756
+Other income 9 3,530,586 2,739,969
+Net (charge for)/release of expected credit loss on financial assets 11(c) (9,106) 96,045
+Profit from operating activities 23,357,684 23,900,060
+Finance income 10(a) 7,789,340 1,904,144
+(Loss)/profit before income tax (22,138,599) 23,674,161
+Tax credit/(expense) 13 3,970,558 (8,022,799)
+(Loss)/profit for the year (18,168,041) 15,651,362
+Statement of Comprehensive Income
+(Loss)/profit for the year (18,168,041) 15,651,362
+Other comprehensive income — —
+Items that will never be reclassified to the income statement
+Tax credit on other comprehensive loss 27 — 22,126
+Other comprehensive loss for the year, net of tax — (51,626)
+Total comprehensive (loss)/income for the year (18,168,041) 15,599,736
+Statement of Changes in Equity
+Notes Total equity
+Total comprehensive income
+Profit for the year — — — 15,651,362 15,651,362
+Total comprehensive income for the year — — — 15,599,736 15,599,736
+directly in equity
+Dividends to equity holders 22(b) — — — (1,007,576) (1,007,576)
+Total comprehensive income
+Total comprehensive income for the year — — — (18,168,041) (18,168,041)
+directly in equity
+Dividends to equity holders 22(b) — — — (6,564,798) (6,564,798)
+(Loss)/profit before income tax (22,138,599) 23,674,161
+Depreciation of right-of-use assets 24(a) 133,844 140,758
+Amortization of intangible assets 16(a) 88,385 1,765
+Finance income 10(a) (7,789,340) (1,904,144)
+Income tax paid 13(d) (9,477,028) (642,324)
+Value added tax paid 28(b) (12,999,573) (9,935,557)
+Acquisition of intangible assets 16(a) (127,585) —
+Repayment of the principal portion of the lease liabilities 24(b) (5,799) (377,774)
+8 Revenue 56 - 57 26 Share based payments 78 - 79
+9 Other income 57 27 Deferred tax liabilities 80
+10 Finance income and finance costs 57 - 58 28 Trade and other payables 81
+11 Profit before taxation 58 - 60 29 81 - 90
+13 Taxation 61 - 62 31 90 - 93
+16 Intangible assets 66 - 67
+resulted in N49,095 million unrealized foreign exchange loss. The underlying business remains highly profitable and
+and power further revenue growth, profit and cash generation in subsequent financial years. The management is satisfied
+In compliance with Rule 17.15 Disclosure of Dealings in Issuers’ Shares, Rulebook of the Exchange 2015 (Issuers Rule),
+members, employees and all individuals categorized as insiders as to their dealing in the Company’s shares. The Code
+assumptions that affect the application of accounting policies and the reported amounts of assets, liabilities, income and
+Note 13 - Current taxes
+Note 27 - Deferred tax
+non-financial assets and liabilities.
+Level 1 - quoted prices (unadjusted) in active markets for identical assets or liabilities
+Share-based payment transactions Grant date fair value of the equity instrument issued.
+assets and liabilities at carrying amounts recorded in their parent’s books to also measure any cumulative translation
+liabilities.
+• IAS 41 Agriculture – removal of the requirement for entities to exclude cash flows for taxation when measuring fair value
+under IAS 41. This amendment is intended to align with the requirement in the standard to discount cash flows on a post-tax
+provision for an onerous contract, the entity recognizes any impairment loss that has occurred on assets used in fulfilling the
+Amendments to IAS 1: Classification of Liabilities as Current or Non-Current
+The narrow-scope amendments to IAS 1 Presentation of Financial Statements clarify that liabilities are classified as either
+The amendments could affect the classification of liabilities, particularly for entities that previously considered
+management’s intentions to determine classification and for some liabilities that can be converted into equity. They must be
+Amendments to IAS 12: Deferred Tax related to Assets and Liabilities arising from a Single Transaction
+The amendments to IAS 12 Income Taxes require companies to recognize deferred tax on transactions that, on initial
+recognition, give rise to equal amounts of taxable and deductible temporary differences. They will typically apply to
+deferred tax assets and liabilities.
+presented. In addition, entities should recognize deferred tax assets (to the extent that it is probably that they can be utilised)
+and deferred tax liabilities at the beginning of the earliest comparative period for all deductible and taxable temporary
+• right-of-use assets and lease liabilities and
+• decommissioning, restoration and similar liabilities, and the corresponding amounts recognized as part of the cost
+of the related assets.
+equity, as appropriate.
+Monetary assets and liabilities denominated in foreign currencies are translated to the functional currency at the exchange
+rate at the reporting date. Non-monetary assets and liabilities that are measured at fair value in a foreign currency are
+differences are generally recognized in income statement. Non-monetary items that are measured based on historical cost in
+Financial assets and financial liabilities are recognized in the Company’s statement of financial position when, and only
+All regular way purchases or sales of financial assets are recognized and derecognized on a trade date basis. Regular way
+purchases or sales are purchases or sales of financial assets that require delivery of assets within the time frame established
+Financial assets and financial liabilities - Recognition and initial measurement
+Trade receivables and debt securities issued are initially recognized when they are originated. All other financial assets and
+financial liabilities are initially recognized when the Company become a party to the contractual provisions of the
+• Financial assets or financial liabilities classified as fair value through profit or loss are measured at fair value
+• All other categories of financial assets and financial liabilities are measured at their fair value plus or minus
+i. Financial assets
+The Company classifies its financial assets into the following categories:
+• Financial assets that are held within a business model whose objective is to hold assets in order to collect
+• Financial assets that are held within a business model whose objective is achieved by both collecting contractual
+cash flows and selling financial assets, and for which the contractual terms of the financial asset give rise on
+are classified and measured at fair value through other comprehensive income
+• All other financial assets are classified and measured at fair value through profit or loss
+◦ on initial recognition of an equity investment that is not held for trading, irrevocably elect to classify and
+measure it at fair value through other comprehensive income
+through profit or loss if doing so eliminates or significantly reduces a measurement or recognition
+Financial assets held during the year were classified as at amortized cost: trade and other receivable and balances with
+The Company’s financial assets include trade and other receivables. They are included in current assets, except for
+maturities greater than 12 months after the reporting date. Interest income, dividend income and exchange gains and losses
+on monetary items are recognised in profit or loss.
+assets are recognized in the statement of profit or loss.
+ii. Financial liabilities
+Financial liabilities are classified either financial liabilities at amortized cost or financial liabilities at fair value through
+profit or loss. The Company’s financial liabilities are classified as financial liabilities at amortized cost. The Company has
+no financial liabilities in any other category. Management determines the classification of financial liabilities at initial
+The Company’s financial liabilities include borrowings, trade and other payables, amount due to related parties and accrued
+expenses. They are classified as current liabilities if payment is within one year or less. Otherwise, they are classified as
+non-current liabilities.
+Financial liabilities are recognized initially at fair value, net of any transaction costs. Subsequently, they are measured at
+respective carrying amounts is recognized immediately in the statement of profit or loss.
+iii. Offsetting of financial assets and financial liabilities
+Financial assets and liabilities are offset and the net amount is reported in the statement of financial position when there is a
+The Company has one class of shares, ordinary shares. Ordinary shares are classified as equity. When new shares are issued,
+Incremental costs directly attributable to the issue of ordinary shares are recognized as a deduction from equity, net of any
+tax effects.
+Dividends on ordinary shares are charged to equity in the period in which they are declared.
+equipment are tangible assets which the Company holds for its own use or for rental to others and which are expected to be
+and direct labour, any other costs directly attributable to bringing the assets to a working condition for their intended use
+and borrowing costs on qualifying assets.
+General and specific borrowing costs directly attributable to the acquisition, construction or production of qualifying assets,
+which are assets that necessarily take a substantial period of time to get ready for their intended use or sale, are added to the
+cost of those assets, until such time as the assets are substantially ready for their intended use or sale. Investment income
+earned on the temporary investment of specific borrowings pending their expenditure on qualifying assets is deducted from
+the borrowing costs eligible for capitalisation. All other borrowing costs are recognized in profit and loss in the period in
+used during more than one accounting period should be carried as inventory and expensed in the income statement.
+is included in profit or loss when the item is derecognized.
+The residual value. useful life and the depreciation method of assets are reviewed at each financial year-end and, if
+All other repairs and maintenance are charged to profit or loss during the reporting period in which they incurred.
+income statement on a straight-line basis over the estimated useful lives of each part of an item of property, plant and
+Depreciation should not be charged to the income statement if included in carrying amount of another asset.
+Leased assets are depreciated over the shorter of the lease term and their useful lives unless it is reasonably certain that the
+Company will obtain ownership by the end of the lease term in which case the assets are depreciated over the useful life.
+The residual value. useful life and the depreciation method of assets are reviewed at each financial year-end and, if
+Impairment reviews on property, plant and equipment assets are only required to be carried out if circumstances indicate
+The asset values are maintained accurately through the normal depreciation process - where the gross book value of a
+(f) Intangible assets
+The Company’s accounting policy is in accordance with IAS 38 Intangible assets. An intangible asset is recognized when it
+The Company's intangible assets with finite useful life comprises computer software, concession right and distribution right.
+Intangible assets that are acquired by the Company and have finite useful lives are measured at cost less accumulated
+including import duties, non-refundable purchase taxes, net of any trade discounts and rebates received, and directly
+Amortization is recognized in the income statement on a straight-line basis over the estimated useful lives of intangible
+assets. The amount to be amortized is the asset’s cost less its residual value. The residual value of an intangible asset should
+in profit or loss when the item is derecognized.
+Inventories are assets held for sale in the ordinary course of business, in the process of production for such sale, or in the
+i. Financial assets
+applicable to financial assets classified at amortized cost or fair value through other comprehensive income under IFRS 9:
+financial assets measured at amortized cost are deducted from the gross carrying amount of the related financial assets and
+the amount of the loss is recognized in profit or loss.
+The gross carrying amount of the financial asset has to be reduced (written off) in case there is no reasonable expectation of
+ii. Non-financial assets
+All non-financial assets like property, plant and equipment's, intangible assets, inventories and other non-financial assets are
+assets, other than deferred income tax assets and inventories are reviewed at each reporting date to determine whether there
+use, the estimated future cash flows are discounted to their present value using a pre-tax discount rate that reflects current
+For the purpose of impairment testing, assets that cannot be tested individually are grouped together into the smallest group
+of assets that generates cash inflows from continuing use that are largely independent of the cash inflows of other assets or
+groups of assets (the “cash-generating unit or CGU”).
+The Company’s corporate assets do not generate separate cash inflows. If there is an indication that a corporate asset may be
+fund does not hold sufficient assets to pay all employees the benefits relating to employee service in the current and prior
+defined benefit obligation at the end of the reporting period less the fair value of plan assets. The defined benefit obligation
+fair value of plan assets. This cost is included in employee benefit expense in the statement of profit or loss.
+in the period in which they occur, directly in other comprehensive income. They are included in retained earnings in the
+statement of changes in equity and in the balance sheet.
+recognized immediately in profit or loss as past service costs.
+are charged in full to other comprehensive income. The Company ensures that adequate arrangements are in place to meet
+expense to income statement over the service life of the employees.
+actuarial assumptions are recognized in full in profit or loss.
+obligation can be estimated reliably. Liabilities for wages and salaries, including non-monetary benefits, annual leave and
+and are measured at the amounts expected to be paid when the liabilities are settled.
+The fair value of equity settled share options and share grants is initially measured at grant date based on the binomial or
+Monte Carlo models and is charged in the income statement over the vesting period. For equity settled share-based
+payments, the credit is included in share-based payment reserve in equity whereas for cash settled share-based payments a
+period until the liability is settled, and at the date of settlement, with any changes in the fair value recognized in the income
+recognized in income statement immediately.
+finance cost is charged to profit or loss over the lease period so as to produce a constant periodic rate of interest on the
+Right-of-use assets are subsequently measured at cost less accumulated depreciation and any accumulated impairment
+the total lease payments are recognized in profit or loss on a straight-line basis over the lease period.
+as income in the profit and loss account on a straight-line basis over the lease term.
+(l) Provisions and contingent liabilities
+Provisions are determined by discounting the expected future cash flows at a pre-tax rate that reflects current market
+Contingent liabilities
+Contingent liabilities are only disclosed and not recognized as liabilities in the statement of financial position. If the
+(m) Revenue from Contracts with Customers
+The Company recognizes revenue from the sale of goods and services in the ordinary course of activities. The Company
+recognizes revenue at a point in time as and when it satisfies a performance obligation by transferring control of a product or
+Revenue is measured at the fair value of the consideration received or receivable for goods or services in accordance with
+the terms of the contract, and it is stated net of value added tax (VAT), rebates, discounts and returns. A valid contract is
+recognized as revenue after:
+the principal in all of its revenue arrangement since it is the primary obligor in most of the revenue arrangements, has
+Sale of goods arises from sale of drinks to third parties and related parties. Revenue from the sale of goods is recognized
+Revenue from sale of drinks is recognized based on the price specified in the contract, net of the estimated rebates and
+Returns on goods are estimated at the inception of the contract except where the timing between when the revenue is
+the company to estimate expected returns which should not be recognized as revenue until the return period lapses.
+a corresponding adjustment to revenue for the year ended 30 June 2023. A right of recovery asset of N44.59 million (2022:
+wholesalers but are considered the company's assets. CDL balance assessment is carried out during the financial year and
+Recognition of contract liabilities
+The Company introduced the presentation of liabilities in the statement of financial position to reflect the requirements of
+IFRS 15. Contract liabilities have been reclassified from customer deposits as at 30 June 2023 which are advance payments
+Revenue on delivery services are recognized when the goods have been shipped to the required location. Control passes to
+the customer over time as the goods are being transported but recognizes revenue at a point in time. This is because the
+(n) Contingent assets
+Contingent assets are not recognized in the financial statements since this may result in the recognition of income that may
+never be realized. However, when the realization of income is virtually certain, then the related asset is not a contingent
+Contingent assets are assessed continually to ensure that developments are appropriately reflected in the financial
+statements. If it has become virtually certain that an inflow of economic benefits will arise, the asset and the related income
+included as part of Other income in the financial statements.
+(o) Finance income and finance costs
+Finance income comprises interest income on funds invested. Interest income is recognized in profit or loss on a time
+Finance costs comprise interest expense on borrowings, interest expense on lease liabilities, unwinding of the discount on
+provisions, interest expense on factoring of trade receivables recognized on financial assets, except finance costs that are
+related assets, are recognized in income statement using the effective interest method.
+Foreign currency gains and losses are reported separately as either finance income and finance cost respectively.
+(p) Taxation
+The tax expense for the period comprises current and deferred income tax. Current and deferred tax is recognized in profit
+or loss, except to the extent that it relates to items recognized in other comprehensive income or directly in equity. In this
+case, the tax is also recognized in other comprehensive income or directly in equity respectively.
+i. Current income tax
+The current income tax charge is calculated on the basis of the tax laws enacted or substantively enacted at the end of the
+reporting period. The directors periodically evaluate positions taken in tax returns with respect to situations in which
+applicable tax regulation is subject to interpretation. It establishes provisions where appropriate on the basis of amounts
+expected to be paid to the tax authorities.
+Tax assets and liabilities are offset if there is a legally enforceable right to offset current tax liabilities and assets, and they
+relate to income taxes levied by the same tax authority on the same taxable entity, or on different tax entities, but they intend
+to settle current tax liabilities and assets on a net basis or their tax assets and liabilities will be realized simultaneously.
+ii. Deferred income tax
+Deferred tax is recognized, using the liability method, on temporary differences arising between the carrying amounts of
+assets and liabilities for financial reporting purposes and the amounts used for taxation purposes. Deferred tax is not
+i. the initial recognition of assets or liabilities in a transaction that is not a business combination and that affects
+neither accounting nor taxable income statement.
+Deferred income tax is determined using tax rates (and laws) that have been enacted or substantively enacted at the
+reporting date, and are expected to apply when the related deferred income tax asset is realized or the deferred income tax
+Deferred income tax assets are recognized only to the extent that it is probable that future taxable profits will be available
+Deferred tax assets and liabilities are offset if there is a legally enforceable right to offset current tax liabilities and assets,
+and they relate to income taxes levied by the same tax authority on the same taxable entity, or on different tax entities, but
+they intend to settle current tax liabilities and assets on a net basis, or their tax assets and liabilities will be
+Significant judgement is required in determining the Company’s provision for income taxes. There are many transactions
+and calculations for which the ultimate tax determination is uncertain during the ordinary course of business. The Company
+recognizes liabilities for anticipated tax audit issues based on estimates of whether additional taxes will be due. Where the
+final tax outcome of these matters is different from amounts that were initially recorded, such differences will impact the
+current income tax and deferred income tax provisions in the period in which such determination is made.
+The Company presents basic and diluted earnings per share (EPS) data for its ordinary shares. Basic EPS is calculated by
+shares outstanding during the period. Diluted EPS is determined by adjusting the earnings attributable to ordinary
+shareholders and the weighted average number of ordinary shares outstanding, for the effects of all dilutive potential
+ordinary shares.
+have not resulted in cash flows such as translation differences, fair value changes, equity-settled share-based payments and
+income received is included in investing activities.
+assets and liabilities include items directly attributable to a segment as well as those that can be allocated on a reasonable
+concession asset. These amounts are charged to the income statement over the duration of the concession period, if
+current liabilities.
+classified as current assets. If not, they are presented as non-current assets.
+profit or loss.
+suppliers. Accounts payable are classified as current liabilities if payment is due within one year or less (or in the normal
+operating cycle of the business if longer). If not, they are presented as non-current liabilities. Payables are recognized
+is recognized in profit or loss over the period of the loans and borrowings, using the effective interest method.
+Loans and borrowings are classified as current liabilities unless the Company has an unconditional right to defer settlement
+8. Revenue
+a. Disaggregation of revenue from contract with customers
+Nigeria is the Company's primary geographical segment as over 99% of the Company's revenue is earned from sales in
+Nigeria. All of the Company's revenue is derived from sale of similar products with similar risks and returns. Additionally,
+there is no identifiable component of the business with up to 10% of the total revenue, the absolute measure of profit or loss
+and its assets. Thus, further segment information has not been presented.
+b. Liabilities relating to contracts with customers
+Contract liabilities 1,590,422 1,866,384
+Contract liabilities with customers as at 30 June 2023 amounting to N1,590 million (2022: N1,866 million) is included in
+current liabilities in statement of financial position.
+Revenue recognized in relation to contract liabilities
+The following table shows how much of the revenue recognized in the current reporting period relates to carried-forward
+contract liabilities
+Revenue recognized that was included in the contract liability balance at the beginning of the period 1,866,384
+There was no revenue recognized in the current year from performance obligations satisfied in previous periods. There was
+9. Other income
+a. Other income comprise:
+Income from leased assets (Note 15(j)) 123,889 381,399
+10. Finance income and finance costs
+a. Finance income is as follows:
+i. Finance income per income statement
+Total interest income arising from financial assets - received 2,212,549 991,451
+Total interest income arising from financial assets - accrued 52,363 32,844
+ii. Finance income received in the statement of cash flows
+Finance income per income statement 7,789,340 1,904,144
+Accrued finance income (52,363) (32,844)
+i. Finance cost per income statement
+Interest expense on lease liabilities (Note 24(b)) 21,607 3,477
+Finance costs per income statement 53,285,623 2,130,043
+11. Profit before taxation
+(a) Profit before taxation is stated after charging:
+Depreciation of right-of-use assets (Note 24(a)) 133,844 140,758
+Amortization of intangible assets (Note 16(a)) 88,385 1,765
+Depreciation of right-of-use assets (Note 24(a)) 133,844 140,758
+Amortization of intangible assets (Note 16(a)) 88,385 1,765
+paid to Ernst & Young Professional Services in Nigeria for Actuarial and Tax services rendered to the company.
+James Adeagbo FRC/2020/004/00000021900 Ernst & Young Tax compliance services
+Net charge for/(release of) expected credit loss on financial assets (Note 29(a)(iii)) 9,106 (96,045)
+(a) Personnel expenses including the provision for gratuity liabilities and other long term employee benefits comprise:
+13. Taxation
+The tax charge for the year has been computed after adjusting for certain items of expenditure and income, which are not
+deductible or chargeable for tax purposes, and comprises:
+a. Amounts recognized in income statement
+Current tax expense:
+Income tax 4,474,051 7,688,148
+Tertiary education tax 624,228 745,498
+Capital Gains Tax 73 198
+Deferred tax credit:
+Total tax (credit)/expense (3,970,558) 8,022,799
+(b) Tax (credit)/expense recognized in other comprehensive income
+Deferred tax arising on remeasurement of defined benefit liability (Note 27(b)) — 22,126
+(c) Reconciliation of effective tax rate
+(Loss)/profit before taxation (22,138,599) 23,674,161
+Income tax using the statutory tax rate (30%) (6,641,580) 7,102,248
+Impact of tertiary education tax 624,228 745,498
+Capital Gains Tax 73 198
+Effect of tax incentives and exempted income — (75,159)
+Total income tax (credit)/expense in income statement (3,970,558) 8,022,799
+(d) Movement in current tax liabilities
+Withholding tax credit notes utilised — (45,396)
+(Loss)/profit attributable to ordinary shareholders (N'000) (18,168,041) 15,651,362
+There were no dilutive ordinary potential shares during the years presented.
+N1,007,576) on 2,190,382,819 (2022: 2,190,382,819) ordinary shares of 50 kobo each, being the ordinary shares in issue at
+All assets are domiciled in Nigeria.
+i. During the year, the Company identified assets which are idle, damaged, obsolete and those relating to
+operational usage, hence, these assets were written off. The carrying value of assets written off is N74 million
+Assets write-offs N’000 N’000 N’000
+d. Included in property, plant and equipment are assets purchased during the year that had not been paid for and
+under operating lease arrangements. The net book value of the assets at the end of the year is Nil (2022: N89
+million). Income realized from these assets is included in other income as N124 million (2022: N381 million).
+16. Intangible assets
+a. The movement in intangible assets during the year was as follows:
+c. The amortization charge of all intangible assets is included in administrative expenses.
+inventories N534 million (2022: N604 million). The net effect in the income statement is N3,967 million (2022: N1,045
+Financial assets:
+Total financial assets 11,344,204 13,103,254
+Non-financial assets:
+Total non-financial assets 1,869,203 975,646
+Movement of expected credit loss of non-financial assets is as follows:
+Accrued finance income (Note 10(a)) 52,363 32,844
+Withholding tax credit notes applied for tax settlement (Note 13(d)) — (45,396)
+a. Authorized ordinary shares of 50k each
+in thousand of shares
+b. Issued and fully paid-up ordinary shares of 50k each
+in thousand of shares
+Share premium represents the consideration received in excess of the nominal value of ordinary shares of the
+All shares rank equally with regard to the Company’s residual assets. The holders of ordinary shares are entitled to
+Current liabilities
+Withholding tax deducted on interest expense (51,408) —
+a. Right-of-use assets
+Movement in right-of-use assets:
+Gross carrying value
+Remeasurement of right-of-use assets (Note 24(b)) 43,936 43,936
+Remeasurement of right-of-use assets (Note 24(b)) (17,094) (17,094)
+b. Lease liabilities
+Movement in lease liabilities:
+Repayment of lease liabilities:
+Repayment of the principal portion of the lease liabilities (377,774)
+Interest paid on lease liabilities (3,477)
+Current lease liabilities 51
+Non-current lease liabilities 177,144
+Repayment of lease liabilities:
+Repayment of the principal portion of the lease liabilities (5,799)
+Interest paid on lease liabilities (21,607)
+Current lease liabilities 29
+Non-current lease liabilities 154,272
+Actuarial losses/(gains) recognized in other comprehensive income
+Expense recognized in the income statement for long service award:
+c. Total expense recognized on the income statement for defined benefit obligation and long service award includes:
+f. Actuarial gains and losses recognized in other comprehensive income:
+Tax credit — (22,126)
+i) Liquidity risk The plan liabilities are not funded and as a result, there is a risk of the Company not having
+increases in life expectancy will result in an increase in the plans’ liabilities. This is
+iv) Asset volatility The plan liabilities are calculated using a discount rate set with reference to federal
+between Diageo plc and Guinness Nigeria Plc (parent grants rights over its equity instruments to the employees of
+its subsidiary) whereby vested shares awards/share options delivered to employees by Diageo plc are recharged to
+c. The employee benefit expense recognized in respect of equity settled share-based payments is as follows:
+Equity-settled share based payment transactions
+Awards made to executives under the plan are in the form of shares and share options at the market value at the time of
+have been granted conditional rights to receive shares. Awards normally vest after a three-year period, the ‘performance
+actually vest at the end of the performance cycle. Dividends can be paid in the form of cash or shares.
+Some of the employee shares/options are not included in the current opening balance disclosed.
+Analysis below shows the terms and conditions for outstanding shares based payment as at 30 June 2023:
+27. Deferred tax liabilities
+a. Recognized net deferred tax liabilities are attributable to the following:
+Assets Liabilities Net (liabilities)/assets
+Right-of-use assets — — (20,889) (62,195) (20,889) (62,195)
+b. Movement in deferred tax liabilities during the year
+Balance as at income comprehensive Balance as at Balance as at income comprehensive Balance as at
+1 July 2022 statement income 30 June 2023 1 July 2021 statement income 30 June 2022
+Right-of-use assets (62,195) 41,305 — (20,889) 13,710 (75,904) — (62,195)
+There are no unrecognized deferred tax assets and liabilities at the end of the current and preceding years.
+Financial liabilities:
+Total financial liabilities 107,435,711 68,467,373
+Non-financial liabilities:
+Refund liabilities 83,229 92,341
+Total non-financial liabilities 3,800,373 1,215,616
+Change in contract liabilities (275,962) 1,150,447
+Value added tax paid during the year 12,999,573 9,935,557
+Equity settled share based payment (Note 26 (c)) 58,994 (229,643)
+Withholding tax on accrued interest expense (Note 23 (b)) (51,408) —
+cash equivalents. The carrying amount of financial assets represents the maximum credit exposure.
+Gross carrying amount 14,451,877 13,971,886
+Reconciliation of expected credit loss on financial assets (trade and other receivables)
+Loss allowance recognized in profit or loss during the year 9,106 38,644
+Net increase in loss allowance recognized in profit or loss during the year (Note
+Gross trade receivables (N’000) 9,515,093 — — — — — 9,515,093
+Gross trade receivables (N’000) 8,958,667 13,307 14,188 5,202 16,026 — 9,007,390
+The reconciliation of the gross carrying amount for trade receivables is as follows:
+Opening gross carrying amount 13,971,886 13,645,718
+Gross carrying amount as at 30 June 14,451,877 13,971,886
+represents its maximum credit exposure on these assets. The cash and cash equivalents are held with reputable financial
+All other financial assets are not rated.
+liabilities that are settled by delivering cash or another financial asset. The Company’s approach to managing liquidity is to
+ensure, as far as possible, that it will always have sufficient liquidity to meet its liabilities when due, under both normal and
+always have sufficient liquidity to meet its liabilities when due, without incurring unacceptable losses or risking damage to
+contractual maturities of financial liabilities, including estimated interest payments and excluding the impact of netting
+Non-derivative financial liabilities
+Lease liabilities 154,301 1,487,511 — 21,436 85,742 1,380,333
+Non-derivative financial assets
+Non-derivative financial liabilities
+Lease liabilities 177,195 1,532,010 — 44,500 85,742 1,401,768
+Non-derivative financial assets
+Market risk is the risk that changes in market prices, such as foreign exchange rate, interest rates and equity prices will
+affect the Company's income or the value of its holding of financial instruments. The objective of market risk management
+Financial assets
+Financial liabilities
+(decreased) equity by the amounts shown below. This analysis is based on foreign currency exchange rate variances that the
+Company considered to be reasonably possible at the end of the reporting period and has no impact on equity. The analysis
+(Decrease)/increase in equity
+The Company does not account for any fixed rate financial assets and liabilities at fair value through income statement.
+Therefore a change in interest rates at the end of the reporting period would not affect income statement.
+post-tax profit of the Company. There is no impact on equity.
+Impact on post-tax profit
+of dividends to ordinary shareholders. The Company considers total equity in the statement of financial position to be its
+The Company regularly assesses its debts and equity capital levels against its stated policy for capital structure. The
+divided by total shareholders' equity. Management also monitors the level of dividends to all shareholders.
+Total shareholders' equity 56,424,616 89,979,391
+Furthermore, the Company's adjusted net debt to equity ratio at the end of the reporting period is as follows:
+Total liabilities 185,323,528 125,680,817
+Total equity 56,424,616 89,979,391
+Adjusted net debt to equity ratio: 1.65 0.63
+a. Contingent assets
+b. Guarantee and contingent liabilities
+Contingent liabilities at the reporting date arising in the ordinary course of business out of guarantees relating to
+The Company is subject to various claims and other liabilities arising in the normal course of business. The contingent
+liabilities in respect of pending litigation and other liabilities amounted to N1,008 billion as at 30 June 2023 (2022: N958
+The Directors are of the opinion that all known liabilities and commitments, which are relevant in assessing the state of
+presented net of withholding tax.
+The excise duty rates were initially changed by the tax law applicable from 1st of June 2023 and Guinness Nigeria Plc made
+credit impact of the change to the Income Statement amounts to 1,033 million NGN.
+Revenue 229,440,861 206,822,127
+Other income 3,530,586 2,739,969
+Finance income 7,789,340 1,904,144
+Tax expense (3,970,558) (5) % 8,022,799 16 %
+For replacement of right-of-use assets 133,844 — % 140,758 — %
+For replacement of intangible assets 88,385 — % 1,765 — %
+The value added represents the wealth created through the use of the Company's assets by its own and its employees’
+Income statement
+Revenue 229,440,861 206,822,127 160,416,257 104,376,015 131,498,373
+Operating profit/(loss) 23,357,684 23,900,060 9,871,498 (12,832,256) 8,966,036
+(Loss)/profit before taxation (22,138,599) 23,674,161 5,769,510 (17,073,641) 7,103,630
+(Loss)/profit for the year (18,168,041) 15,651,362 1,255,338 (12,578,818) 5,483,732
+Statement of comprehensive income
+(Loss)/profit after taxation (18,168,041) 15,651,362 1,255,338 (12,578,818) 5,483,732
+Other comprehensive (loss)/income net of tax — (51,626) (6,903) (114,122) 2,090
+Comprehensive (loss)/income for the year (18,168,041) 15,599,736 1,248,435 (12,692,940) 5,485,822
+Right-of-use assets 217,574 368,512 432,001 943,212 —
+Intangible assets 549,950 326 2,092 309,112 641,059
+Net current (liabilities)/assets (41,868,450) 3,868,406 (8,223,340) (6,625,438) 10,487,549
+Lease liabilities (154,272) (177,144) (184,309) (653,855) —
+Deferred tax liabilities (479,144) (10,443,073) (10,877,427) (8,512,625) (13,800,562)
+Net assets 56,424,616 89,979,391 74,286,575 73,038,140 89,060,463
+Net assets per share (kobo) 2,576 4,108 3,391 3,334 4,066
+DATE VALUE (N) SHARES VALUE (N) SHARES CONSIDERATION
+2/1/97 350,000,000 700,000,000 339,519,721 679,039,441 Conversion of ICLS to Shares
+19/06/97 400,000,000 800,000,000 350,519,721 679,039,441 Scrip Dividend to Shares
+16/07/97 400,000,000 800,000,000 350,733,576 701,467,151 Scrip Dividend to Shares
+2/11/12 1,250,000,000 2,500,000,000 752,944,094 1,505,888,188 Scrip Dividend to Shares
+Substantial interest in shares
+Shareholders Number of Shares Percentage
+a. The shares of the Company are held in the ratio of 41.98% by Nigerians and 58.02% by offshore investors.
+b. The Company’s issued shares of 2,190,382,819 as at year end are held by shareholders as follows:

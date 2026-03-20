@@ -1,0 +1,231 @@
+Statement of Profit or Loss & Other Comprehensive Income 5
+Statement of Changes in Equity 6 - 7
+Revenue 0.20 1.00 - -
+Other Income - -
+Total Comprehensive Income (12) ( 11.63) (10) -
+Total Non Current Assets 2 ,402 2,839 (306) 130.04
+Total Non Current Liabilities 4 32 432.40 449 449.00
+Total Equity ( 3,059) -2,636 260 718.98
+ASSETS
+DEFFERED TAX ASSET 11 5 6 5 6 - -
+TOTAL NON CURRENT ASSETS 2 ,402 2 ,839 ( 306) 1 30
+TOTAL CURRENT ASSETS 2 7 3 1 3 ,523 3 ,524
+TOTAL ASSETS 2 ,430 2 ,870 3 ,217 3 ,654
+EQUITY -
+TOTAL EQUITY (3,059) (2,636) 2 60 7 19
+LIABILITIES -
+DEFFERED TAX LIABILITY 11 4 32 4 32 449 449
+TOTAL NON CURRENT LIABILITIES 4 32 4 32 4 49 4 49
+OTHER LIABILITIES 11 2 16 2 16 72 72
+TOTAL CURRENT LIABILITIES 5 ,056 5 ,074 2 ,508 2 ,486
+TOTAL LIABILITIES 5,488 5,506 2,957 2,935
+TOTAL EQUITIES & LIABILITIES 2 ,429 2 ,870 3 ,217 3 ,654
+CONSOLIDATED STATEMENT OF PROFIT OR LOSS AND OTHER COMPREHENSIVE INCOME
+REVENUE 21 0.20 1 0.20 -
+GROSS PROFIT 0.20 1 0.20 -
+OTHER INCOME - - -
+PROFIT/(LOSS) BEFORE TAX (12.43) (11.63) ( 9.80) ( 10.00)
+TAX EXPENSE 11
+PROFIT/(LOSS) ON CONTINUING OPERATIONS (12.43) (11.63) ( 9.80) ( 10.00)
+OTHER COMPREHENSIVE INCOME
+RENTAL INCOME 22 - - - -
+TOTAL OTHER COMPREHENSIVE INCOME (12.43) (11.63) ( 9.80) ( 10.00)
+TOTAL COMPREHENSIVE INCOME (12.43) (11.63) ( 9.80) ( 10.00)
+(LOSS) / PROFIT ATTRIBUTABLE TO THE GROUP (10.81) (10.33)
+STATEMENT OF CHANGES IN EQUITY FOR THE PERIOD ENDED 30TH SEPTEMBER, 2025
+CAPITAL PREMIUM EARNINGS RESERVE CONTROLLING EQUITY
+TOTAL COMPREHENSIVE INCOME
+PROFIT/(LOSS) ON CONTINUING OPERATIONS (32.44) (4.85) ( 37.29)
+OTHER COMPREHENSIVE INCOME
+OTHER INCOME - - -
+TOTAL OTHER COMPREHENSIVE INCOME - -
+TOTAL COMPREHENSIVE INCOME FOR THE PERIOD - - - - - -
+PREMIUM EARNINGS RESERVE CONTROLLING EQUITY
+TOTAL COMPREHENSIVE INCOME
+PROFIT/(LOSS) ON CONTINUING OPERATIONS (83.54) (2.68) ( 86.23)
+OTHER COMPREHENSIVE INCOME
+OTHER INCOME - - -
+TOTAL OTHER COMPREHENSIVE INCOME -
+TOTAL COMPREHENSIVE INCOME FOR THE PERIOD - - - - - -
+STATEMENT OF CHANGES IN EQUITY FOR THE YEAR ENDED 30TH SEPTEMBER, 2025
+SHARE CAPITAL SHARE RETAINED REVALUATION TOTAL EQUITY
+TOTAL COMPREHENSIVE INCOME
+PROFIT/(LOSS) ON CONTINUING OPERATIONS - - (10.00) - (10.00)
+TOTAL OTHER COMPREHENSIVE INCOME
+TOTAL COMPREHENSIVE INCOME FOR THE PERIOD - (10.00) - (10.00)
+SHARE CAPITAL SHARE RETAINED REVALUATION TOTAL EQUITY
+TOTAL COMPREHENSIVE INCOME
+PROFIT/(LOSS) ON CONTINUING OPERATIONS - - (77.45) - (1,692.26)
+OTHER COMPREHENSIVE INCOME
+TOTAL OTHER COMPREHENSIVE INCOME 0.00
+TOTAL COMPREHENSIVE INCOME FOR THE PERIOD - - (77.45) - (1,692.26)
+PROFIT/(LOSS) (11.63) (73.15) (10.00) (64.40)
+TAX - - - -
+INVESTMENT( INCOME)/LOSSES - - 9 8.88
+CHANGES IN CURRENT ASSETS :
+CHANGES IN CURRENT LIABILITIES :
+(B) MAIN ACTIVITIES Omatek is a holding company which holds shares in the manufacturing,
+thereported amountsof assets, liabilities, incomeand expenses. Estimates
+i IFRS 15 Revenue from IFRS 15 establishes a comprehensive framework for determining
+Contracts with Customers- whether, how much and when revenue is recognised. It replaces
+effective on or after 1 January existing revenue recognition guidance,including IAS 18Revenue, IAS 11
+in impairment losses recognised on financial assets.
+assets,financialliabilitiesandsomecontractstobuyorsellnon-financialitems.
+assets: measured at amortised cost, FVOCI and FVTPL.
+a CLASSIFICATION AND The classification of financial assets under IFRS 9 is generally based on the
+FINANCIAL ASSETS AND cash flow characteristics. IFRS 9 eliminates the previous IAS 39
+FINANCIAL LIABILITIES categories of held to maturity, loans and receivables and available for
+and measurement of financial liabilities.
+accounting policies related to financial liabilities and derivative financial
+ASSETS creditloss’(ECL)model.Thenewimpairmentmodelappliestofinancialassets
+measuredatamortisedcost,contractassetsanddebtinvestmentsatFVOCI,but
+not to investments in equity instruments.
+c. Income and deferred taxation The quality of these estimates is highly
+applicablerulesand in thecaseofdeferredtax assets,management'sabilityto
+positions against future income taxes.
+d. Impairment of property, plant and equipment and intangible assets The
+Groupassessesassetsorgroupsofassetsforimpairmentregularlyorwhenever
+assets may not be recoverable.
+d. Impairment of property, plant and equipment and intangible assets The
+Groupassessesassetsorgroupsofassetsforimpairmentregularlyorwhenever
+assets may not be recoverable.
+flow generating assets. The Group makes certain estimates and assumptions
+the carrying amounts of assets and liabilities are set out below:
+and its subsidiary Companies annually incur significant amounts of income
+taxespayableandalsorecognisessignificantchangestodeferredtaxassetsand
+liabilities,allofwhicharebasedonmanagement'sinterpretationsofapplicable
+transactions. Monetary assets and liabilities denominated in foreign
+Non-monetary assets and liabilities denominated in foreign currencies
+in profit or loss, except for differences arising on the retranslation of
+available for-sale equity instruments, a financial liability designated as a
+hedges, which are recognised in other comprehensive income.
+Depreciation is recognised in profit or loss on astraight-linebasisoverthe
+othercomprehensiveincomeofanygainorlossonqualifyingcashflowhedges
+AND CONTRACT ASSETS on:
+i. financial assets measured at amortized cost.
+iii. Contract assets.
+iii. loss allowances for trade receivables and contract assets are always
+CREDIT-IMPAIRED FINANCIAL At each reporting date, the Group assesses whether financialassetscarried
+ASSETS atamortisedcostanddebtsecuritiesatFVOCIarecredit impaired. A financial
+PRESENTATION OF Loss allowances for financial assets measured at amortised cost are
+ALLOWANCE FOR ECL IN THE deducted from the gross carrying amount of the assets.
+STATEMENT OF FINANCIAL FordebtsecuritiesatFVOCI,thelossallowanceischargedtoprofitorlossand
+WRITE-OFF Thegross carryingamount of a financialasset iswritten offwhen the Group
+amountwrittenoff.However,financialassets that are written off could still
+FinancialassetsnotclassifiedasatFVTPLwereassessedateachreportingdate
+Objective evidence that financial assets were impaired included:
+expected cash flow from a group of financial assets
+expense in comprehensive income statement when they are due. Prepaid
+(E) REVENUES
+(i) GOODS SOLD Revenuefromthesaleofgoodsinthecourseofordinaryactivitiesis measured
+Revenueisrecognisedwhenpersuasiveevidenceexists,usuallyintheformof
+the goods, and the amount of revenue can be measured reliably. If it is
+reliably,then the discount is recognised as a reduction of revenue as the
+(ii) RENTAL INCOME Rental income from investment property is recognised in profit orloss on
+are recognised as an integral part of the totalrental income, over the term
+of the lease. Rental income from subleased property is recognised as other
+income.
+(F) INCOME TAX Income tax expense comprises current and deferred tax. Current tax and
+deferred tax are items recognised directly in equity or in other
+comprehensive income. Current tax is the expected tax payable or
+receivable on the taxable income or loss for the year, using tax rates
+to tax payable in respect of previous years.
+Deferred tax is recognised in respect of temporary differencesbetweenthe
+carryingamountsofassetsandliabilitiesforfinancialreporting purposes and
+the amounts used for taxation purposes.Deferred tax is not recognised
+assets or liabilities in a transaction that is not a business combination
+and that affects neither accountingnor taxableprofit or loss, and differences
+addition, deferred tax is not recognised for taxable temporary differences
+arising on the initial recognition of goodwill.Deferredtaxismeasuredatthe
+tax rates that are expected to be applied to temporary differences when they
+A deferred tax asset is recognised for unused tax losses, tax credits and
+futuretaxable profits will be available against whichthey can be utilised.
+Deferred tax assets are reviewed at eachreporting date and are reduced to
+the extent that it is no longer probable that the related tax benefit will be
+obligationsassociatedwith itsfinancialliabilitiesthat aresettled bydelivering
+its liabilities when due, under both normal and stressed conditions, without
+rates,interestratesandequitypriceswillaffecttheGroup’sincomeorthevalue
+5.1.a.Amendments to IAS 1 Presentation of Financial Statements—Classification of Liabilities as Current or Non-current
+The amendments to IAS 1 published in January 2020 significantly affect only the presentation of liabilities as current or noncurrent in
+the statement of financial position and not the amount or timing of recognition of any asset, liability, income or expenses, or the
+information disclosed on the liabilities.
+The amendments clarify that the classification of liabilities as current or non-current is based on rights that are in existence at the
+and introduce a definition of ‘settlement’ to make clear that settlement refers to the transfer to the counterparty of cash, equity
+instruments, other assets or services.
+5.1.b. Amendments to IAS 1 Presentation of Financial Statements—Non-current Liabilities with Covenants
+information that enables users of financial statements to understand the risk of the liabilities becoming repayable within twelve
+when the entity is required to comply with them), the carrying amount of related liabilities and facts and circumstances, if any, that
+5.1.b. Amendments to IAS 1 Presentation of Financial Statements—Non-current Liabilities with Covenants
+information that enables users of financial statements to understand the risk of the liabilities becoming repayable within twelve
+when the entity is required to comply with them), the carrying amount of related liabilities and facts and circumstances, if any, that
+arrangements on the entity’s liabilities and cash flows. Also, IFRS 7 was amended to add supplier finance
+* Ranges of payment due dates for both those financial liabilities that are part of a supplier finance
+* Entities are required to classify all income and expenses into five categories in the statement of profit or loss. Namely the
+operating, investing, financing, discontinued operations and income tax categories. Entities are also required to present a newly-
+defined operating profit subtotal. Entities net profit will not chnage.
+In addition, all entities are required to use the operating profit sub-total as the starting points for the statement of cash flows when
+Although the adoption of IFRS 18 will have no impact on the company’s net profit, the company expects that grouping items of
+income and expenses in the statement of profit or loss into the new categories will impact how operating profit is calculated and
+operating profit:
+* Foreign exchange differences currently aggregated in the line item ‘other income and other gains/(losses) – net’ in operating
+profit might need to be disaggregated, with some foreign exchange gains or losses presented below operating profit.
+* a break-down of the nature of expenses for line items presented by function in the operating category of the statement of profit or
+* for the first annual period of application of IFRS 18, a reconciliation for each line item in the statement of profit or loss between
+REVENUE
+TOTAL REVENUE
+GROSS PROFIT
+OTHER INCOME
+NET PROFIT/(LOSS) BEFORE
+TAX - - (12.43) - (12.4)
+TAX EXPENSE
+NET PROFIT/(LOSS) AFTER
+TAX - - (12.43) - (12.43)
+REVENUE
+TOTAL REVENUE
+GROSS PROFIT
+OTHER INCOME
+NET PROFIT/(LOSS) BEFORE
+TAX -37.06 -19.75 -2.36 0.00 -59.17
+TAX EXPENSE
+NET PROFIT/(LOSS) AFTER
+TAX -37.06 -19.75 -2.36 0.00 -59.17
+11 TAX SEPTEMBER DECEMBER SEPTEMBER DECEMBER
+TAX EXPENSE
+COMPANIES INCOME TAX - - - -
+EDUCATION TAX - -
+MINIMUM TAX - - - -
+DEFFERED TAX 13 13 13.1 13.0
+DEFFERED TAX ON CONSOLIDATION - - - -
+ACCRUED TAX
+DEFFERED TAX ASSET
+DEFFERED TAX LIABILITY
+NET DEFFERED TAX ASSET ( 376.3) ( 376.3) ( 392.9) ( 392.9)
+SHARES @ NGN0.50 3 ,500 3 ,500 3,500 3,500
+SHARES @NGN0.50 1 ,471 1 ,471 1,471 1,471
+21 REVENUE SEPTEMBER SEPTEMBER SEPTEMBER SEPTEMBER
+SHARE OF INCOME/(LOSS) OMATEK
+SHARE OF INCOME/(LOSS) OMATEK
+SHARE OF INCOME/(LOSS) OMATEK
+22 OTHER INCOME SEPTEMBER SEPTEMBER SEPTEMBER SEPTEMBER
+PROFIT ON SALE OF FIXED ASSETS
+RENTAL INCOME - 6 -
+NET PROFIT AFTER TAX ATTRIBUTABLE TO EQUITY
+ORDINARY SHARES IN ISSUE DURING THE YEAR
+PROFIT/(LOSS) AFTER TAX
+ORDINARY SHARES 2 ,941.8 2 ,941.8
+The Company has an authorized share capital of N3,500,000,000.00 divided into7,000,000,000 ordinary shares of 50 kobo each. The issued share capital
+is N1, 470,895,000.00 divided into 2,941,789,472 ordinary shares of 50 kobo each.
+REVENUE 0.20 0.1
+PROFIT OR LOSS
+PROFIT AFTER TAX (12) (11.63) (4.10) (1,930.45) (1,750.51)
+OTHER NON CURRENT ASSETS 2,389 2,388.02 2,388.02 2,382.23 2 ,382.51
+CURRENT ASSETS 27 30.80 49.28 754.88 751.25
+NON CURRENT LIABILITIES 434 432.40 406.37 7,205.31 5 ,724.36
+CURRENT LIABILITIES 5,056 5,073.63 5,018.31 10,566.37 1 0,156.25
+PROFIT OR LOSS
+OTHER INCOME - - 34.97 (95.38) 34.97
+(LOSS) / PROFIT AFTER TAX (12) (10.00) 9.45 (1,692.26) (1,526.80)
+OTHER NON CURRENT ASSETS (319) (319.40) (310.28) (307.46) (206.20)
+CURRENT ASSETS 3,523 3,524.01 3,526.00 3,493.09 3 ,526.00
+NON CURRENT LIABILITIES 450 449.00 435.91 7,234.45 5 ,723.94
+CURRENT LIABILITIES 2,508 2,486.33 2,419.77 6,816.96 6 ,778.64

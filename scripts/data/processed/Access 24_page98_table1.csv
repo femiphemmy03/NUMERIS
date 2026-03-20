@@ -1,0 +1,8 @@
+0,1,2
+Classification,Percentage,Basis
+Substandard,10%,"Interest and/or principal overdue by 90 days
+but less than 180 days"
+Doubtful,50%,"Interest and/or principal overdue by 180 days
+but less than 365 days"
+Lost,100%,"Interest and/or principal overdue by more than
+365 days"

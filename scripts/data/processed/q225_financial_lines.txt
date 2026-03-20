@@ -1,0 +1,179 @@
+Condensed consolidated and separate statement of profit or loss and other comprehensive income 7
+Condensed consolidated statement of changes in equity 8
+Revenue 6,159,145 5 ,018,889 23 6 ,035,973 4,957,405 22
+Gross profit 2,721,156 1 ,449,603 88 2 ,681,315 1,429,524 88
+Operating profit 928,825 1 42,754 551 9 09,081 136,014 568
+Profit before taxation 945,820 128,710 635 9 26,076 121,971 659
+Profit for the period 624,636 8 7,522 614 6 11,210 82,940 637
+Total equity 4,163,139 3 ,828,336 9 4 ,163,139 3,855,899 8
+Net assets per share (Naira) 14 13 9 1 4 13 8
+Assets Notes
+Non-current assets
+Intangible assets 14 3 6,851 4 0,715 36,851 40,715
+Total non-current assets 2,911,712 2,974,455 2,921,711 2,982,986
+Current assets
+Other financial assets 21 5 06,308 4 46,983 506,308 446,983
+Total current assets 4,670,672 4,546,880 4,630,915 4,551,794
+Total assets 7,582,384 7,521,336 7,552,627 7,534,780
+Equity
+Total equity 4,163,139 3,828,336 4,177,263 3,855,901
+Liabilities
+Non current liabilities
+Deferred income 24 8 3,772 8 3,772 83,772 83,772
+Deferred taxation 11(e) 5 39,926 5 39,925 539,926 539,925
+Total non-current liabilities 843,687 843,686 843,687 843,686
+Current liabilities
+Current tax liabilities 11(c) 5 06,693 4 85,792 499,975 485,792
+Deferred income 24 5 2,262 3 1,285 52,262 31,285
+Total current liabilities 2,575,564 2,849,314 2,531,679 2,835,194
+Total liabilities 3,419,251 3,693,000 3,375,366 3,678,880
+Total equity and liabilities 7 , 5 8 2 0,.30804 7,521,336 7 , 5 5 20 ,.60207 7,534,780
+Condensed Consolidated and Separate Statement of Profit or Loss and Other Comprehensive Income
+Revenue 5 3,185,031 2,609,294 6 ,159,145 5 ,018,889 3,113,176 2,570,164 6,035,973 4 ,957,405
+Gross profit 1,402,292 707,472 2,721,156 1,449,603 1,369,171 699,379 2,681,315 1,429,524
+Other income 6 6,699 16,594 2 1,059 3 5,743 6,699 16,594 19,279 3 5,743
+Operating profit before impairment charges 453,289 (68,586) 928,825 142,754 433,734 (69,614) 909,081 136,015
+Operating profit 453,289 (68,587) 928,825 142,754 433,734 (69,615) 909,081 136,014
+Finance income 7 20,625 4,452 3 7,691 7 ,463 20,625 4,452 3 7,691 7 ,463
+Net finance income 10,784 (8,460) 16,995 (14,044) 10,784 (8,460) 16,995 (14,044)
+Profit before minimum tax 464,073 (77,047) 945,820 128,710 444,518 (78,075) 926,076 121,971
+Minimum tax expense 12 - - -
+Profit before income tax 8 464,073 (77,047) 945,820 128,710 444,518 (78,075) 926,076 121,971
+Income tax expense 11(a) ( 148,564) 2 4,655 ( 321,184) ( 41,188) ( 142,246) 2 4,984 ( 314,866) (39,031)
+Profit for the period 315,509 (52,392) 624,636 87,522 302,272 (53,091) 611,210 82,940
+Other comprehensive income
+Other comprehensive income for the period - - - -
+Total comprehensive income for the period 315,509 (52,392) 624,636 87,522 302,272 (53,091) 611,210 82,940
+Condensed Consolidated and Separate Statement of Changes in Equity
+Note capital premium earnings Total equity
+Comprehensive income for the period
+Profit for the period - -- 6 24,636 6 24,636
+Other comprehensive income for the period - - - -
+Total comprehensive income for the period - - 6 24,636 6 24,636
+Transactions with owners, recorded directly in equity
+Comprehensive income for the period
+Profit for the period - -- 6 10,862 6 10,862
+Other comprehensive income for the period - - - -
+Total comprehensive income for the period - - 6 10,862 6 10,862
+Transactions with owners, recorded directly in equity
+Comprehensive income for the period
+Profit for the period - -- 6 11,210 6 11,210
+Other comprehensive income for the period - - - -
+Total comprehensive income for the period - - 6 11,210 6 11,210
+Transactions with owners, recorded directly in equity
+Comprehensive income for the period
+Profit for the period - - - 6 14,960 6 14,960
+Other comprehensive income for the period - - - -
+Total comprehensive income for the period - - 6 14,960 6 14,960
+Transactions with owners, recorded directly in equity
+Profit for the period 6 24,636 6 10,862 611,210 614,960
+- Finance income 7 ( 37,691) ( 41,611) (37,691) (41,611)
+- Taxation 11(a) 321,184 517,944 314,866 517,944
+- Deferred income 2 0,977 ( 109,149) 20,977 (109,149)
+Tax paid 11(c) ( 282,150) ( 80,394) (282,150) (80,394)
+Acquisition of Intangible assets ( 4,000) ( 33,862) (4,000) (33,862)
+Interest income on other financial assets 7 3 7,691 - 37,691 0
+Additions to investment in financial assets 22 ( 59,325) ( 189,861) (59,325) (189,861)
+Deferred tax assets - 0
+Finance income 4 1,611 41,611
+- Government grant (recognised as deferred income) measured at fair value.
+Historical cost is generally based on the fair value of the consideration given in exchange for assets.
+Income and expenses of the subsidiary acquired or disposed off during the period are included in the
+consolidatedstatementofprofitorlossandconsolidatedstatementofcomprehensiveincomefromtheeffective
+date ofacquisition and up tothe effective date ofdisposal, asappropriate. Totalcomprehensive incomeof
+impairmentthathasbeenrecognisedinprofitorloss.Thecostofaninvestmentinasubsidiaryistheaggregate
+- the fair value, at the date of exchange, of assets given, liabilities incurred or assumed, and equity
+equitytransactions.WhentheGrouplosescontrolofasubsidiary,againorlossisrecognisedinprofitorloss
+thefairvalueofanyretainedinterestand(ii)thepreviouscarryingamountoftheassets(includinggoodwill),
+and liabilities of the subsidiary and any non-controlling interests.
+Allamountspreviouslyrecognisedinothercomprehensiveincomeinrelationtothatsubsidiaryareaccounted
+forasiftheGrouphaddirectlydisposedoftherelatedassetsorliabilitiesofthesubsidiary(i.e.reclassifiedto
+profitorlossortransferredto anothercategoryofequityasspecified/permittedbyapplicableIFRSs).Thefair
+amounts of assets, liabilities, income and expenses. Actual result may differ from these estimates.
+financial and non-financial assets and liabilities.
+5Revenue
+(a)Revenue stream for the period comprises: GROUP GROUP COMPANY COMPANY
+(i) Revenue from contract with customers
+*Revenue from sale of paints and allied products for the year comprises: GROUP GROUP COMPANY COMPANY
+Revenue (net of value added tax) 7,559,105 6,039,507 7,435,933 6,039,507
+6Other income
+Other income comprises:
+Income on property leases* 4,023 4,018 4,023 4,018
+Profit from disposal of property, plant and equipment 1,780 5,990 - 5 ,990
+Income from new BBPs and other income 9,245 12,070 9,245 12,070
+Other Misc. income - Debt provisions no longer required
+*This represents income earned from leases of an insignificant portion of the Company's building properties to third parties.
+7 Finance income and finance cost
+Recognised in profit or loss: GROUP GROUP COMPANY COMPANY
+Interest income on bank deposits 0 0 0 0
+Interest income on other financial assets 38,459 7,501 38,459 7,501
+Net gain on financial liabilities measured at amortised costs - - -
+Total finance income 37,691 7,463 37,691 7,463
+Interest expense on lease liabilities - - -
+Interest expense on financial liabilities measured at amortised costs. - - - 0
+Net finance income recognised in profit or loss 16,995 (14,044) 16,995 (14,044)
+8 Profit before income tax
+Profit before tax is stated after charging/(crediting):
+Profit on disposal of property, plant and equipment 6 0 (5,990) - (5,990)
+SOatlhaerri eSst,a wffa egxeps eannsde sallowances 692,2980 528,011 6 8 2 , -555 528,011
+11Taxation
+(a)Thetaxchargefortheyearhasbeencomputedafteradjustingforcertainitemsofexpenditureandincomewhicharenotdeductibleorchargeablefortax
+Current tax expense:
+Company income tax 293,402 39,952 287,084 62,843
+Tertiary education tax 27,782 1,236 27,782 1,171
+Income tax expense 321,184 41,188 314,866 64,014
+(b)Reconciliation of effective tax rate: GROUP GROUP COMPANY COMPANY
+Profit for the period 624,636 87,522 611,210 82,940
+Taxation 321,184 41,188 314,866 39,031
+Profit before taxation 945,820 128,710 926,076 121,971
+Income tax using the Company’s domestic rate of 3300% 292,809 38,613 287,084 36,591
+Tertiary education tax 3 28,375 2,574 27,782 2,439
+Tax expense 33 321,184 41,187 314,866 39,031
+(c)The movement in the tax payable during the year was as follows:
+i.Current tax liabilities
+Minimum tax charge - - 0
+(e) Movement in deferred taxation
+Tax
+Balance at transition in profit tax tax
+1 January Adjustment or loss Net assets liabilities
+Right of use assets - - - - - -
+Available-for-sale financial assets - net c h a n g e - in fair va l u e - - - - -
+Net tax (assets)/ liabilities 5 39,926 - - 5 39,926 - 5 39,926
+Right of use assets - - 1 ,847 - - -
+Available-for-sale financial assets - net c h a n g e - in fair va l u e - - - - -
+Net tax (assets)/ liabilities 5 33,748 - ( 14,602) 5 39,926 - 5 39,925
+Right of use assets - - - - -
+Net tax (assets)/ liabilities 539,926 - - 539,926 - 539,926
+Right of use assets - - 1,847 - - -
+Net tax (assets)/ liabilities 533,748 - ( 14,602) 539,926 - 539,926
+Basicearningspershareof216koboand211Kobo(30June2024:30koboand29kobo)isbasedontheGroupprofitandCompany
+profitfortheperiodof₦624.6millionandN611.2million (30June2024:₦87.5millionandN82.9million)andon289,823,447
+(2024: 289,823,447) ordinary shares of 50 kobo each, being the weighted average number of ordinary shares in issue during the
+Reclasification to tangible assets - - 1 24,763 107,015 - - - - 2 31,778
+Reclasification to intangible assets - - - - - - - -
+Reclasification to intangible assets - - ( 22,851.00) - - - - - (22,851.00)
+Reclasification to intangible assets - - - - - - - -
+(b) Assets pledged as security
+(f) Right of use assets
+Right of use assets comprises leasehold land and motor vehicles under finance leases.
+14 Intangible assets Intangible
+Computer assets under
+Rental income generated from investment property recognised during the period was Nil (31 December 2024: Nil).
+income during the period was Nil (31 December 2024: Nil)
+Contract assets 4 51 4 51 451 451
+21 Other financial assets
+Interest income 38,459 11,966 38,459 11,966
+The Company's exposure to credit and market risk for financial assets is disclosed in Note 29(b).
+(a) Ordinary shares as at 30 June 2025
+Authorised, Issued and fully paid 289,823,447 ordinary shares of 50k each 144,912.00 144,912 144,912 144,912
+Transfer from profit/loss 624,636 610,862 611,210 614,960
+Value Added Tax payable 74,225 21,939 74,225 21,012
+Withholding Tax payable 7,571 62,684 7,571 62,232
+Other non-income taxes 26,068 24,153 26,068 24,153
+Contract liabilities - - - -
+24 Deferred income
+Deferred income comprises:
+Lease income received in advance 30,956 9,979 30,956 9,979
+Deferred income 136,034 115,057 136,034 115,057
+in the profit or loss.
+Interest accrued in profit or loss - 32,079 0 32,079

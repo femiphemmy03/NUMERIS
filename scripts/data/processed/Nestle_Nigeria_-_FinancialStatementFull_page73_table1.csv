@@ -1,0 +1,9 @@
+0,1,2,3,4,5,6,7,8
+,,,Trade receivables,,,,,
+In thousands of naira,,,Days past due,,,,,
+,,Current,1-30 days,30 -60 days,61 - 90 days,91 - 120 days,>120 days,Total
+Expected credit loss rate,,1.8%,12.4%,31.7%,61.7%,82.1%,100.0%,
+"Estimated total gross carrying amount at
+default",,"4,861,245","145,444","6,290","19,123","209,243","4,010,281","9,251,627"
+Expected credit loss,,"(85,967)","(17,983)","(1,994)","(11,800)","(171,781)","(4,010,281)","(4,299,807)"
+,,"4,775,279","127,461","4,296","7,323","37,462",-,"4,951,820"

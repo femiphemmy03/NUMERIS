@@ -1,0 +1,308 @@
+Statement of profit or loss and comprehensive income 21
+Statement of changes in equity 23
+Gross Earnings 628,478 761,878 (17)
+Gross profit 116,652 190,280 (39)
+Profit before taxation 37,669 43,332 (13)
+Profit after taxation 16,026 25,216 (36)
+Net assets per share 77 76 1
+Profit before taxation 37,669 43,332
+Taxation expense (21,643) (18,116)
+Profit after taxation 16,026 25,216
+to Trans-Nationwide Express PLC as a public limited liability company. The Company’s shares are
+The Directors hereby recommend a dividend of N0.02k (N0.02k –2022) per ordinary shares of N0.50k each,
+amounting to N9,963,001.54, subject to appropriate withholding tax deduction and approval at the
+The interest of each director in the shares of the company is as stated below:
+Names No. of Shares %
+Sound management and professional expertise are considered to be the Company’s major assets and
+In the opinion of the directors, the market value of the company’s assets is not less than the
+company’s affairs as at 31st December, 2023 and on the profit or loss account for the year ended
+Directors are aware of the restrictions imposed on them with regard to trading in the shares of the
+The issued and fully paid-up share capital of the company is 498,150,077 ordinary shares of 50k
+Range of shares No of holders % Units %
+ordinary shares of N0.50k each. The changes in the share capital of the Company since incorporation
+taking steps to conduct its Annual Board Evaluation and Corporate Governance Evaluation using a
+1 Managers remuneration (inclusive of taxes 36,850,612.52
+view of the state of affairs of the company at the end of the financial year and of the profit or loss for the
+assets, prevent and detect fraud and other irregularities.
+of financial position as at 31 December 2023, the statement of profit or loss and other comprehensive
+income, statement of changes in equity and statement of cash flows for the year then ended, and notes to
+iii) the Company‟s statement of financial position and statements of profit or loss and other
+comprehensive income are in agreement with the books of accounts.
+STATEMENT OF PROFIT OR LOSS AND OTHER COMPREHENSIVE INCOME
+Revenue 3 527,257 698,625
+Gross profit 116,653 190,280
+Other income 6 101,221 63,253
+Profit before taxation 37,669 43,332
+Income tax expense 24(i) (9,673) (6,319)
+Deferred Tax Liability 22 (11,968) (11,795)
+Profit for the year (attributable to company owners) 16,026 25,216
+ASSETS:
+Non current assets
+Assets Under Lease 11.a 23,647 32,269
+Equity instrument at fair value through Profit or Loss 13 8,628 4,285
+Financial assets at amortized cost 14 48,299 26,118
+Deferred tax asset 22 - 10,264
+Total non-current assets 270,424 290,234
+Current assets
+Other Assets 17 216,169 180,174
+Total current assets 449,482 406,792
+Total assets 719,906 697,026
+Equity and Liabilities
+Total equity 385,600 378,950
+Non-current Liabilities
+Deferred tax 22 1,704 -
+Total non-current liabilities 1,704 -
+Current Liabilities
+*Income tax payable 24(ii) 29,390 32,582*
+Total current liabilities 332,602 318,076
+Total liabilities 334,306 318,076
+Total equity and liabilities 719,906 697,026
+STATEMENT OF CHANGES IN EQUITY
+Capital Premium Earnings Equity
+Profit for the year - - 16,026 16,026
+Profit for the year - - 25,216 25,216
+Taxation paid (8,049) (16,640)
+Investment/Interest Income 2,200 2,876
+- Available for sale financial assets are measured at Fair value.
+These financial statements comprise a statement of financial position, an income statement and a
+statement of other comprehensive income on a single format, a statement of changes in equity, a
+Other comprehensive income comprises items of income and expenses that are not recognized in the
+income statement, as required or permitted by IFRS. Transactions with owners of the company in their
+capacity as owners are recognized in the statement of changes in equity.
+assets and liabilities, income and expenses. The estimates and associated assumptions are based on
+assets and liabilities that are not readily apparent from other sources. Actual results may differ from
+of monetary assets and liabilities denomination in foreign currencies are recognized in statement of
+profit or loss.
+d. Revenue recognition
+Revenue represents the fair value of consideration received or receivable for sales of goods and
+services in the ordinary course of the company‟s activities and is stated net of Value Added Tax
+(VAT), rebates and discounts. The company recognizes revenue when it satisfies a performance
+economic benefits will flow to the entity and the revenue can be reliably measured, regardless of when
+The company assesses its revenue arrangements against specific criteria in order to determine if it is
+revenue. The following specific recognition criteria must also be met before revenue is recognized.
+Revenue from services rendered such as courier services, mail management services, freight services,
+Interest income
+For all financial instruments measured at amortised cost, interest income or expense is recorded using
+appropriate, to the net carrying amount of the financial asset or liability. Interest income is included in
+the statement of comprehensive income.
+Revenue from contracts with customers
+account for revenue arising from contracts with customers. Under IFRS 15, revenue is recognized at
+termination clauses is not of paramount importance as revenue is recognized on a straight-line basis.
+Thus, Trans-Nationwide Express Plc recognizes revenue when risk and reward pass to the buyer as
+transaction price as revenue when the shipments are pick-up/paid for from the customer and not until
+be delivered are applied to the rate to recognize revenue immediately they are picked. However, the
+timing of delivery and pick up is not materially affecting the timing of recognition of the revenue.
+revenue should be recognized when control passes to the customer.
+meet the criteria in revenue recognition over time to be a performance obligation satisfied overtime;
+to be delivered are applied to the rate to recognize revenue immediately the shipments are picked.
+However, under IFRS 15, Trans-Nationwide Express Plc will need to recognize its revenue over time
+that is very similar to the current revenue recognition guidance. Trans-Nationwide Express Plc will
+Under the current revenue standard, Trans-Nationwide Express Plc is not required to determine
+obligations and is recognized as revenue when (or as) those performance obligations are satisfied.
+company believes that this will impact the timing of revenue recognition.
+(v) Revenue recognition over time
+Trans-Nationwide Express Plc. currently recognizes revenue from credit customers with service level
+company presents such advances as deferred revenue under trade and other payables heading in the
+Any accumulated depreciation at the date of revaluation is eliminated against the gross carrying
+Costs may also include transfers from equity of any gains or losses on qualifying cash flow hedges of
+derecognized. All other repairs and maintenance are charged to the statement of profit or loss during
+Increases in the carrying amount arising on revaluation are credited to other comprehensive income
+and shown as other reserve in equity. Decreases that offset previous increases of the same assets are
+charged against the revaluation surplus; all other decreases are charged to profit or loss.
+Depreciation on other assets is calculated using straight – line method to allocate their cost or revalued
+The assets residual values and useful lives are reviewed, and adjusted if appropriate, at each financial
+recognized within „gain or losses „in other comprehensive income. When revalued assets are sold, the
+g. Intangible assets (Computer software)
+use the specific software. These costs are amortized in profit or loss on a straight-line basis over their
+Subsequent expenditure on software assets is capitalized only when it increases the future economic
+benefits embodied in the specific assets to which it relates. All other expenditure is expensed as
+properties are measured at fair value with all changes in fair value recognized in profit or loss. The fair
+Financial assets
+The objective of the „hold to collect‟ business model is to hold financial assets to collect their
+contractual cash flows, rather than with a view to selling the assets to generate cash flows.
+The company`s policy is to initially recognize financial assets at fair value plus transaction costs,
+except in the case of financial assets recorded at fair value through profit or loss which are expensed in
+profit or loss.
+its financial instruments at fair value through profit or loss.
+The business models applied to assess the classification of the financial assets held by the company
+Hold to collect: The objective of the „hold to collect‟ business model is to hold financial assets to
+collect their contractual cash flows, rather than with a view to selling the assets to generate cash flows.
+Assets held under this business model are measured at amortized cost.
+Fair value through other comprehensive income: Financial assets in this category are held to collect
+solely payment of principal and interest. These financial assets are measured at fair value through
+other comprehensive income.
+Fair value through profit or loss: This category is the residual category for financial assets that do
+not meet the criteria described above. Financial assets in this category are managed in order to realize
+The business model for the company`s financial assets are held to collect contractual cash flows that
+are solely payments of principal (for non-interest bearing financial assets) or solely payments of
+principal and interest (for interest bearing financial assets).
+The Company`s financial assets include trade and other receivables, cash and cash equivalents and due
+from related parties. They are included in current assets, except for maturities greater than 12 months
+Interest income from these assets is included in finance income using the effective interest rate
+method. Any gain or loss arising on derecognition is recognized directly in profit or loss and presented
+in finance income/cost.
+Financial liabilities
+Financial liabilities of the company are classified and measured at fair value on initial recognition and
+The company`s financial liabilities include trade and other payables.
+The carrying amount of the company‟s non-financial assets, other than inventories and deferred tax,
+general approach under which financial assets are classified into three stages i.e. stage 1, stage 2 or
+c. Equity instruments
+All equity investments in scope of IFRS 9 are to be measured at fair value in the statement of financial
+position, with value changes recognised in profit or loss, except for those equity investments for
+which the entity has elected to present value changes in 'other comprehensive income'. There is no
+If an equity investment is not held for trading, an entity can make an irrevocable election at initial
+recognition to measure it at FVTOCI with only dividend income recognised in profit or loss. [IFRS 9,
+Trans-Nationwide Express Plc measures all its equity instruments at fair value in the statement of
+Despite the fair value requirement for all equity investments, IFRS 9 contains guidance on when cost
+Assets held by the Company under leases which transfer to the company substantially all of the risks
+Assets held under other leases are classified as operating leases and are not recognized in the
+Payments made under operating leases are recognized in profit or loss on a straight-line basis over the
+reduced through the use of an allowance account and the amount of the loss is recognized in the profit
+credited against administrative costs in the profit or loss.
+contributions are recognized in the statement of profit or loss.
+Short-term benefits consist of salaries, accumulated leave payments, profit share, bonuses and any
+p. Current and deferred income tax
+Income tax expense is the aggregate of the charge to profit or loss in respect of current and deferred
+income tax.
+Current income tax is the amount of income tax payable of taxable profit for the year determined in
+accordance with the relevant tax legislation.
+Education tax is provided at 2.5% of assessable profits of companies operating within Nigeria.
+Deferred Income tax is provided in full, using liability method, on all temporary differences arising
+between the tax bases of assets and liabilities and their carrying values for financial reporting
+purposes. Current and deferred income tax is determined using tax rates and laws enacted or
+substantively enacted at the reporting date and are expected to apply when the related deferred income
+tax liability is settled.
+Deferred income tax assets are recognized only to the extent that it is probable that future taxable
+profits will be available against which the temporary differences can be utilized.
+Borrowings are classified as current liabilities unless the company has an unconditional right to defer
+proceeds (net of transaction costs) and the redemption value is recognized in the profit or loss over the
+assets that necessarily take a substantial period of time to get ready for their intended use or sale.
+s. Contingent liabilities
+Contingent liabilities are only disclosed by way of note and not recognized as liabilities in the
+Amendment to IAS 12 – deferred tax related to assets and liabilities arising from a single
+These amendments require companies to recognize deferred tax on transactions that, on initial
+recognition, give rise to equal amounts of taxable and deductible temporary differences.
+Amendment to IAS 12 – deferred tax related to assets and liabilities arising from a single
+These amendments require companies to recognize deferred tax on transactions that, on initial
+recognition, give rise to equal amounts of taxable and deductible temporary differences.
+Amendment to IAS 1 – Non current liabilities with covenants
+Amendment to IAS 1 – Non current liabilities with covenants
+3. Revenue is made up of: 2023 2022
+Logistics income 4,558 10,044
+Internal mailing income 40,635 49,388
+Mail bag income 39,679 28,312
+Mass mailing income 28,197 49,547
+Freight income 39,457 116,591
+Cold chain income 125,721 106,708
+Warehousing income 19,053 11,238
+6. Other income
+Gain on investment valuation (financial assets) 2199 2,876
+Interest income 53 1
+Dividend income 246 202
+Profit (Loss) on investment valuation (note 13a) 4,343 (3)
+Profit on assets disposal 8,490 2,387
+of profit or loss.
+Amortisation of intangible assets (Note 5) 4,230 5,233
+9. Profit before taxation
+Profit before taxation is
+Amortization of intangible assets (Note 12) 4,230 5,233
+Other income (Note 6) 101,221 63,253
+9.1 Other income represents majorly income from non-operating business of the company such as:
+Exchange rate gain, sales of scrap materials, dividend income, interest on short-term deposit,
+Insurance claim received, gain on valuation of equity instruments and profit on sale of fixed
+assets.
+Basic earnings per share amounts are calculated by dividing the net profit for the year
+attributable to ordinary equity holders of the company by the number of ordinary shares
+shares outstanding to assume conversion of all diluted potential ordinary shares. There were no
+potentially diluted shares in current year, thus basic loss per share and diluted loss per share
+Net profit attributable to ordinary equity holders
+Weighted average shares on basic and
+liabilities in the year ended 31st December, 2023 (2022:Nil)
+11.a Assets under Lease
+12. Intangible assets 2023 2022
+13. Equity Instruments at fair value through profit and Loss
+Stanbic IBTC shares 892 410
+Zenith Bank Plc shares 3,106 1,957
+Access Bank Plc shares 4,305 1,674
+Fidelity Bank Plc shares 325 177
+The fair value of the quoted equity shares is determined by reference to published price in Nigeria
+14. Financial assets through amortization cost:
+17. Other Assets
+Withholding tax receivables (Note 17.2) 158,802 168,741
+17.2 Withholding tax receivable
+Tax offset (4,816) (8,113)
+498,150,000 ordinary shares 50k each 249,075 249,075
+498,150,000 (2022) ordinary shares of 50k each
+498,150,000 (2023) ordinary shares of 50k each 249,075 249,075
+Profit for the year 16,026 25,216
+Profit for the year 25,216 25,216
+22. Deferred tax
+Withholding tax 3,173 3,185
+Value Added Tax 12,575 33,780
+24. Taxation
+(i) Statement of profit or loss:
+Income tax 7,441 5,055
+Tertiary education tax 2,232 1,264
+Deferred tax /Release 11,968 11,795
+24.iii Income tax liability -1 January 2022 restatement
+Income tax liability 36,010 36,010
+* FIRS tax liability from tax audit - 6,893
+* The opening balance of Income tax liability for 2022 was restated as a result of back duty
+The charge for income tax in these financial statements is based on the provisions of the Companies
+Income Tax Act, CAP C20, LFN 2004 (as amended), the Tertiary Education Trust Fund (Establishment)Act,
+Reconciliation of effective tax rate
+The tax on the company’s profit before tax differs from the audited amount as follows:
+Profit before income tax 37,669 43,332
+Tax calculated at the domestic company’s tax rate and 11,301 13,000
+- Education tax 1,130 1,083
+Tax Effect of adjustments on taxable income:
+- income that is exempt from taxation (10,330) (20,475)
+- deferred tax - -
+- minimum tax - -
+Tax expenses 9,673 6,319
+Effective Tax rate 25.68% (14.58)%
+The tax rate used for the 2023 and 2022 reconciliations above is as follows:
+- Company income tax 30% 30%
+- Education tax 3% 2.5%
+- Minimum tax N/A N/A
+April 2021 and signed into law by the President on 24 June, 2021. This levy represents 0.005% of net profit
+after company income tax of companies operating business in Nigeria.
+The tax rate used for the 2023 and 2022 reconciliations above is as follows:
+Profit after tax 27,995 37,013
+Profit before tax 37,669 43,332
+Adjustments to reconcile profit before
+tax to net cash flows:
+Profit on disposal of plant and equipment (8,490) (2,387)
+Investment/Interest Income (2,200) (2,876)
+Operating profit before working capital changes 57,750 89,182
+Tax paid (8,049) (16,640)
+The number of employees with gross emoluments within the bands stated below was as follows:
+27. COMMITMENTS AND CONTINGENT LIABILITIES
+The company did not charge any of its assets to secure liabilities of third parties. The directors are
+of the opinion that all known liabilities and commitments have been taken into account in the
+These liabilities are relevant in assessing the company’s state of affairs.
+ii) Contingent liabilities
+The Company has contingent liabilities of N35,000,000 (2022: N35,000,000) arising from pending
+litigations. Management has not made provision for these contingent liabilities as consultation
+and equity prices will affect the company’s income or the value of its holdings in financial
+an impact on profit or loss. The company monitors the movement in the currency rates on an
+(i) Equity price risk
+Equity price risk is the risk of loss to the company’s capital and/or earnings as a result of
+unfavourable changes in the prices of equity securities. The company is not exposed to equity
+Gross Earnings 628,478 761,878
+Retained for future replacement of assets:
+Income tax 7,441 3 5,055 2
+Education tax 2,232 1 1,264 -
+Deferred taxation 11,968 11,765 4
+Retained Profit 16,026 6 25,216 8
+ASSETS EMPLOYED
+Deferred tax - 10,264 22,059 17,762 1,337
+Intangible assets 12,171 13,401 16,484 6,339 7,301
+EQUITY AND LIABILITIES
+Trade and other liabilities 304.916 285,494 252,950 264,279 163,209
+Tax liabilities 29,390 32,582 36,010 28,139 35,571
+TURNOVER & PROFIT
+Gross earnings 628,478 761,878 797,077 670,726 790,525
+Profit/(loss) before taxation 37,669 43,332 (34,273) (128,355) (4,364)
+Taxation (Def. / tax charge/release inc (21,641) (18,114) (5,438) 14,554 (7,600)
+Profit/(loss) after taxation 16,026 25,216 (39,711) (133,801) (11,946)

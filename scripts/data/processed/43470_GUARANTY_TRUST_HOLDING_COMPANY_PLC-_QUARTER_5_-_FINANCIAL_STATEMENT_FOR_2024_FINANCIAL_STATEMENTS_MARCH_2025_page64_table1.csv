@@ -1,0 +1,84 @@
+0,1,2,3,4
+Key Audit Matters,,,How the matter was addressed in the audit,
+"1. Impairment of loans and advances to
+customers
+The determination of the adequacy of the
+allowance for expected credit losses (ECL) for
+loans and advances to customers is highly
+subjective and judgmental.
+The Group reported total gross loans and
+advances to customers of N2,920 billion and
+allowance for ECL of N132.9 billion as at 31
+December 2024, and ECL impairment charges
+of N135.1 billion for the year ended 31
+December 2024.
+Given the subjective nature of the calculation
+of ECL, there is a heightened risk that the
+extent of allowances could be misstated.
+The ECL model involves the application of
+considerable level of judgement and
+estimation in determining inputs for ECL
+calculation such as:
+ determining criteria for significant increase
+in credit risk (SICR) for the purpose of stage
+assessment;
+ assessing the relationship between default
+and macro-economic variables;
+ incorporating forward looking information
+in the expected credit loss and establishing
+multiple scenarios with related probability
+weights;
+ validating the completeness and accuracy
+of historical data used to reassess the
+models;
+ validating the completeness and accuracy
+of data used to run the models;
+ factors incorporated in determining the
+Probability of Default (PD), the Loss Given
+Default (LGD), the Recovery Rate and the
+Exposure at Default (EAD);
+ factors considered in cash flow estimation
+including timing and amount; and
+ factors considered in collateral valuation.
+The determination of ECL on loans and
+advances to customers is considered a key
+audit matter given the significant balances of
+loans and advances, related ECL allowances",,"Our audit approach was a combination of
+control reliance and substantive procedures.
+We reviewed IT General and Application
+controls governing the IT systems used to
+calculate expected credit losses such as the
+process for data migration and upload, access
+controls over inputs into the system, change
+management controls and staging
+configuration within the system.
+We reviewed management’s criteria for default
+and significant increase in credit risk (SICR) by
+reviewing customer files and account
+statements for selected obligors to identify
+quantitative and qualitative indicators of SICR
+and default.
+In addition, for stage 3 exposures, we assessed
+the assumptions considered in the estimation
+of recovery cash flows, the discount factor,
+collateral valuation, and timing of realization.
+Working with our credit risk modelling
+specialists, we gained an understanding of how
+the PD, LGD and EAD were derived by
+reviewing the ECL model documentation and
+performed walkthroughs.
+With the involvement of our specialists, we
+evaluated and performed the following in
+respect of the following ECL parameters:
+Probability of Default (PD):
+ Assessed the Group’s rating scale based
+on their homogenous categories.
+ Re-computed the through-the-cycle PDs
+by adopting the S&P PD per credit rating
+to estimate the ECL parameters on a
+more granular basis i.e., monthly
+forecast for the PD, EAD cashflow
+projection.
+ Re-calculated the conversion of
+through-the-cycle PDs to conditional
+PDs.",,

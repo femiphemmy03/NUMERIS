@@ -1,0 +1,548 @@
+Consolidated and separate statement of profit or loss other comprehensive income 10
+Consolidated and separate statement of changes in equity - Group 13
+Consolidated and separate statement of changes in equity - Company 14
+and of its profit or loss and other comprehensive income for the year. The responsibilities include
+(a) keeps proper accounting records that disclose, with reasonable accuracy, the financial position
+(b) establishes adequate internal controls to safeguard its assets and to prevent and detect fraud
+CONSOLIDATED AND SEPARATE STATEMENT OF PROFIT OR LOSS AND OTHER
+COMPREHENSIVE INCOME
+Gross earnings 14,913,823 10,466,513 919,630 774,362
+Revenue 7.1.1 14,841,373 9,645,967 - -
+Gross profit 4,357,887 1,860,571 - -
+Other operating income 8 23,961 705,430 919,630 769,441
+Operating profit 1,171,689 370,501 355,467 134,994
+Interest income 14.1 48,489 115,116 - 4,921
+Profit on continuing operations
+before taxation 856,734 248,490 104,480 25,228
+Income tax expense 16.1 (465,679) (228,270) 125,236 (7,694)
+Profit for the year 391,054 20,220 229,716 17,534
+Profit attributable to:
+reclassified to profit or loss
+profit or loss
+income 36 156 15,546 - 15,546
+Other comprehensive income (net of tax) 156 15,546 - 15,546
+Total comprehensive income (net of tax) 391,210 35,766 229,716 33,080
+Assets
+Non-current assets
+Right-of-use assets 18 6,500 9,800 - -
+Intangible assets 21 7,365,871 7,347,772 - -
+other comprehensive income 25 100,000 100,000 100,000 100,000
+Other Non current assets 21.2 1,325,000 - - -
+Total non-current assets 11,804,394 9,873,903 6,009,429 6,015,863
+Current assets
+Total current assets 8,587,548 9,125,592 1,517,085 674,041
+Total assets 20,391,942 18,999,495 7,526,514 6,689,904
+Liabilities
+Non-current liabilities
+Deferred tax liabilities 16.4 123,582 156,454 16,457 156,454
+Total non-current liabilities 2,582,066 1,102,362 1,665,358 1,009,799
+Current liabilities
+Current tax liabilities 16.3 654,525 353,903 129,329 123,850
+Current portion of deferred income 30.1 608,969 74,736 - -
+Total current liabilities 7,816,552 8,229,784 1,869,825 1,918,490
+Total liabilities 10,398,618 9,332,146 3,535,183 2,928,289
+Equity
+Ordinary shares 32.1 2,348,030 2,348,030 2,348,030 2,348,030
+- Assets revaluation reserve 35 4,755,307 4,755,307 1,463,364 1,463,364
+Total equity 9,993,324 9,667,349 3,991,331 3,761,615
+Total liabilities and equity 20,391,942 18,999,495 7,526,514 6,689,904
+CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+capital premium sustained reserve reserve reserve interest Total equity
+Changes in equity for the year:
+Profit for the year - - 77,672 - - - (57,452) 20,220
+Other comprehensive income:
+Total comprehensive income for the year - - 77,672 - - 15,546 (57,452) 35,766
+New shares issued during the year - - - - - - 182,130 182,130
+Changes in equity for the year
+Profit/(loss) for the period - - 408,997 - - - (83,178) 325,819
+Other comprehensive income:
+Total comprehensive income for the year - - 408,997 - - 156 (83,178) 325,975
+STATEMENT OF CHANGES IN EQUITY
+capital premium sustained reserve reserve Total equity
+Changes in equity for the year:
+Profit for the year - - 17,534 - - 17,534
+Other comprehensive income:
+Total comprehensive income for
+New shares issued during the year - - - - - -
+Changes in equity for the year:
+Profit for the year - - 229,716 - - 229,716
+Other comprehensive income:
+Total comprehensive income for
+Profit/(loss) after tax 391,054 20,220 229,716 17,534
+Depreciation of right-of-use-assets 18 3,300 6,820 - -
+Amortisation of intangible assets 21 9,015 5,354 - -
+Impairment (writeback)/charged on financial assets 225,809
+Impairment of other financial assets 28 - (251) -
+Profit on disposal of property, plant and equipment 8 (4,450) (545) (3,730) (53)
+Interest income 14.1 (48,489) (115,116) - (4,921)
+Tax expense 16.3 465,679 226,930 (125,236) 7,631
+Changes in operating assets and liabilities
+Increase in deferred income 30 534,233 24,057 - -
+Tax paid 16.3 (197,588) (35,187) (9,282) (4,302)
+Purchase of right-of-use assets - (1,320) - -
+Acquisition of intangible assets (27,114) (208,328) - -
+Interest income 48,489 115,116 - 4,921
+Lease liabilities - (10,680) - -
+During the year, the board approves the liquidation and transfer of net assets totaling N103.764 million in
+Finally, the amendments add an explicit statement that an acquirer does not recognise contingent assets
+management. Consequently, an entity recognises such sales proceeds and related costs in profit or loss.
+If not presented separately in the statement of comprehensive income, the financial statements shall
+disclose the amounts of proceeds and cost included in profit or loss that relate to items statement of
+comprehensive income include(s) such proceeds and cost.
+opening balance of retained earnings (or other component of equity, as appropriate) at thebeginning ofthat
+Amendments to IAS 37 Provisions, Contingent Liabilities and Contingent Assets — Onerous
+an adjustment to the opening balance of retained earnings or other component of equity, as appropriate, at
+anadjustment totheopeningbalance ofretained earnings orother components of equity,as appropriate, at
+The amendment removes the requirement in IAS 41 for entities to exclude cash flows for taxation when
+determine whether to use pre-tax or post-tax cash flows and discount rates for the most appropriate fair
+• Amendments to IFRS 10 and IAS 28 - Sale or Contribution of Assets between an Investor and its
+• Amendments to IAS 1 - Classification of Liabilities as Current or Non-current
+• Amendments to IAS 12 - Deferred Tax related to Assets and Liabilities arising from a Single Transaction
+and Joint Ventures — Sale or Contribution of Assets between an Investor and its Associate or Joint
+The amendments to IFRS 10 and IAS 28 deal with situations where there is a sale or contribution of assets
+an associate or a joint venture that is accounted for using the equity method, are recognised in the parent's
+profit or loss only to the extent of the unrelated investors' interests in that associate or joint venture.
+subsidiary(thathas become anassociate orajointventurethatisaccounted forusing theequitymethod)to
+fair value are recognised in the former parent's profit or loss only to the extent of the unrelated investors'
+Amendments to IAS 1 Presentation of Financial Statements — Classification of Liabilities as Current
+Theamendments toIAS1affectonlythepresentation ofliabilitiesascurrentornon-currentinthestatement
+of financial position and not the amount or timing of recognition of any asset, liability, income or expenses,
+The amendments clarify that the classification of liabilities as current or non-current is based on rights that
+‘settlement’ to make clear that settlement refers to the transfer to the counterparty of cash, equity
+instruments, other assets or services.
+Amendments to IAS 12 Income Taxes — Deferred Tax related to Assets and Liabilities arising from a
+equal taxable and deductible temporary differences.
+Depending ontheapplicable taxlaw,equaltaxable anddeductible temporarydifferences mayarise oninitial
+accounting nor taxable profit. For example, this may arise upon recognition of a lease liability and the
+Following the amendments to IAS 12, an entity is required to recognise the related deferred tax asset and
+liability, with the recognition of any deferred tax asset being subject to the recoverability criteria in IAS 12.
+- A deferred tax asset (to the extent that it is probable that taxable profit will be available against which the
+deductible temporary difference can be utilised) and a deferred tax liability for all deductible and taxable
+- (cid:9)Right-of-use assets and lease liabilities;
+- Decommissioning, restoration and similar liabilities and the corresponding amounts recognised as part of
+retained earnings (or other component of equity, as appropriate) at that date.
+adjustments to the carrying amounts of assets and liabilities are set out below:
+investment is treated as fair value through other comprehensive income.
+c. Income and deferred taxation
+Chams Plc and its subsidiary Companies annually incur significant amounts of income taxes payable and
+also recognises significant changes to deferred tax assets and liabilities, all of which are based on
+apply a complex set of rules, to recognise changes in applicable rules and in the case of deferred tax
+assets, management's ability to project future earnings from activities that may apply loss carry forward
+positions against future income taxes.
+d. Impairment of property, plant and equipment and intangible assets
+The Group assesses assets or groups of assets for impairment annually or whenever events or changes in
+circumstances indicate thatcarrying amounts ofthoseassets may notbe recoverable. In assessing whether
+life of the cash flow generating assets.
+Foreign currency differences on loans and other borrowings are recognised as finance income and
+(ii) Revenue recognition
+Performance obligation and timing of revenue recognition
+Revenue is derived from the sales of various product lines which span across delivery of business solution,
+biometric data capture, e-voting platform, business process outsourcing, contract and supplies. Revenue is
+client per service rendered, therefore the amount of revenue to be earned from each contract is determined
+(iii) Finance costs and finance income
+in the fair value of financial assets at fair value through profit or loss where the Group holds such financial
+assetsandimpairmentlossesrecognisedonfinancialassets (otherthantradereceivables). Borrowingcosts
+recognised in profit or loss.
+Finance income comprises interest income on short-term deposits with bank, dividend income, changes in
+the fair value of financial assets at fair value through profit or loss and foreign exchange gains.
+method. In the statement of financial position, the acquiree's identifiable assets, liabilities and contingent
+liabilitiesareinitiallyrecognisedattheirfairvaluesattheacquisition date.Theresultsofacquiredoperations
+are included in the consolidated and separate statement of profit or loss and other comprehensive income
+statementoffinancialpositionatcost. TheGroup’s shareofpost-acquisitionprofits andlosses isrecognised
+in the consolidated and separate statement of profit or loss and other comprehensive income except that,
+Profit and losses arising on transactions between the Group and its associates are recognised only to the
+extent of unrelated investor’s interest in the associate. The investor’s share in the associate’s profits and
+Any premium paid for an associate above the fair value of the Group’s share of the identifiable assets,
+liabilities and contingent liabilities acquired is capitalised and included in the carrying amount of the
+carrying amount of the investment is tested for impairment in the same way as other non-financial assets.
+The Group reports its interests in jointly controlled entities using the equity method, which involves
+recognition in the consolidated income statement of Chams Plc’s share of the net results of the joint
+statementoffinancialpositionatitsshareinthenetassetsofthejointventuretogetherwithgoodwill paidon
+equity-accounted Group (including any other receivables forming part of the net investment in the Group),
+a) That engages in business activities from which it may earn revenues and incur expenses (including inter
+Revenue and cost reporting are directly related to the segments. Operating segments are reported in a
+All reported revenue and related costs of each segment are reconciled
+c. All non-current assets under each segment are geographically analysed.
+year. Changes in fair value are recognised in other comprehensive income and accumulated in the
+revaluation reserve, or reversal of such a transaction, is recognised in profit or loss.
+Freehold land is not depreciated. Depreciation on assets under construction does not commence until they
+against the gross carrying amountoftheasset andthe netamount is restated tothe revalued amount ofthe
+freehold buildings are expensed through the consolidated and separate statement of profit or loss andother
+comprehensive income (e.g. through depreciation, impairment). On disposal of the asset the balance of the
+expected from its use or disposal. Any gain or loss arising on derecognition of the asset is included in profit
+Impairment losses are recognised immediately in the income statement.
+comprehensive income over the year of the lease. Leases order than finance lease are operating lease and
+are not recognised as assets in the books. Lease expenses are charged to the statement of profit or loss
+and other comprehensive income.
+(viii) Intangible assets
+Internally generated intangible assets primarily comprised internally developed software. Such software as
+well as other internally generated assets for internal use are valued at cost and amortised over their useful
+Financial assets
+The Group classifies its financial assets into one of the categories discussed below, depending on the
+(xi) Classification of financial assets
+The Group classifies its financial assets into one of the three categories as required by IFRS 9 depending on
+• Financial assets at amortised cost
+• Fair value through profit or loss
+• Fair value through other comprehensive income
+value through profit or loss and fair value through other comprehensive income.
+The Group classifies its financial assets as at amortised cost only if both of the following criteria are met:
+The Group's financial assets measured at amortised cost comprise trade and other receivables and cash
+(xvi) Impairment of financial assets
+gross carrying value of the asset is written off against the associated provision.
+the financial asset, twelve month expected credit losses along with gross interest income are recognised.
+gross interest income are recognised. For those that are determined to be credit impaired, lifetime expected
+credit losses along with interest income on a net basis are recognised.
+Fair value through other comprehensive income
+investments at fair value through other comprehensive income rather than through profit or loss as the
+Group considers this measurement to be the most representative of the business model for these assets.
+They are carried at fair value with changes in fair value recognised in other comprehensive income and
+accumulated in the fair value through other comprehensive income reserve. Upon disposal any balance
+within fair value through other comprehensive income reserve is reclassified directly to retained earnings
+and is not reclassified to profit or loss.
+Dividends are recognised in profit or loss, unless the dividend clearly represents a recovery of part of the
+at original amount less amounts utilised in the statement of profit or loss and other comprehensive income.
+(xviii) Financial liabilities
+The Group classifies its financial liabilities into one of three categories, depending on the purpose for which
+Trade payables and other short-term monetary liabilities, which are initially recognised at fair value and
+issue of the instrument. Such interest-bearing liabilities are subsequently measured at amortised cost using
+De-recognition of financial liabilities
+The Group derecognises financial liabilities when, and only when, the Group's obligations are discharged,
+and the consideration paid and payable is recognised in income statement.
+assets to finance benefits accruing under the retirement benefit plan. The Group's obligations are
+recognised in the statements of comprehensive income as administrative expenses (employee benefits)
+(xvi) Income tax
+Expenses on income tax comprise current and deferred tax. Current tax is the expected tax payable on
+taxable income or loss for the year, using tax rates enacted by the Government. Current tax assets and
+liabilities will be offset on the statement of financial position. Deferred tax is provided using the statement of
+financial position method, providing for temporary differences between the carrying amounts of assets and
+liabilities for financial reporting purposes andthe amount used fortaxation purposes. A deferred taxassetis
+recognised only to the extent that it is probable that future taxable profit will be available against which the
+asset canbe utilized.Deferred taxassets arereviewed ateach reporting date andare reduced to theextent
+that it is no longer probable that the related tax benefit will be realised.
+Additional income taxes that arisefrom thedistribution ofdividend bythe Groupare recognised at thesame
+Shares are classified as equity when there is no obligation to transfer cash or other assets. Any amount
+received over and above the par value of the shares issued are classified as ‘share premium’ in equity.
+Incremental costs directly attributable to the issue of equity instruments are shown in equity as a deduction
+from the proceeds, net of tax. Financial instruments issued by the Group are classified as equity only to
+The Group's ordinary shares are classified as equity instruments.
+(xix) Dividends on ordinary shares
+Dividends on ordinary shares are recognised as a liability and deducted from equity when they become
+Interim dividends are deducted from equity when they are declared and no longer at the discretion of the
+Financial assets and liabilities are offset, and the net amount reported in the statement of financial position
+assetorgroup offinancial assets isimpaired. Afinancial assetoragroup offinancial assetsis impairedand
+an impact on the estimated future cash flows of the financial asset or group of financial assets that can be
+amount of the asset is reduced and the amount of the loss is recognised in the income statement. If a loan
+debtor’s credit rating), the reversal of thepreviously recognised impairment loss is recognised in theincome
+(xxii) Provisions, Contingent Assets and Liabilities
+Accounting classification and fair value of financial assets and liabilities
+The table below sets out the carrying amounts and fair values of the Group's financial assets and financial
+liabilities:
+Financial assets
+comprehensive income 100,000 - - 100,000
+Financial liabilities
+Financial assets
+through other comprehensive income 100,000 - - 100,000
+Financial liabilities
+Financial assets
+comprehensive income
+Financial liabilities
+Financial assets
+through other comprehensive income 100,000 - - 100,000
+Financial liabilities
+• Investments in unquoted equity securities
+applying a simulation technique to the liabilities that represent major interest-bearing positions.
+settle liabilities denominated in their functional currency with the cash generated from their own operations
+in that currency. Where group entities have liabilities denominated in a currency other than their functional
+analysed by the major currencies held by the Group, of liabilities due for settlement and expected cash
+The Group's policy is to ensure that it will always have sufficient cash to allow it to meet its liabilities when
+financial liabilities.
+Financial liabilities
+Financial liabilities
+Financial liabilities
+Financial liabilities
+The Group monitors "adjusted capital" which comprises all components of equity (i.e. share capital share
+characteristics of the underlying assets. In order to maintain or adjust the capital structure, the Group may
+adjusttheamount ofdividends paid toshareholders, return capital to shareholders, issue newshares orsell
+assets to reduce debt.
+Total equity 9,993,324 9,667,349 3,991,331 3,761,615
+7. Revenue and costs of sales
+7.1 Revenue from contract with customers
+The following is an analysis of the Group's and Company's revenue for the year from continuing
+operations (excluding investment and other income).
+Total revenue 14,841,373 9,645,967 - -
+Gross profit 4,357,887 1,860,571 - -
+Gross margin 29% 19% 0% 0%
+service income and others - Other e-services and non e-services
+process Confirm and Supply of Identity payroll service income
+Revenue and results outsourcing Chams core Membership E- voting me Maintenance Cards cards services and others Total
+Gross segment revenue 6,446,693 2,534,265 2,992,631 24,325 - 69,213 843,707 362,192 1,480,580 14,753,606
+Inter segment revenue - - - - - 30,041 - 38,302 68,343
+Total revenue 6,446,693 2,553,689 2,992,631 24,325 - 69,213 873,748 362,192 - 1,518,882 14,841,373
+Other income - 2,572 - - - - 2,773 - 3,054 15,562 23,961
+profit 6,446,693 2,556,261 2,992,631 24,325 - 69,213 876,521 362,192 3,054 - 8,949,042 4,381,848
+Profit before taxation 6,446,693 1,177,608 1,488,076 24,325 - 69,213 234,615 362,192 3,054 - 8,949,042 856,734
+There was no intersegment transaction as all revenue generated above was from external customers.
+The accounting policies of the reportable segments are the same as the company's accounting policies described in note 3. Segment profit represents the gross profit earned by
+each segment without allocation of general operating expenses, other gains and losses recognised on investment income, other operating income as well as finance costs.
+outsourci Chams Confirm and Supply of Identity payroll income
+Revenue and results ng core Membership E- voting me Maintenance Cards cards services and others Total
+Gross segment revenue - 1,529,014 2,006,092 25,301 - 20,940 3,552,094 11,711 395,118 2,044,315 9,584,585
+Intersegment revenue - 41,958 - - - - - - - - 41,958
+Total revenue - 1,570,972 2,006,092 25,301 - 20,940 3,552,094 11,711 395,118 2,044,315 9,645,967
+Other income - 539,836 1,791 - - - 22,304 - 50,196 91,303 705,430
+Contribution to profit - 2,110,808 2,007,883 25,301 - 20,940 3,574,398 11,711 445,314 (5,649,778) 2,566,001
+Loss before taxation - 977,031 1,240,551 25,301 - 20,940 3,157,996 11,711 445,314 (5,649,778) 248,490
+There was no intersegment transaction as all revenue generated above was from external customers.
+The accounting policies of the reportable segments are the same as the company's accounting policies described in note 3. Segment profit represents the gross profit earned
+by each segment without allocation of general operating expenses, other gains and losses recognised on investment income, other operating income as well as finance
+Revenue and other income 14,865,334 - 14,865,334 10,351,397 - 10,351,397
+Profits before interest and tax 769,089 - 1,171,689 370,501 - 370,501
+Interest income 48,489 - 48,489 115,116 - 115,116
+Income tax expense or income (465,679) - (465,679) (228,270) - (228,270)
+Segment assets 20,391,942 - 20,391,942 18,999,495 - 18,999,495
+7.5 Segment assets and liabilities
+All assets and liabilities are jointly used by the reportable segments.
+There are no customers that represent more than 10% of the total revenue of any of the reported segments.
+8. Other operating income
+Rental Income (Note 8.1) - - 74,000 41,958
+Profit on disposal of property, plant and equipment 4,450 545 3,730 53
+Miscellaneous income 9,812 89,512 - 74,461
+8.1. The rental income is earned on some part of the floor space of
+value of the shares was 0.50k per unit.
+Right-of-use- assets 1,164 6,820 - -
+Impairment loss (write back)/charge on financial assets:
+Intangible assets written off (Note 21) 20,760 - - -
+14.1. Interest income:
+Finance Income (Bank deposits calculated using
+15. Profit for the year is arrived at after
+Depreciation right-of-use assets 1,164 6,820 - -
+Amortisation of intangible assets 13,172 5,354 - -
+16. Taxation
+16.1. Income tax recognised in profit or loss
+Current tax
+Current tax expense in respect of the current
+Income tax/minimum tax 424,161 193,734 7,366 3,872
+Education tax 60,209 23,575 6,345 3,506
+Information Technology tax 11,508 5,270 1,045 252
+Deferred tax expense (Note 16.4) (32,872) - (139,997) -
+Total income tax expense recognised in
+16.1.a. Corporation tax is calculated at 30 per cent (2023: 30 per cent) of the estimated taxable profit
+for the year. The charge for taxation in these financial statements is based on the provisions of the
+Companies Income Tax Act, CAP C21, LFN, 2021 as amended.
+16.1.b. The charge for education tax of 3 per cent (2023: 3 per cent) is based on the provisions of the
+Education Tax Act, CAP E4, LFN, 2021.
+16.2. Reconciliation of income tax expense for the year to the accounting profit as per profit or loss:
+Profit before tax on continuing operations 856,734 248,490 104,480 25,228
+Tax at the statutory corporation tax rate of 30%
+Effect of exempted income from taxation - - - -
+Effect of exempted expenses from taxation - - - -
+Effects of Minimum tax 424,161 193,734 7,366 3,872
+Effects of education tax 60,209 23,575 6,345 -
+Effects of information Technology tax 11,508 5,270 1,045 252
+Deferred tax writeback (32,872) - (139,997) -
+Income tax expense recognised in profit or loss
+16.3. Current tax liabilities
+16.4. Deferred tax liabilities
+Deferred tax liabilities 123,582 156,454 16,457 156,454
+16.4.1. Deferred taxassets andliabilities areoffset wherethe companyhas alegallyenforceable right todo
+so. The following is the analysis of the deferred tax liabilities after offset presented in the Statement of
+from equity
+January net income in OCI income December
+Deferred tax liabilities in
+Deferred tax assets in
+Net deferred tax liabilities 156,454 - 32,872 - - 123,582
+Deferred tax liabilities in
+Deferred tax assets in
+Net deferred tax liabilities 112,282 44,172 - - 156,454
+At 1 in net Recognise from equity At 31
+January income in OCI to net December
+Deferred tax liabilities in relation
+Deferred tax assets in relation to:
+Net deferred tax liabilities 156,456 44,172 - - 200,628
+Deferred tax liabilities in relation
+Deferred tax assets in relation to:
+Net deferred tax liabilities - 156,456 - - 156,456
+16.4.3. Deferred tax assets have not been recognised in respect of the above tax losses, unused tax credit
+and deductible temporary difference as it is not probable that the related deferred tax assets will be
+recovered in the near future and there are no other tax planning opportunities or other evidence of
+17. Profit/(loss) per share
+Profit/(loss) per share are calculated on the basis of profit/(loss) after taxation and the number of issued and
+fully paid ordinary shares of each financial year.
+Profit/(loss) from continuing operations
+Profit/(loss) attributable to owners of the Group 408,997 77,672 229,716 17,534
+Weighted average number of shares
+Number of ordinary shares for the purposes of
+Number of ordinary shares for the purposes of
+issued and paid ordinary shares of 50 kobo each.
+18.1. Right-of-use assets
+18.2. Lease liabilities
+19.3 At 31 December 2024, the Company had none of its assets pledged as security (31 December 2023 : Nil).
+19.3 At 31 December 2024, the Company had none of its assets pledged as security (31 December 2023: Nil)
+Chams.Net and Chams Wallet divisions, and will be converted to shares when these divisions
+21. Intangible assets - Verve NCC Konal Software ODO Work in
+20.1 Naira.com was independently valued by Meristem Capital Limited at 31 December 2021 to ascertain the open market value of the assets. The Valuer's opinion of the
+2016 to 2020, Company's forecasts of cashflows and recent evidence of market transactions on comparable assets within the neighbourhood. The valuation resulted in a
+open market value of the assets. The Valuer's opinion of the market value was primarily derived from historical financial information provided by the management of the
+comparable assets within the neighbourhood. The valuation resulted to a fair value of N2,973,135,565.00 using a projected discounted cashflow for intangible asset. No
+21. Intangible assets - Company
+21.1.1 Other Non current assets
+All shares in subsidiaries undertakings are ordinary shares.
+Condensed statement of profit or loss Parent - Chams Chams Card Centre Chams
+and other comprehensive income Chams Plc Access Ltd Switch Ltd Ltd Mobile Ltd Total Elimination Group
+Gross earnings 919,630 7,673,508 243,825 6,480,070 473,893 15,790,926 (877,103) 14,913,823
+Revenue - 7,650,013 240,421 6,477,046 473,893 14,841,373 - 14,841,373
+Gross profit - 2,461,642 99,353 1,566,735 230,155 4,357,887 - 4,357,887
+Other operating income 919,630 23,495 3,404 3,024 - 949,553 (925,592) 23,961
+Operating profit 355,467 1,013,875 (377,141) 216,923 (105,571) 1,103,554 1,171,689
+Interest income - 154 - 45,628 2,707 48,489 - 48,489
+Profit on continuing operations
+before taxation 104,480 982,085 (377,141) 182,037 (102,864) 788,599 - 856,734
+Income tax expenses 125,236 (444,116) (5,758) (137,201) (3,840) (465,678) - (465,678)
+Profit for the year after tax 229,716 537,969 (382,899) 44,836 (106,704) 322,921 391,056
+Assets
+Right-of-use assets - 6,500 - - - 6,500 - 6,500
+Intangible assets - 2,764 4,335,088 58,145 2,969,873 7,365,871 - 7,365,871
+Financial assets - FVOCI 100,000 - - - 100,000 - 100,000
+Total assets 7,526,514 4,247,481 5,485,635 3,485,045 4,161,388 24,906,068 (4,514,126) 20,391,942
+Liabilities
+Deferred tax liabilities 16,457 11,632 - 4,517 89,519 1,457 114,548 9,034 123,582
+Deferred income - 607,277 1,692 - - 608,969 - 608,969
+Lease liabilities - - - - - - - -
+Current tax liabilities 129,329 457,397 13,158 48,758 5,883 654,525 654,525
+Total liabilities 3,535,183 2,862,634 572,305 3,228,269 217,722 10,416,118 - 17,501 10,398,617
+Equity
+Total equity 3,991,331 1,384,847 4,913,330 256,776 3,943,666 14,489,950 (4,496,625) 9,993,325
+Total liabilities and equity 7,526,514 4,247,481 5,485,635 3,485,045 4,161,388 24,906,068 (4,514,126) 20,391,942
+Condensed statement of profit or loss Parent - Chams Chams Card Center Chams
+and other comprehensive income Chams Plc Access Ltd Switch Ltd Ltd Mobile Ltd Total Elimination Group
+Gross earnings 774,362 5,569,530 1,421,471 2,347,424 473,136 10,585,923 (119,470) 10,466,453
+Revenue - 5,478,227 1,371,275 2,325,120 471,345 9,645,967 - 9,645,967
+Gross profit - 1,176,903 62,080 462,743 158,846 1,860,571 - 1,860,571
+Other operating income 769,441 91,303 50,196 22,304 1,791 935,035 (229,605) 705,430
+Interest income 4,921 2,026 4 39,455 68,711 115,116 - 115,116
+taxation 25,228 444,181 (262,331) 1,346 40,067 248,491 - 248,490
+Income tax expenses (7,694) (187,071) (7,118) (19,242) (7,144) (228,269) - (228,270)
+Loss for the year after tax 17,534 257,110 (269,449) (17,896) 32,923 20,222 - 20,220
+Assets
+Right-of-use assets - 9,800 - - - 9,800 - 9,800
+Intangible assets - 3,928 4,308,922 65,048 2,969,873 7,347,772 - 7,347,772
+Financial assets - FVOCI 100,000 - - - - 100,000 - 100,000
+Total assets 6,689,904 2,351,909 5,750,149 4,329,630 4,220,258 23,341,850 (4,342,354) 18,999,495
+Liabilities
+Deferred tax liabilities 156,454 - - - - 156,454 - 156,454
+Deferred income - 71,959 2,777 - - 74,736 - 74,736
+Lease liabilities - - - - - - - -
+Current tax liabilities 123,850 192,093 12,423 18,393 7,144 353,903 - 353,903
+Total liabilities 2,928,289 1,556,782 453,922 4,117,846 173,492 9,230,331 101,815 9,332,145
+Equity
+Total equity 3,761,615 795,127 5,296,227 211,784 4,046,766 14,111,519 (4,444,169) 9,667,349
+Total liabilities and equity 6,689,904 2,351,909 5,750,149 4,329,630 4,220,258 23,341,850 (4,342,354) 18,999,495
+Non-controlling interests have a 51% equity stake in Chams Mobile Ltd and 59% equity stake in
+Chams Switch. Loss attributable to non-controlling interests in the 2024 consolidated profit/(loss)
+Investment accounted for using equity
+All shares in subsidiaries undertakings are ordinary shares.
+Current assets - 9,599 9,599 9,599
+Non-current assets 10,857 77,013 87,870 87,870
+Total assets 10,857 86,612 97,469 97,469
+Current liabilities - 1,000 1,000 1,000
+Non-current liabilities 6,673 - 6,673 6,673
+Total liabilities 6,673 1,000 7,673 7,673
+Net assets 4,184 85,612 89,796 89,796
+Current financial liabilities
+Non-current financial liabilities
+Revenue - - - -
+(Loss)/profit from contiuning
+Other comprehensive (loss)/income
+Other income - - - -
+Net assets of the associates 89,796 89,796 89,796 89,796
+Gross amount of Group's interest
+Investment accounted for using equity method-in Joint
+comprehensive income
+Unlisted equity (Note 25.1) 100,000 100,000 100,000 100,000
+through other comprehensive income
+25.2 Analysis of equity instruments
+(Loss)/profit from changes in fair value recognised in OCI
+Contract assets 621,148 56,544 - -
+Withholding tax receivables 1,453,977 1,001,535 230,409 232,216
+Value added tax receivables 359,016 61,232 2,426 2,376
+Deposit for shares (Note 39.2.1) 5,900 5,000 - -
+transaction value and transaction income to banks and merchants on a daily basis for services routed through
+outstanding receivables are long overdue and will take the necessary steps to recover all outstanding balances
+due to us bywithholding transaction income that should be settled to them up to the amount we are owed. This
+Expected gross carrying Loss (Average
+total gross (Average
+internal credit rating system and year-end stage classification. The amounts presented are gross of
+Gross carrying amount
+New assets originated or purchased (1,033,053) - - (1,033,053)
+Assets derecognised or repaid - - - -
+New assets originated or purchased - - - -
+Assets derecognised or repaid - - -
+Gross carrying amount
+New assets originated or purchased (253,472) - - (253,472)
+Assets derecognised or repaid - - - -
+New assets originated or purchased - - - -
+Assets derecognised or repaid - - - -
+Value added tax payable 569,424 477,860 157,089 157,139
+Withholding tax payable 9,044 12,229 6,366 5,630
+Deposit for shares 325,092 316,474 19,349 10,731
+29.1.a All the liabilities above are classified as current. Trade and other payables are non-interest bearing
+29.1.c Statutory liabilities such as VAT, WHT, PAYE, ITF, NSIT, NHF, Pension are expected to be settled
+future liabilities arising from penalties from the tax authorities.
+30. Deferred income
+30.1. Movement in deferred income
+30.2. The deferred revenue for virtual airtime
+hasnot beensoldforrevenuetobeearnedas
+at 30 September 2024.The revenue will be
+10 billion ordinary shares of 50 kobo each 5,000,000 5,000,000 5,000,000 5,000,000
+4,696,060,000 ordinary shares of 50 kobo each
+32.1.a The Company has one class of ordinary shares which carry no right to fixed income.
+December 2020, a company that has an unissued shares in its capital shall not later than 31 December
+2022 fully issue such shares.
+Profit/(loss) for the period 408,997 77,672 229,716 17,534
+35. Assets revaluation reserve
+Additional shares acquired - 182,130 - -
+Deposit for shares
+40. Contigent liabilities and capital commitments
+Investment income 48,489 115,116 - 4,921
+Income tax expenses 498,551 20 228,270 15 14,761 2 7,694 2
+To provide for assets
+assets
+Profit/(loss) for the year 391,054 16 20,220 2 229,716 33 17,534 4
+Non-current assets
+Right-of-use assets 6,500 9,800 15,300 21,900.0 -
+Intangible assets 7,365,871 7,347,772 7,144,799 5,235,776 825,946
+through other comprehensive income 100,000 100,000 84,454 92,827 100,000
+Non-current liabilities
+Deferred tax liabilities (123,582) (156,454) (156,454) - -
+Lease liabilities - - (10,680) (10,680) -
+Net current liabilities 770,996 895,808 1,282,561 (1,762,915) (830,058)
+Equity
+- Assets revaluation reserve 4,755,307 4,755,307 4,755,307 3,887,450 1,482,164
+Total equity 9,993,323 9,667,349 9,449,453 4,734,635 1,429,113
+Income statement
+Gross earnings 14,913,823 10,466,513 5,790,431 2,147,857 2,147,857
+Profit/(loss) on continuing operations
+before taxation 856,734 248,490 (129,056) (913,126) (913,126)
+Income tax (465,679) (228,270) (246,184) (31,756) (31,756)
+Profit/(loss) on continuing operations
+before taxation for the year after tax 391,054 20,220 (375,240) (944,882) (944,882)
+Earnings/(loss) per share are calculated on the basis of profit/(loss) after taxation and the number of issued andfully
+paid ordinary shares of each financial year.
+Net asset per share are based on the net assets divided by the number of issued and fully paid ordinary shares of
+Non-current assets
+through other comprehensive income 100,000 100,000 84,454 92,827 100,000
+Non-current liabilities
+Deferred tax asset (16,457) (156,454) (156,454) - -
+Net current (liabilities)/assets (352,740) (1,244,449) (1,407,663) (639,628) 77,680
+Equity
+- Assets revaluation reserve 1,463,364 1,463,364 1,463,364 1,463,364 959,065
+Total equity 3,991,330 3,761,615 3,728,535 3,882,388 3,350,045
+Income statement
+Gross earnings 919,630 774,362 929,496 497,888 497,888
+Profit/(loss)/profit on continuing
+operations before taxation 104,480 25,228 68,812 (345,274) (345,274)
+Income tax expenses 125,236 (7,694) (214,292) (1,243) (1,243)
+Profit/(loss) for the year after tax 229,716 17,534 (145,480) (346,517) (346,517)
+Earnings/(loss) per share are calculated on the basis of profit/(loss) aftertaxation and the numberof issued and
+fully paid ordinaryshares of each financial year.
+Net asset per share are based on the net assets divided bythe numberof issued and fullypaid ordinaryshares

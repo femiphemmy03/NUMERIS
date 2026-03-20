@@ -1,0 +1,71 @@
+0,1,2,3,4,5,6,7
+"4.1.3Valuation techniques used to derive Level 2 fair values
+Level 2 fair values of investments have been generally derived using the market approach. Below is a table showing sensitivity analysis of material unquoted investments categorised as Level 2 fair values.
+Description Fair value at 30 Valuation Technique Observable Inputs Fair value if inputs Fair value if inputs Relationship of observable
+September 2025 increased by 5% decreased by 5% inputs to fair value
+N'000 N'000 N'000",,,,,,,
+,Description,"Fair value at 30
+September 2025
+N'000",Valuation Technique,Observable Inputs,"Fair value if inputs
+increased by 5%
+N'000","Fair value if inputs
+decreased by 5%
+N'000","Relationship of observable
+inputs to fair value"
+,"Derivative financial
+assets","2,063,095","Forward and swap: Fair value through
+mark to model reference rate
+Futures: Fair value through the mark
+to market rate",Spot rate at valuation date,"1,546,497","1,399,212","Thehigherthemarketrate,the
+higher the fair value of the
+derivative financial instrument"
+,"Derivative financial
+liabilities","590,240",,,,,
+,Investment in CSCS,"1 0,913","The market value is obtained from the
+National Assosciation Of Securities
+Dealers (NASD) as at the reporting
+period",Share price from NASD,"1 1,458","10,367","The higher the share price, the
+higher the fair value"
+,"Nigerian Mortgage
+Refinance Company",306,"The market value is obtained from the
+National Assosciation Of Securities
+Dealers (NASD) as at the reporting
+period",Share price from NASD,321,290,"The higher the share price, the
+higher the fair value"
+,"State bonds measured
+at fair value","4 1,019","The market value is obtained from the
+Financial market dealers quotation
+(FMDQ) as at the reporting period","Market rates from mark to model
+reference rates","4 3,070","38,968","The higher the market price, the
+higher the fair value"
+,"Corporate bonds
+measured at fair value","17,651","The market value is obtained from the
+Financial market dealers quotation
+(FMDQ) as at the reporting period","Market rates from mark to model
+reference rates","18,534","16,769","The higher the market price, the
+higher the fair value"
+,"State bonds not
+measured at fair value","1,404","The market value is obtained from the
+Financial market dealers quotation
+(FMDQ) as at the reporting period","Market rates from mark to model
+reference rates","1 ,474","1 ,334","The higher the market price, the
+higher the fair value"
+,"Corporate bonds not
+measured at fair value","4,770","The market value is obtained from the
+Financial market dealers quotation
+(FMDQ) as at the reporting period","Market rates from mark to model
+reference rates","5 ,009","4,532","The higher the market price, the
+higher the fair value"
+,"Promissory notes not
+measured at fair value","1 60,694","The market value is obtained from the
+Financial market dealers quotation
+(FMDQ) as at the reporting period","Market rates from mark to model
+reference rates","168,728","152,659","The higher the market price, the
+higher the fair value"
+,"Preferential Notes not
+measured at fair value","5 4,803","The market value is obtained from the
+Financial market dealers quotation
+(FMDQ) as at the reporting year","Market rates from mark to model
+reference rates","57,543","5 2,063","The higher the market price, the
+higher the fair value"
+,,,,,,,

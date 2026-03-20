@@ -1,0 +1,156 @@
+0,1,2,3,4,5,6,7,8,9
+"4.1.3Valuation techniques used to derive Level 2 fair values
+Level 2 fair values of investments have been generally derived using the market approach. Below is a table showing sensitivity analysis of material unquoted investments categorised as Level 2 fair values.
+Description Fair value at 31 Valuation Technique Observable Inputs Fair value if inputs Fair value if inputs Relationship of
+December 2024 increased by 5% decreased by 5% observable inputs to fair
+value",,,,,,,,,
+,Description,"Fair value at 31
+December 2024",Valuation Technique,,Observable Inputs,,"Fair value if inputs
+increased by 5%","Fair value if inputs
+decreased by 5%","Relationship of
+observable inputs to fair
+value"
+,"Derivative financial
+assets","1,475,999","Forward and swap: Fair value through
+forward exchange rate
+Futures: Fair value through mark to
+model reference rate",,"Market rates from mark to model
+reference rates",,"1,285,164","1,294,133","Thehigherthemarketrate,
+thehigherthefairvalueof
+the derivative financial
+instrument"
+,"Derivative financial
+liabilities","98,921",,,,,,,
+,Investment in CSCS,"7,913","The market value is obtained from the
+National Assosciation Of Securities
+Dealers (NASD) as at the reporting
+year",,Share price from NASD,,"8 ,308","7,517","The higher the share price,
+the higher the fair value"
+,"Nigerian Mortgage
+Refinance Company",306,"The market value is obtained from the
+National Assosciation Of Securities
+Dealers (NASD) as at the reporting
+year",,Share price from NASD,,321,290,"The higher the share price,
+the higher the fair value"
+,"State bonds measured
+at fair value","38,614","The market value is obtained from the
+Financial market dealers quotation
+(FMDQ) as at the reporting year",,"Market rates from mark to model
+reference rates",,"4 0,545","3 6,684","The higher the market
+price, the higher the fair
+value"
+,"Corporate bonds
+measured at fair value","1 4,875","The market value is obtained from the
+Financial market dealers quotation
+(FMDQ) as at the reporting year",,"Market rates from mark to model
+reference rates",,"1 5,618","14,131","The higher the market
+price, the higher the fair
+value"
+,"State bonds not
+measured at fair value","2,469","The market value is obtained from the
+Financial market dealers quotation
+(FMDQ) as at the reporting year",,"Market rates from mark to model
+reference rates",,"2,592","2,345","The higher the market
+price, the higher the fair
+value"
+,"Corporate bonds not
+measured at fair value","6 ,614","The market value is obtained from the
+Financial market dealers quotation
+(FMDQ) as at the reporting year",,"Market rates from mark to model
+reference rates",,"6,945","6 ,283","The higher the market
+price, the higher the fair
+value"
+,"Preferential Notes not
+measured at fair value","6 0,392","The market value is obtained from the
+Financial market dealers quotation
+(FMDQ) as at the reporting year",,Market rates from quoted market,,"63,412","5 7,373","The higher the market
+price, the higher the fair
+value"
+"4.1.4Valuation techniques used to derive Level 3 fair values
+Level3fairvaluesofinvestmentshavebeengenerallyderivedusingtheadjustedfairvaluecomparisonapproach.Quotedpriceperearningorpriceperbookvalue,enterprisevaluetoEBITDAratiosofcomparableentitiesina
+similarindustrywereobtainedandadjustedforkeyfactorstoreflectestimatedratiosoftheinvestmentbeingvalued.AdjustingfactorsusedaretheIlliquidityDiscountwhichassumesareducedearningonaprivateentityin
+comparisontoapubliclyquotedentityandtheHaircutadjustmentwhichassumesareducedearningforanentitylocatedinNigeriacontributedbylowertransactionlevelsincomparisontoanentityinadevelopedoremerging
+market.
+Description Fair value at 31 Valuation Observable Fair value if Fair value if Fair value if Fair value if Relationship of
+December 2024 Technique Inputs inputs inputs decreased unobservable unobservable inputs unobservable inputs to
+increased by 5% by 5% inputs increased by decreased by 5% fair value
+5%",,,,,,,,,
+,Description,"Fair value at 31
+December 2024","Valuation
+Technique","Observable
+Inputs","Fair value if
+inputs
+increased by 5%","Fair value if
+inputs decreased
+by 5%","Fair value if
+unobservable
+inputs increased by
+5%","Fair value if
+unobservable inputs
+decreased by 5%","Relationship of
+unobservable inputs to
+fair value"
+,"Investment in Africa
+Finance Corporation","669,809","Adjusted fair value
+comparison
+approach","Average P/B
+multiples of
+comparable
+companies","703,300","636,319","662,642","676,976","The higher the control
+premium, the lower the
+illiquidity discount and the
+size adjustment/haircut, the
+higher the fair value."
+,"Investment in Unified
+Payment System
+Limited","9 ,514","Adjusted fair value
+comparison
+approach","Median PE
+ratios of
+comparable
+companies","9,106","8,239","9,389","9,640","The higher the control
+premium, the lower the
+illiquidity discount and the
+size adjustment/haircut, the
+higher the fair value."
+,Investment in NIBSS,"37,704","Adjusted fair value
+comparison
+approach","Median P/B
+multiples of
+comparable
+companies","39,589","35,818","37,206","38,202","The higher the control
+premium, the lower the
+illiquidity discount and the
+size adjustment/haircut, the
+higher the fair value."
+,"Investment in
+Afrexim","1,778","Adjusted fair value
+comparison
+approach","Median P/B
+multiples of
+comparable
+companies","1,867","1,689","1,769","1,786","The higher the control
+premium, the lower the
+illiquidity discount and the
+size adjustment/haircut, the
+higher the fair value."
+,Investment in FMDQ,"10,229","Adjusted fair value
+comparison
+approach","Average P/B
+multiples of
+comparable
+companies","10,740","9,717","10,035","10,423","The higher the illiquidity
+ratio and the earnings per
+share haircut adjustment the
+higher the fair value"
+,"Investment in CRC
+Bureau",2 44,"Adjusted fair value
+comparison
+approach","Median P/B
+multiples of
+comparable
+companies",257,232,241,248,"The higher the control
+premium, the lower the
+illiquidity discount and the
+size adjustment/haircut, the
+higher the fair value."
