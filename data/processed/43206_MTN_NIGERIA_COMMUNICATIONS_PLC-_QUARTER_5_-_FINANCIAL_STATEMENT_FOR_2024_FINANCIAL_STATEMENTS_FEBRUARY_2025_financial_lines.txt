@@ -1,0 +1,843 @@
+Tax Identification Number 00969009-001
+Consolidated and separate statements of profit or loss 21
+Consolidated and separate statements of other comprehensive income 22
+Consolidated and separate statements of changes in equity 25
+Revenue 9 3,358,461 2,468,847 36.0
+Operating profit 778,244 773,660 0.6
+Loss before taxation (550,325) (177,886) (209.4)
+Total equity attributable to the owners of the company (458,007) (45,404) (908.7)
+Net liabilities per share (N) (21.84) (2.17) (908.7)
+Number of shares issued and fully paid as at year end 31.1 20,996 20,996 -
+The Group recorded revenue of N3.36 trillion (2023: N2.47 trillion) and a loss after tax of N400.44 billion (2023:
+Revenue 9 3,358,461 2,468,847
+Operating profit 778,244 773,660
+Loss before taxation (550,325) (177,886)
+Income tax credit 18 149,890 40,865
+Loss before tax has been arrived at after charging
+Depreciation of right of use assets 20.1 184,723 118,296
+Amortisation of intangible assets 21 90,684 79,033
+Credit loss on financial assets 13 6,752 756
+The directors who served during the year and their direct/ indirect interests in the Group's equity were as follows:
+No. of shares No. of shares No. of shares No. of shares
+Substantial interest in shares
+Taxation
+Company Income Tax, Education Tax and National Information Technology Development Fund Levy due in the prior
+years have been duly settled in line with the provisions of relevant tax laws.
+An aggregate tax credit of N149.89 billion (December 2023: N40.87 billion) has been recognised in the consolidated
+statement of profit or loss covering the period January to December 2024.
+Group made a loss after taxation. The Foundation, a duly registered charitable entity separate and distinct from the
+the results of its operations, cash flows and changes in equity for the year then ended, in compliance with IFRS
+ Taking such steps as are reasonably available to them to safeguard the assets of the Company; and
+responses to the External Auditor's recommendations and that management has taken appropriate steps to
+Consolidated and separate statements of profit or loss
+Revenue 9 3,358,461 2,468,847 3,363,513 2,472,473
+Other income 10 2,369 - 2,369 -
+Impairment of financial assets* 13 (6,752) (756) (6,824) (10,189)
+Depreciation of right of use assets 20.1 (184,723) (118,296) (184,723) (118,296)
+Amortisation of intangible assets 21 (90,684) (79,033) (89,231) (72,289)
+Operating profit 778,244 773,660 809,356 807,967
+Finance income 15 28,440 25,815 24,998 24,753
+Loss before taxation (550,325) (177,886) (520,976) (144,242)
+Taxation 18 149,890 40,865 160,500 39,732
+Consolidated and separate statements of other comprehensive income
+Items that will not be reclassified to profit or loss,
+(net of taxation):
+Items that may be reclassified to profit or loss, (net
+of taxation):
+Other comprehensive income for the year; net of (185) (963) (189) (956)
+taxation
+(a)Fair valuation loss on investments designated at fair value through other comprehensive income (FVOCI) relates to
+Federal Government treasury bills and bonds investments and its recognised net of tax (except for Federal Government
+Assets
+Non-current assets
+Right-of-use assets 20.1 1,382,580 478,826 1,382,580 478,826
+Intangible assets 21 408,783 447,599 404,212 426,300
+Deferred tax assets 43.2 321,349 151,362 321,332 140,777
+Current assets
+Total assets 4,196,991 3,188,827 4,274,704 3,239,635
+Equity and liabilities
+Equity
+Treasury shares 34 (4,869) (4,869) (4,869) (4,869)
+Equity attributable to the owners of the company
+Liabilities
+Non-current liabilities
+Lease liabilities 20 1,997,744 813,634 1,997,744 813,634
+Deferred tax liabilities 43.1 - 1,149 - -
+Other non-current liabilities* 38 8,842 8,267 25 -
+Current liabilities
+Lease liabilities 20 285,680 190,777 285,680 190,777
+Contract liabilities 40 117,272 102,796 117,272 102,414
+Current tax payable 42 25,012 157,971 24,713 157,669
+Total liabilities 4,654,998 3,229,671 4,630,942 3,204,856
+Total equity and liabilities 4,196,991 3,188,827 4,274,704 3,239,635
+Consolidated and separate statements of changes in equity
+Share Share Total share Treasury Other Retained Equity Non- Total equity
+capital premium capital shares reserves profit/ attributable controlling
+Other comprehensive loss; net of tax - - - - (963) - (963) - (963)
+Other comprehensive loss; net of tax - - - - (185) - (185) - (185)
+Consolidated and separate statements of changes in equity
+Share Share Total share Treasury Other Retained Equity Non- Total equity
+capital premium capital shares reserves profit/ attributable controlling
+Other comprehensive loss; net of tax - - - - (956) - (956) - (956)
+Other comprehensive loss; net of tax - - - - (189) - (189) - (189)
+Finance income received 15 23,304 24,554 19,845 24,522
+Tax paid 42 (126,620) (184,507) (126,620) (184,507)
+Prepayment of right of-use-assets 20.1.1 (51,850) (34,501) (51,850) (34,501)
+Acquisition of intangible assets 21.6 (87,303) (165,029) (86,980) (165,029)
+Prepaid road investment tax credit cost* 25.1 (18,978) (17,291) (18,978) (17,291)
+Repayments on lease liabilities 20.2 (204,564) (110,103) (204,564) (110,103)
+for derivatives measured at fair value and debt instruments measured at fair value through profit or loss and at fair
+value through other comprehensive income and for the following items which have been measured on an alternative
+- Shared based transactions at grant date fair value of the equity instrument issued.
+- Lease liabilities at present value of future lease payments.
+Intercompany transactions, balances, income and expenses, and profits and losses are eliminated.
+transferred is measured at the fair value of the assets given, equity instruments issued and liabilities incurred or
+assumed at the date of acquisition. Acquisition-related costs are recognised in profit or loss. Identifiable assets
+acquired and liabilities assumed in a business combination are measured initially at their fair values at the acquisition
+Non-controlling interests are measured at their proportionate share of the acquiree's identifiable net assets at the
+Changes in the Group's interest in a subsidiary that do not result in a loss of control are accounted for as equity
+transactions (transactions with owners). When the proportion of the equity held by Non-Controlling Interests (NCI's)
+value of the consideration paid or received is recognized directly in equity and attributed to the Group.
+equity owners of the Group. A change in ownership interest results in an adjustment between the carrying amounts of
+separate reserve within equity attributable to owners of the group.
+On loss of control, the Group derecognises the assets and liabilities of the subsidiary, any related non-controlling
+interests and the other components of equity relating to a subsidiary. Any surplus or deficit arising on the loss of control
+is recognized in profit or loss. If the Group retains any interest in the previous subsidiary, then such interest is measured
+at fair value at the date that control is lost. Subsequently, that retained interest is accounted for as an equity-accounted
+Assets and liabilities:
+ The assets and liabilities of the acquired entity are recognized at their carrying amounts in the consolidated
+ No adjustments are made to reflect fair values or recognize any new assets or liabilities, including contingent
+liabilities, at the date of the combination.
+The consideration transferred is measured at the carrying amount of the assets given, liabilities incurred, and equity
+assets acquired is recognized in equity.
+transactions. Monetary assets and liabilities denominated in foreign currencies are translated at the rates of exchange
+from the translation at the reporting date exchange rates of monetary assets and liabilities denominated in foreign
+currencies are recognised in profit or loss.
+4.4 Revenue
+The Group principally generates revenue from providing mobile telecommunications services, such as network services
+Revenue is measured based on the consideration specified in a contract with a customer and excludes amounts
+collected on behalf of third parties. The Group recognises revenue when it transfers control over a product or service to
+4.4 Revenue(continued)
+Categories of revenue
+The main categories of revenue and the basis of recognition are as follows:
+Digital revenue is any value added service that involves the application in transacting (i.e. application to person SMS,
+revenue from cloud and infrastructure services, information and communication technology. These services include rich
+The Group recognises revenue from these services as they are provided. Revenue is recognised based on actual units of
+The Group sells a range of mobile devices. The Group recognises revenue when customers obtain control of mobile
+The Group provides interconnect and roaming services. The Group recognises interconnect and roaming revenue and
+interconnect revenue will be received, in which case interconnect revenue is recognised only when the cash is received
+4.4 Revenue(continued)
+Group reduces interconnect and roaming revenue and recognises interest revenue over the period between satisfying
+profit or loss, when incurred, if the amortisation period of the assets that the Group otherwise would have recognised is
+Contract costs are assessed for impairment in terms of IAS 36 Impairment of Assets (IAS 36) when there is an indication
+Contract assets and liabilities
+Revenue received on prepaid contracts is deferred and recognised when services are utilised by the customer or on
+determined by the closing market price of the MTN Group Limited shares on the day prior to the date of allocation.
+conditional rights to receive a certain number of shares by qualifying participants annually. The vesting period for the
+dividends on the shares during the vesting period.
+cost to participants. The plan is not tied to the company performance. The shares will vest as follows:
+Remeasurement gains or losses and curtailment gains or losses arising from valuations are recognised in the profit or
+Liabilities and Contingent Assets that includes the payment of termination benefits.
+full to other comprehensive income.
+4.6 Finance income and expenses
+Finance income comprises interest income on funds invested, changes in fair value of financial assets through profit or
+loss, compensation for time value of money on road infrastructure tax scheme and Interest income is recognised as it
+accrues in profit or loss, using the effective interest rate method.
+4.6 Finance income and expenses(continued)
+value of financial assets through profit or loss that are recognised in profit or loss.
+4.7 Taxation
+Income tax charge is the sum of current and deferred tax. Income taxes are recognised in profit or loss unless they
+relate to items that are recorded in Other Comprehensive Income (OCI) in which case the tax is recorded in OCI. The
+Group determines the tax due based on expected amount payable and on an individual tax position basis.
+Current income tax
+Current tax is the expected tax payable (companies income tax and tertiary education tax) on the taxable income for the
+year determined in accordance with the provisions of the Companies Income Tax Act and Tertiary Education Tax Act
+using the tax rate enacted or substantively enacted as at the reporting date.
+Minimum tax is which is computed at 0.5% of gross turnover. This is in line with the provisions of Section 33 of Company
+Income Tax Act (CITA) which imposes a minimum tax where a company has no taxable profits, or the tax payable is less
+than the minimum tax computed.
+Deferred income tax
+Deferred tax is recognised using the liability method, providing for temporary differences arising between the tax base
+of assets and liabilities and their carrying amount in the financial statements. Deferred tax liabilities are recognised for
+all taxable temporary differences except;
+ii. at the time of the transaction, affects neither accounting profit nor taxable profit (tax loss)
+Deferred tax is measured at the statutory tax rate enacted or substantively enacted at the reporting date and are
+expected to apply to temporary differences when they reverse. Deferred tax asset is recognised for unused tax losses or
+deductible temporary difference only to the extent that it is probable that future taxable profit will be available against
+which the temporary difference can be utilised. Deferred tax assets are reviewed at each reporting date and reduced to
+the extent that it is no longer probable that the related tax benefit will be realised.
+Deferred tax assets and liabilities are offset if there is a legally enforceable right to offset current tax liabilities and
+assets, and they relate to income taxes levied by the same authority.
+Deferred tax on decommissioning liabilities is measured at the tax rates that are expected to be applied to temporary
+date. Decommissioning liabilities relates to the estimate of the costs of dismantling and removing items of property and
+Information Technology Development Levy is computed and recognised at one percent of profit before tax in line with
+National Information Technology Development Act of 2007. The levy is recognised in the profit or loss.
+of profit before tax on commercial companies and firms with turnovers of N100,000,000 and above in certain sectors,
+2022. The levy is calculated based on 0.25% of the profit before tax, collectible by the Federal Inland Revenue Service
+(FIRS) on behalf of NASENI Agency and it is tax deductible. The levy is recognised in the profit or loss.
+the profit or loss during the period in which they are incurred.
+cost of materials and direct labour, any other costs directly attributable to bringing the assets to a working condition for
+and borrowing costs on qualifying assets. Assets are transferred from capital work in progress to an appropriate
+acquisition, construction or production of qualifying assets. Other borrowing costs are expensed in profit or loss.
+statement of profit or loss.
+Property and equipment acquired in exchange for non-monetary assets are measured at the fair value unless the
+exchange transaction lacks commercial substance or the fair value of the assets cannot be reliably measured. Assets
+value of the assets exchanged:
+In instances whereby the Group receives assets for no consideration (free of charge), the Group accounts for these at
+cost in accordance with IAS 16 Property, and Equipment, being zero value. Where assets are received free of charge
+relating to settlement arising from business interruption, the assets are recognised at their fair value. Rebates\asset
+The depreciation method and the assets' residual values and useful lives are reviewed, and adjusted if appropriate, at
+each reporting date. Depreciation is charged to profit or loss.
+from the disposal and the carrying amount of the asset, and is included in profit or loss.
+An impairment loss is recognised in profit or loss if the carrying amount of an asset or its cash-generating unit exceeds
+to their present value using a pre-tax discount rate that reflects current market assessments of the time value of money
+For the purpose of impairment testing, assets are grouped together into the smallest group of assets that generate
+cash inflows from continuing use that are largely independent of the cash inflows of other assets or groups of assets
+any goodwill allocated to the units and then to reduce the carrying amounts of the other assets in the unit (group of
+years. A reversal of an impairment loss is recognised immediately in profit or loss.
+At the commencement date of the lease, the Group recognises lease liabilities measured at the present value of lease
+date, the amount of lease liabilities is increased to reflect the accretion of interest and reduced for the lease payments
+made. In addition, the carrying amount of lease liabilities is remeasured if there is a modification, a change in the lease
+not elected the practical expedient to account for non-lease components as part of its lease liabilities and right-of-use
+assets. Therefore, non-lease components are accounted for as operating expenses and are recognised in profit or loss
+4.10.1.2 Right-of-use assets
+The Group recognises right-of-use assets at the commencement date of the lease (i.e., the date the underlying asset is
+available for use). Right-of-use assets are measured at cost, less any accumulated depreciation and impairment losses,
+and adjusted for any remeasurement of lease liabilities. The cost of right-of-use assets includes the amount of lease
+liabilities recognised, initial direct costs incurred, and lease payments made at or before the commencement date less
+of the lease term, the recognised right-of-use assets are depreciated on a straight-line basis over the shorter of its
+estimated useful life and the lease term. Right-of-use assets are subject to impairment.
+Depreciation of right-of-use assets is recognised to write off the cost of the asset, on a straight line basis, over its lease
+4.10.3 Short-term leases and lease of low-values assets
+lease of low-value assets recognition exemption to leases of office equipment that are considered of low value (i.e.,
+below $5,000 or N1.8 million). Lease payments on short-term leases and leases of low-value assets are recognised as
+The Group has the option, under some of its leases to lease the assets for additional terms of three to five years. The
+these assets to its operations. These leases have a short non-cancelable period of two years and there will be a
+4.11Intangible assets
+In accordance with criteria set out in IAS 38 - "Intangible assets", intangible assets are recognized only if identifiable;
+Intangible assets with finite useful lives that are carried at cost less accumulated amortisation and accumulated
+impairment losses. Intangible assets are amortized using the straight-line method over their useful lives.
+disposal proceeds and the carrying amount of the asset, are recognized in profit or loss when the asset is unrecognised.
+charged to the profit or loss.
+contract terms. Amortisation on licences and spectrum fees are charged to profit or loss.
+the amount of any non-controlling interests in the acquiree, and the fair value of the acquirer's previously held equity
+interest in the acquiree (if any) over the net of the acquisition date fair values of the identifiable assets acquired and
+liabilities assumed. If, after reassessment, the net of the acquisition date fair values of the identifiable assets acquired
+and liabilities assumed exceeds the sum of the consideration transferred, the amount of any non-controlling interests in
+recognised immediately in profit or loss as a bargain purchase.
+A financial instrument is any contract that gives rise to a financial asset of one entity and a financial liability or equity
+instrument of another entity. Financial assets and financial liabilities are recognised on the Group's statement of
+4.12.1 Financial assets
+through profit or loss, transaction costs.
+Financial assets are classified into the following categories:
+• Financial assets at amortised cost
+• Financial assets at fair value through other comprehensive income (FVOCI)
+• Financial assets at fair value through profit or loss (FVTPL)
+The classification of financial assets at initial recognition depends on the financial asset's contractual cash flow
+The Group's business model for managing financial assets refers to how it manages its financial assets in order to
+flows, selling the financial assets, or both.
+Financial assets at amortised cost
+The Group measures financial assets at amortised cost if both of the following conditions are met:
+Financial assets at amortised cost are subsequently measured using the effective interest (EIR) method and are subject
+to impairment. Gains and losses are recognised in profit or loss when the asset is derecognised, modified or impaired.
+The Group's financial assets at amortised cost includes trade receivables, other and current investments, restricted
+Financial assets at fair value through other comprehensive income
+through OCI, interest income, foreign exchange revaluation and impairment losses or reversals are recognised in the
+statement of profit or loss and computed in the same manner as financial assets measured at amortised cost. The
+OCI is recycled to profit or loss. The Group's debt instruments at fair value through OCI includes investments in Federal
+Financial assets at fair value through profit or loss
+Financial assets at fair value through profit or loss include financial assets held for trading and financial assets
+mandatorily required to be measured at fair value. Financial assets are classified as held for trading if they are acquired
+for the purpose of selling or repurchasing in the near term. Financial assets with cash flows that are not solely
+payments of principal and interest are classified and measured at fair value through profit or loss, irrespective of the
+business model. Financial assets at fair value through profit or loss are carried in the statement of financial position at
+fair value with net changes in fair value recognised in the statement of profit or loss.
+transaction costs are recognised in profit or loss when incurred. Subsequently derivatives are measured at fair value
+through profit or loss. Derivatives are carried as financial assets when the fair value is positive and as financial
+liabilities when the fair value is negative.
+4.12.2 Financial liabilities
+Financial liabilities comprise trade and other payables, borrowings and other non-current liabilities (excluding
+provisions). Financial liabilities are initially measured at fair value, net of transaction costs incurred and are
+Borrowings are classified as current liabilities if payment is required within 12 months and non-current where the
+For purposes of subsequent measurement, financial liabilities are classified in two categories:
+• Financial liabilities at fair value through profit or loss
+• Financial liabilities at amortised cost (loans and borrowings)
+Financial liabilities at amortised cost
+Financial liabilities at fair value through profit or loss include financial liabilities held for trading and financial liabilities
+designated upon initial recognition as at fair value through profit or loss.
+Financial liabilities are classified as held for trading if they are incurred for the purpose of repurchasing in the near
+hedging instruments in hedge relationships as defined by IFRS 9. Gains or losses on liabilities held for trading are
+recognised in the statement of profit or loss.
+recognised in profit or loss over the period of the borrowings using the effective interest method. Fees paid on the
+business from suppliers. Trade and other payables are classified as current liabilities if payment is due within one year
+or less, if not they are presented as non-current liabilities.
+Financial liabilities at fair value through profit or loss
+subsequently measured at amortised cost using the EIR method. Gains and losses are recognised in profit or loss when
+the liabilities are derecognised as well as through the EIR amortisation process.
+an integral part of the EIR. The EIR amortisation is included as finance costs in the statement of profit or loss.
+through profit or loss. ECL is the difference between the contractual cash flows due in accordance with the contract and
+Financial assets and financial liabilities are offset and the net amount is reported in the consolidated statement of
+settle on a net basis and to realise the assets and settle the liabilities simultaneously.
+Financial assets are derecognised (i.e., removed from the Group's consolidated statement of financial position) when:
+paid is recognised in profit or loss.
+Financial liabilities are derecognised when the obligation under the liability is discharged or cancelled or expires. When
+in the statement of profit or loss.
+Ordinary shares are classified as equity. Incremental external costs directly attributable to the issue of new shares or
+share options are recognised in equity as a deduction, net of tax from the proceeds.
+Interim dividends on ordinary shares are recognised as a liability and a reduction from equity, in the period in which
+Final dividends on ordinary shares are recognised as a liability and a reduction from equity, in the period in which they
+4.16 Treasury shares
+Where the Company purchases its shares, the consideration paid is deducted from shareholders' equity as treasury
+shares until they are cancelled. Where such shares are subsequently reissued or sold, any consideration received is
+included in shareholders' equity. These treasury shares represent the shares held by Trustee for the new MTN Nigeria
+4.17 Impairment of assets
+amount, an impairment loss is recognised in profit or loss. Impairment losses relating to goodwill cannot be reversed in
+4.17Impairment of assets(continued)
+Impairment of right-of-use assets
+The Company applies IAS 36 Impairment of assets to determine whether the right-of-use assets are impaired.
+settle the obligation using a pre-tax rate that reflects current market assessments of the time value of money and the
+Contingent assets and contingent liabilities are not recognised. Contingencies are disclosed in 56.
+4.19 Assets held for sale
+Assets are classified as held for sale and are stated at the lower of their carrying amount and fair value less cost to sell
+considered to be highly probable. These assets are recognised under non-current assets
+An operating segment is a component of the Group that engages in business activities from which it may earn revenues
+and incur expenses, including revenues and expenses that relate to transactions with any of the other components,
+property and equipment items, including retirement obligations for Right of Use assets, the possibility of goodwill
+impairment, and other long-lived asset impairments. The process also covers the recoverability of deferred tax assets
+assets, the possibility of impairment of goodwill and other long-lived assets,
+and the recoverability of deferred tax assets of the group. The assessment
+3 Deferred tax assets The recovery of deferred tax assets is dependent on forecasts of future
+profitability and the climate related risks identified by the group in the recovery
+of those assets. Based on management judgement, there is no material impact
+of climate related risks on deferred tax assets.
+of use assets land), retail stores, vehicles, and office equipment. Based on management
+obligations for Right of use assets.
+1. Classification of liabilities as current or non-current and non-current liabilities with covenants - Amendments to IAS 1
+requirements for classifying liabilities as current or non-current. The amendments clarify:
+d. That only if an embedded derivative in a convertible liability is itself an equity instrument would the terms of a
+The amendment does not prescribe specific measurement requirements for lease liabilities arising from a leaseback.
+users of financial statements in understanding the effects of supplier finance arrangements on an entity's liabilities,
+policy choice to derecognise financial liabilities settled using an electronic payment system before the settlement date.
+Other clarifications include the classification of financial assets with ESG linked features via additional guidance on the
+Additional disclosures are introduced for financial instruments with contingent features and equity instruments
+represents an entity's assets, liabilities, equity, income and expenses. Among other requirements, this new standard
+- income and expenses in the income statement to be classified into three new defined categories-operating, investing
+and financing-and two new subtotals-"Operating profit or loss" and "Profit or loss before financing and income tax".
+subtotals of income and expenses used in public communications to communicate management's view of the company's
+operating expenses by function in the income statement.
+- its debt or equity instruments are traded in a public market or it is in the process of issuing such instruments for
+- it holds assets in a fiduciary capacity for a broad group of outsiders as one of its primary businesses.
+5. Sale or Contribution of Assets between an Investor and its Associate or Joint Venture – Amendments to IFRS 10 and
+amendments that result from its research project on the equity method. Early application of the amendments is still
+or contribution of assets that does not constitute a business, however, is recognised only to the extent of unrelated
+Group plans to defer adoption until the IASB finalises its research project on the equity method.
+A key performance measure of the Group is gross margin. This is defined as revenue less direct costs. The table below
+presents revenue, direct costs and gross margin for the operating segments for the year ended 31 December 2024 and
+Segment revenue 2,620,468 631,329 106,661 3,358,458
+Gross margin 2,164,945 607,319 58,007 2,830,271
+Segment revenue 2,083,204 319,798 65,845 2,468,847
+Gross margin 1,727,089 301,948 34,242 2,063,279
+Reconciliation of reportable segment revenue and profit or loss
+Revenues
+There are no significant reconciling items between the reportable segment revenue and total revenue for the period. The
+revenue of the Company is generated majorly from one geographical location, Nigeria. None of the Company's
+customers account for 10% or more of the total revenue of the Company.
+Segment gross margin 2,830,271 2,063,279
+- Finance income 28,440 25,815
+Loss before taxation (550,325) (177,886)
+Segment assets and liabilities
+The Group has not provided information on reportable segment assets and liabilities as they are not part of the items
+material adjustment to the carrying amounts of assets and liabilities within the next financial year are discussed below.
+Group has not elected the practical expedient to account for non-lease components as a part of its lease liabilities and
+right-of-use assets. Therefore, non-lease components are accounted for as operating expenses and are recognised in
+profit or loss as they are incurred. The Group applies judgement in allocating the consideration in the contract to each
+8.2 Income taxes
+The Group exercises significant judgement in determining its provision for income taxes when dealing with calculations
+and transactions for which the ultimate tax position is uncertain during the ordinary course of business. The Group
+recognises tax liabilities for anticipated tax issues based on estimates of whether additional taxes will be payable.
+impact the current and deferred tax in the period in which such determination is made.
+assumptions and techniques for estimating ECL, default and credit impaired assets. See note 52.1.2.
+In revenue arrangements where more than one good or service is provided to the customer, customer consideration is
+The Group uses the output method to recognise revenue over a period of time. The output methods recognises revenue
+remaining goods or services promised under the contract. The bulk of MTN's revenue is from airtime that is used on
+When the Group sells goods or services as a principal, revenue is reported on a gross basis in revenue and the amount
+paid to the agent is recorded in operating costs. If the Group sells goods or services as an agent, revenue is on a net
+Group and its business partners; such judgements impact the amount of reported revenue. See note 9.
+amortised cost and at fair value through other comprehensive income. This area requires the use of inputs and
+recognised the expected breakage amount as revenue in proportion to the pattern of rights exercised by the customer.
+breakage rate with which to gradually release unexercised rights or recognise credit into revenue. See note 40.
+9. Revenue
+Revenue from contracts with customers
+Other revenues (e) 96,443 26,265 103,695 26,209
+Revenue other than from contracts with customers
+Rental Income (f) 115 307 1,460 580
+(a) Data revenue excludes roaming data, roaming data is reported under interconnect and roaming revenue stream.
+(b) SMS revenue excludes inbound roaming SMS. Inbound roaming SMS is reported under interconnect and roaming
+revenue stream.
+(c) Digital revenue includes bulk SMS and USSD services (see note 9.1).
+(e) Other revenue comprises revenue from cloud and infrastructure services, information and communication
+technology (ICT) revenue.
+(f) Rental income comprises of income from sites leased to other telecom operators and office space leased to MoMo
+9.1 USSD service revenue
+In 2020, all revenue earned from USSD transactions performed by bank customers and recognized in that year was
+Consequently, management decided to stop the recognition of revenue from these transactions, even though banks
+accounting for USSD service revenues from the accrual to the cash basis.
+IFRS 15, MTN has recognized the required payment amounts as revenue for the 2024 financial year, allowing
+management to revert to the accrual basis for recognizing USSD service revenue.
+10. Other income
+This income represents commission received from National Identity Management Commission (NIMC) with respect to
+maintenance) of the tower lease contracts are recognised as an expense in profit or loss as they are incurred.
+13. Impairment of financial assets
+Impairment of intangible assets 21 31 - 31 -
+Profit on disposal of property and equipment 14.1 (2,193) (752) (2,193) (752)
+(b) Professional fees includes fees paid to management consultants, tax advisory, business consultants etc.
+year. The prior year charge of N30.3 billion relates to the judgement issued by the Tax Appeal tribunal on 20 October
+14.1 Profit on disposal of property and equipment
+Profit on disposal 14 (2,193) (752) (2,193) (752)
+15. Finance income
+Interest income on bank deposits* 10,051 6,784 8,604 6,627
+Interest income on investments* 8,437 17,710 6,424 16,805
+Interest income - RITC uplift 25.2 3,618 - 3,618 -
+Interconnet interest income (a) 4,815 - 4,815 -
+Total finance income 28,440 25,815 24,998 24,753
+*Finance income calculated using effective interest rate method.
+Included as cash flows for finance income are:
+Interest income on bank deposits 11,802 6,784 10,037 6,627
+Interest income on investments 6,687 17,770 4,992 17,895
+Interconnect interest income 4,815 - 4,815 -
+Loss on FVTPL liabilities (a) 4,404 6,322 4,422 6,322
+The aggregate net foreign exchange gains/losses recognised on the profit or loss were:
+Net exchange loss on lease liabilities (446,954) (367,356) (446,954) (367,356)
+exchange risk arises from future commercial transactions and recognised assets and liabilities denominated in a
+18. Taxation
+Analysis of tax expense/(credits) for the year
+Company income tax 42 - 129,459 - 129,458
+Prior year tax under provision of company income tax 42 - 2,547 - 2,547
+Education tax 42 3,568 23,476 3,568 23,476
+Minimum tax 42 17,497 29 17,472 -
+Net current tax charge 21,065 155,511 21,040 155,481
+Deferred tax credit (180,576) (200,686) (180,576) (194,195)
+Prior year tax under provision of deferred tax (964) (1,018) (964) (1,018)
+Derecognition of prior year deferred tax credit* 10,585 5,328 - -
+Net deferred tax credit 43.3 (170,955) (196,376) (181,540) (195,213)
+Tax credit for the year (149,890) (40,865) (160,500) (39,732)
+* The derecognition of deferred tax assets from inception to date for MoMo PSB in 2024 and YDFS in 2023, in line with
+the provisions of IAS 12 (Income Taxes)
+Tax rate reconciliation
+The table below explains the differences between the expected tax expense on continuing operations, at the Nigerian
+statutory tax rate of 30% (2023: 30%) and the Company's total tax expense for each year.
+Loss before tax (550,325) (177,886) (520,976) (144,242)
+Taxation (149,890) (40,865) (160,500) (39,732)
+Actual tax rate 27.24 % 22.97 % 30.81 % 27.55 %
+Applicable tax rate 30.00 % 30.00 % 30.00 % 30.00 %
+Exempt income (a) 0.23 % 0.05 % 0.26 % 0.06 %
+Prior year tax over provision of company income tax (1.53)% (1.43)% - % (1.77)%
+Prior year tax under provision of deferred tax credit (b) 0.12 % 0.58 % 0.18 % 0.71 %
+Derecognition of prior year deferred tax credit (c) (1.92)% (3.00)% - % - %
+Education tax (d) 1.25 % (2.13)% 1.31 % (2.63)%
+Minimum tax (e) (1.03)% (0.02)% (1.08)% - %
+The tax charge and effective tax rate for the period has majorly been impacted by:
+(a) Exempt income represents income from FGN bonds not taxable.
+(b) The prior year under provision of deferred taxes arising from the filing of MTN and its subsidiaries tax returns for
+(c) The derecognition of deferred tax assets of MoMo and YDFS.
+(d) The charge of education tax which is computed at 3% of assessable profit for the period.
+(e) Minimum tax is which is computed at 0.5% of gross turnover. This is in line with the provisions of Section 33 of
+Company Income Tax Act (CITA) which imposes a minimum tax where a company has no taxable profits, or the tax
+payable is less than the minimum tax computed. In the current period, MTNN's taxable profit is lower than the minimum
+tax payable.
+Minimum tax relates to MTN Nigeria and Yello Digital Financial Services Limited. MoMo PSB is exempt as it is still within
+This represents costs incurred on assets still under construction as at the reporting date.
+Reclassification relates to assets moved from capital work in progress to other categories of property and equipment.
+assets.
+19.7 Assets pledged as security
+The Group has made a negative pledge over all existing and future assets to the lenders. The negative pledge signifies
+that the Group has agreed not to deplete its assets via sales, collateral and transfer to anyone except the group of
+As a result of the lease extension and renewals, additional lease liabilities and right-of-use (ROU) assets amounting to
+Total cash outflow for prepaid right-of-use assets in 2024 is N51.85 billion (2023: N34.50 billion).
+20.2 Lease liabilities
+The maturity analysis of lease liabilities is as follows:
+- within one year (included in current liabilities) 285,680 190,777 285,680 190,777
+Amounts included in non-current liabilities 1,997,744 813,634 1,997,744 813,634
+Total lease liabilities 2,283,424 1,004,411 2,283,424 1,004,411
+position under other non-current and current liabilities. Each lease payment is allocated between the principal amount
+unwinding of discount charged to profit or loss over the remaining balance of the obligation for each reporting period.
+Nigeria is potentially exposed that are not reflected in the measurement of lease liabilities.
+The following are the amounts recognised in profit or loss:
+Interest expense on lease liabilities 250,869 102,511 250,869 102,511
+Depreciation expense of right of use assets 184,723 118,296 184,723 118,296
+are classified as operating leases. Rental income arising is accounted for on a straight-line basis over the lease term
+and is included as revenue in the statement of profit or loss due to its operating nature.
+impacts. The underlying leased assets remain unaffected by guaranteed obligations.
+a further term. The Company is prohibited from selling or pledging leased assets as security. For base station land
+and properties, including office buildings, the Company must maintain the assets in good state and return them in
+escalation clauses. Payments excluded from the measurement of lease liabilities primarily consist of variable lease
+excluded from the initial measurement of the lease liability and asset. Right-of-use assets are classified consistently
+with property, and equipment (see Note 19). Except for short-term leases and leases of low-value assets, all leases
+are recognized in the separate and consolidated statement of financial position as right-of-use assets and lease
+liabilities.
+Variable lease payments not reflected in the measurement of lease liabilities.
+measurement of lease liabilities. Key variables driving these payments are mainly foreign exchange rate and CPI,
+21. Intangible assets
+21. Intangible assets(continued)
+21. Intangible assets(continued)
+The licences and software are not internally generated intangible assets and have a definite useful life.
+assets. During the year there was a reclassification of N78.64 billion (2023: N52.60 billion).
+For the purpose of cash flows, total cashflows for intangibles assets for Group was N87.30 billion (2023: N165.03
+21. Intangible assets(continued)
+the pre-tax cashflows, discounted at a rate of interest that reflects the inherent risks of the cash-generating unit to
+Revenue growth (3 years simple average) 29.2% 26.6%
+Opex % revenue 41.0% 49.8%
+Capex % revenue 12.4% 16.9%
+Revenue The budget is built adopting assumptions that align with the strategic
+Operating expenditure Budget adopts core costs required to support revenue generation plans,
+as a percentage of revenue based on the historical experience of management.
+Discount rate The discount rate used is the MTN Nigeria’s pre-tax Weighted Average Cost of
+21. Intangible assets(continued)
+terminal value. In calculating the terminal value, preceding year pre-tax cash flow was adjusted for changes in working
+revenue, operating expenditure (as seen below) considered possible by management.
+Revenue growth 5% 10,192,449 7,013,025
+21. Intangible assets(continued)
+21. Intangible assets(continued)
+undertakings held directly by the parent company do not differ from the proportion of ordinary shares held. All the
+investment in subsidiary in line with IAS 36 - impairment of assets.
+This acquisition has been recorded as an equity transaction, resulting in an adjustment of N12.97 billion to the Group's
+Less: NCI net assets acquired (3,574)
+for common control transactions. Under predecessor accounting, assets and liabilities are transferred at their carrying
+Statement of asset and liabilities absorption as at 31 January 2024
+Non-current assets
+Intangible assets - Spectrum licence (cost) 21 48,153
+Intangible assets - Spectrum licence (accumulated depreciation) 21 (43,278)
+Current assets
+Total assets 15,430
+Contract liabilities 40 61
+Current tax payable 42 31
+Deferred tax liability 43 1,068
+Net assets absorbed by MTN Nigeria 13,426
+Less net assets absorbed (13,426)
+the year, and all remaining assets and liabilities of Visafone have been transferred. The Group's financial statements
+included in discounts and commissions in profit or loss.
+24.1 Investments measured at fair value through other comprehensive income (FVOCI)
+Prepayment for road infrastructure tax credit 25.1 18,820 17,421 18,820 17,421
+25.1 Prepayment for road infrastructure tax credit
+Tax credit utilised to offset current tax payable 25.2 (17,579) - (17,579) -
+These tax credits are costs incurred towards the reconstruction of the Enugu-Onitsha expressway under the Road
+Infrastructure Development and Refurbishment Investment Tax Credit ("Road Tax Credit") Scheme. The Scheme is a
+of an eligible road as a tax credit against their future Companies Income Tax (CIT) liability, until full cost recovery is
+25.2 Road infrastructure tax credit applied to tax payable
+Tax credit utilised to offset current tax payable 25.1 17,579 - 17,579 -
+Interest income - RITC uplift 15 3,618 - 3,618 -
+Total road infrastructure tax credit 21,197 - 21,197 -
+Road investment tax credit utilised 42 (21,197) - (21,197) -
+Un-utilised road investment tax credit as at - - - -
+The interest income on the RITC is a compensation for the time value of money under the road infrastructure tax
+Gross handsets and accessories, and starter packs
+packs, handsets and accessories reported on the profit or loss statement.
+other operating expenses in the statement of profit or loss.
+with vendors and withholding tax receivables.
+Increase in loss allowance recognised in profit or loss 13 (6,839) (998) (6,839) (998)
+liquidated) of N378 million; dividends received on shares held in trust by Vetiva Trustee Ltd for the MTNN employee
+shares scheme implementation; N500.8 million (December 2023: N500.8 million) and garnishees against court
+31. Equity
+20,995,560,103 ordinary shares of N0.02 each 420 420 420 420
+Additional share issue (641,047,053 ordinary shares at - 13 - 13
+The additional new shares created by the scrip dividend scheme (see note 31.2) has been incorporated into the
+option to elect and receive new ordinary shares in the Company instead of receiving the dividend in cash. The scrip
+shares of N232.68 per share (N149,158,828,292). The Corporate Affairs Commission (CAC) authorised the increase of
+the Company share capital to accommodate the 641,047,053 scrip dividend shares. Those shares were subsequently
+The increase in shares also impacted the interim dividend paid in 2023, the additional dividend payment of N3.49 billion
+was on the additional 641 million shares issued (less withholding tax)
+4,500,000 ordinary shares of N 3,779.89 each 17,009 17,009 17,009 17,009
+138,960 ordinary shares at N 1,488.15 each 207 207 207 207
+641,047,053 ordinary shares of N232.66 each 149,146 149,146 149,146 149,146
+Fair valuation loss on financial assets classified as fair value through other comprehensive income is recognised on
+Federal Government treasury bills and bonds investments net of tax except for Federal Government bonds, which are
+exempted from company income tax.
+Deferred tax on FVOCI items 43.3 - 354 - - - 354
+Deferred tax on actuarial gains 43.3 - - 38 - - 38
+Deferred tax on FVOCI items 43.3 - 46 - - - 46
+Deferred tax on actuarial loss 43.3 - - 35 - - 35
+Deferred tax on FVOCI items 43.3 - 354 - - - 354
+Deferred tax on actuarial gains 43.3 - - 38 - - 38
+Deferred tax on FVOCI items 43.3 - 46 - - - 46
+Deferred tax on actuarial loss 43.3 - - 35 - - 35
+34. Treasury shares
+Treasury shares (4,869) (4,869) (4,869) (4,869)
+Treasury shares represent 28,809,789 ordinary shares of MTN Nigeria acquired and held in trust by Vetiva Trustee
+Loss per share is calculated using the weighted average number of ordinary shares in issue during the year and is
+based on the loss after tax attributable to ordinary shareholders of the parent. For the purpose of calculating loss per
+share, treasury shares are deducted from the weighted average number of ordinary shares outstanding at the end of
+Diluted loss per share is calculated by adjusting the weighted average number of ordinary shares outstanding to
+assume conversion of all dilutive potential ordinary shares and is based on the net loss attributable to ordinary
+shareholders, adjusted for the after-tax dilutive effect
+Loss attributable to equity holders (N 'million) (399,448) (133,841) (360,476) (104,510)
+Weighted average numbers of ordinary shares at end of 20,967 20,967 20,967 20,967
+Loss per share is calculated by dividing the loss after tax attributable to ordinary shareholders of the parent by the
+weighted average number of ordinary shares in issue during the period, excluding the average number of ordinary
+shares held as treasury shares (2024: 28,809,789; 2023: 28,809,789).
+Payable within one year (included in current liabilities)* 336,325 689,352 336,325 689,352
+Amounts included in non-current liabilities 636,590 487,817 636,590 487,817
+In securing the facilities, MTN Nigeria has made a negative pledge over all existing and future assets to the lenders. The
+negative pledge signifies that MTN Nigeria has agreed not to deplete its assets via sales, collateral and transfers to
+impact of the continued Naira weakness resulted in the carrying value of the Company’s liabilities exceeding its
+assets. Consequently, the Company secured a waiver from its majority lenders, temporarily suspend covenant
+under the supplier finance arrangements are classified as current liabilities.
+a. Liabilities that are part of the arrangement 90 days after invoice Not required
+liabilities under supplier finance arrangements.
+Non-current liabilities 43 46 43 46
+Current liabilities 25,171 28,216 21,754 27,187
+gross annual income plus pension contribution based on the overall performance of the Group, the teams, divisions and
+This relates to cases between MTN Nigeria and various bodies such as: Benue State Internal Revenue Services v MTNN,
+The Group is involved in various regulatory and tax matters. These matters may not necessarily be resolved in a manner
+38. Other non-current liabilities
+Other non-current liabilities 8,842 8,267 25 -
+Other non current liabilities relates to the non current portion of payables of MoMo PSB's intangibles asset.
+For cash flow purposes, movement in other non current liabilities is N684 million (December 2023: Nil).
+(d) Other non-financial payables include withholding, value added tax liabilities and the VAT assessment cost.
+40. Contract liabilities
+Reconciliation of contract liabilities
+Revenue recognised on delivery of goods/services:
+Module (SIM) cards. Contract liabilities are recognised as revenue when the subscribers use the airtime for network
+All gains and losses from changes in the fair value of derivatives are recognised immediately in the profit or loss
+statement as finance income or cost.
+contract is entered into and are subsequently remeasured at fair value. Derivatives are carried as financial assets when
+the net fair value is positive and as financial liabilities when the net fair value is negative, refer to note 51 fair value
+42. Current tax payable
+Provisions for the year - company income tax 18 - 129,459 - 129,458
+Minimum tax 18 17,497 29 17,472 -
+Provisions for the year - education tax 18 3,568 23,476 3,568 23,476
+Tax paid (126,620) (184,507) (126,620) (184,507)
+Road investment tax credit utilised 25.2 (21,197) - (21,197) -
+Withholding tax credit utilised (6,238) - (6,210) -
+MTN Nigeria participated in the Road Infrastructure Development and Refurbishment Investment Tax Credit (“RITC”)
+total of N21.2 billion was approved as tax credit by the Ministry of Finance in line with the provisions of the scheme.
+43. Deferred tax
+43.1 Deferred tax liability
+Deferred tax liabilities 43.3 - (1,149) - -
+43.2 Deferred tax asset
+Deferred tax assets 43.3 321,349 151,362 321,332 140,777
+Deferred tax asset recoverability
+Deferred tax assets are recognized for tax losses carried forward to the extent that there are sufficient projected future
+taxable profits on which the tax losses can be utilized. The Group deferred tax assets resulted from temporary
+The Group assess the availability of future taxable profit against which the deductible temporary difference or unused
+tax losses or credits can be recovered or utilized using 3 year projected taxable profit of the Group operation. Based on
+the utilization of the deferred tax assets within the relevant financial periods. Additionally, the new tariff increase (see
+43. Deferred tax(continued)
+43.3 Reconciliation of deferred tax asset/(liability)
+Group Net balance at Recognised in Recognised Others Net balance at Deferred Deferred tax
+1 January profit or loss in OCI 31 December tax assets liabilities
+Right of use assets 197,185 143,895 - - 341,080 341,080 -
+Right of use assets 72,690 124,495 - - 197,185 197,185 -
+Others relate to the deferred tax impact of the liquidation and absorption of Visafone.
+The deferred tax liability of N1.149 billion is from the assessable loss of Visafone.
+43. Deferred tax(continued)
+Reconciliation of deferred tax asset/(liability)
+Company Net balance at Recognised in Recognised Others Net balance at Deferred Deferred tax
+1 January profit or loss in OCI 31 December tax assets liabilities
+Right of use assets 72,690 124,494 - - 197,184 197,184 -
+Others relate to the deferred tax impact of the liquidation and absorption of Visafone.
+payment scheme. The share based payment liability relates to Locally Aligned Notional (LAN) Shares and Group Aligned
+ the issue of shares held in Trust by Vetiva Trustee for employees under Performance Share Plan (PSP) and
+Outstanding Number of GAN and LAN Notional Shares:
+Reconciliation of LAN outstanding notional shares
+determine the fair value of the Notional Share Scheme liabilities. The valuation was carried out by Alexander Forbes
+Shares:
+and LAN notional shares::
+Shares as a result of reasonable changes in key assumptions occurring at the end of the reporting period. The methods
+Return on equity 25%
+percentage of the shares granted as stated in the table above:
+Return on equity Defined as adjusted headline earnings per share/equity - 13 December 2021 grant:
+Details of the outstanding equity-settled performance share plan rights are as follows:
+The table below shows the option price gross and net of pre-vesting assumed forfeitures, as well as the option price as
+Grant date Performance Vesting date Gross option Gross option as Net option Net option price
+The tables below indicate the split of the total profit and loss charge of each grant as at the valuation date amongst the
+The total profit and loss charge for the cost of all share options issued to all employees for each financial period is
+Financial period Gross P & L charge New grants Forfeiture update Net expense
+The table below shows the option price (gross and net of assumed forfeitures), as well as the option price as a
+Grant date Vesting date share price Gross option Gross Option Net option Net option
+Grant date Vesting date share price Gross option Gross Option Net option Net option
+Non-current liabilities 9,440 8,429 9,440 8,429
+Current liabilities 1,638 1,274 1,638 1,274
+Retirement benefit cost recognised in the profit or loss for the year is N1.16 billion (2023: N3.06 billion); except for
+actuarial loss of N116 million (2023: N117 million) that is recognised in other comprehensive income.
+Long service award cost and actuarial loss recognised in the profit or loss for the year is N1.76 billion (2023: N1.35
+Deferred tax (35) (38) (35) (38)
+Recognised in Other Comprehensive Income (OCI) 81 79 81 79
+Tax expense (196) (55) (196) (55)
+Recognised in Profit or loss 456 130 456 130
+5 85% of 1-month's gross salary -
+10 85% of 2-month's gross salary A plaque
+15 2-month's gross salary A plaque
+20 2-month's gross salary A plaque, additional 5GB data per month
+25 2-month's gross salary A plaque, additional 5GB data per month and 3 extra leave
+30 2-month's gross salary A plaque, additional 5GB data per month and 5 extra leave
+35 2-month's gross salary A plaque, additional 5GB data per month and 10 extra leave
+Employees are entitled to 6 months gross salary with a plaque only on retirement at age 60. In addition, a retiring
+ Salaries and other short-term employee benefits: This includes the gross salary package and other
+ Share based payment: This is equity compensation benefits for executive directors and EXCOM members in
+Dividends paid (excluding withholding tax):
+Nigerian Economic Summit Group NESG is a non-profit, non-partisan private sector organisation that promotes and
+Loss before taxation (550,325) (177,886) (520,976) (144,242)
+Finance income 15 (28,440) (25,815) (24,998) (24,753)
+Depreciation of right of use assets 20.1 184,723 118,296 184,723 118,296
+Amortisation of intangible assets 21 90,684 79,033 89,231 72,289
+Profit on disposal of property, and 14 (2,193) (752) (2,193) (752)
+Impairment of intangible assets 14 31 - 31 -
+Increase in contract liabilities 14,476 9,935 14,797 9,935
+48. Changes in liabilities arising from financing activities
+Current lease liabilities 190,776 - (455,432) 446,954 135,293 (31,911) 285,680
+Non-current lease liabilities 813,630 - - - - 1,184,114 1,997,744
+Current lease liabilities 68,838 - (212,614) 367,356 - (32,803) 190,777
+Non-current lease liabilities 591,178 - - - - 222,456 813,634
+*The ‘Other’ column includes the effect of reclassification of non-current portion of interest-bearing loans and borrowings, including lease liabilities to current due to the
+passage of time, and the effect of accrued but not yet paid interest on interest-bearing loans and borrowings, including lease liabilities. The Group classifies interest paid as
+Assets
+Current assets
+Total assets 232,887 40 2 4 - 232,933
+Liabilities
+Current liabilities
+Lease liabilities 129,217 - - - - 129,217
+Non-current liabilities
+Lease liabilities 1,195,965 - - - - 1,195,965
+Total liabilities 2,131,609 78 1,615 196 8 2,133,506
+Assets
+Current assets
+Total assets 288,260 24 1 - - 288,285
+Liabilities
+Current liabilities
+Lease liabilities 153,798 - - - - 153,798
+Non-current liabilities
+Lease liabilities 549,808 - - - - 549,808
+Total liabilities 1,631,571 39 1,034 331 - 1,632,975
+Financial assets and financial liabilities are recognised on the Group's statement of financial position when the Group
+ Financial assets: amortised cost, fair value through OCI (FVOCI) and fair value through profit or loss (FVTPL);
+ Financial liabilities: amortised cost.
+(non-current and current), cash and deposit held for MoMo customers, other non-current liabilities, derivatives, lease
+liabilities, borrowings and trade and other payables.
+Categories of financial assets
+Categories of financial liabilities
+Lease liabilities 20 2,283,424 - - 2,283,424
+Other non-current liabilities 38 8,842 - - 8,842
+Lease liabilities 20 1,004,411 - - 1,004,411
+Other non-current liabilities 38 8,267 - - 8,267
+Lease liabilities 20 2,283,424 - - 2,283,424
+Other non-current liabilities 38 25 - - 25
+Lease liabilities 20 1,004,411 - - 1,004,411
+ Level 1: Quoted prices (unadjusted) in active markets for identical assets or liabilities (e.g. the price quoted on
+Assets
+Liabilities
+Assets
+Liabilities
+Assets
+Liabilities
+Assets
+Liabilities
+Financial asset at amortised cost and financial liabilities at amortised cost - The carrying value of current receivables
+and liabilities measured at amortised cost approximates their fair value. The fair values of the majority of the non-
+current liabilities measured at amortised cost are also not significantly different from their carrying values.
+The Company and the Group consider the carrying amounts of lease liabilities, loans, and other non-current borrowings
+maximum exposure to credit risk is represented by the carrying amount of the financial assets that are exposed to
+Group: ECL for gross trade receivables of N132.27 billion (2023: N73.61 billion) was N21.07 billion (2023: N14.65 billion)
+Company: ECL for gross trade receivables of N132.27 billion (2023: N73.34 billion) was N21.07 billion (2023: N14.23
+Gross carrying amount 100,936 8,803 9,971 19,134 132,265
+Gross carrying amount 45,786 4,941 7,759 15,123 73,609
+Gross carrying amount 100,936 8,803 9,971 19,134 132,265
+Gross carrying amount 45,786 4,941 7,488 15,123 73,338
+Current and other non-current investments are all liquid assets that consist of marketable securities. They are primarily
+Reconciliation of gross carrying amount and related Cash and cash Current Other non- Total ECL
+Remeasurement to profit or loss account - - (59) -
+The Group's approach to managing liquidity risk is to ensure that sufficient liquidity is available to meet its liabilities
+The following are the contractual maturities of financial liabilities:
+Other non-current liabilities 8,842 - - - 6,668 4,463 - 11,131
+Lease liabilities 2,283,424 120,521 39 400,996 525,883 1,557,725 1,338,267 3,943,431
+Other non-current liabilities 8,267 - - - 7,163 4,462 - 11,625
+Lease liabilities 1,004,411 71,873 122 206,675 262,882 755,703 247,100 1,544,355
+Lease liabilities 2,283,424 120,521 39 400,996 525,883 1,557,725 1,338,267 3,943,431
+Other non current liabilities 25 - - - 25 - - 25
+Lease liabilities 1,004,411 71,873 122 206,675 262,882 755,703 247,100 1,544,355
+income or the value of its holding of financial instruments. The objective of market risk management is to manage and
+because of changes in market interest rates. Financial assets and liabilities that are sensitive to interest rate risk are
+Financial assets
+Financial liabilities
+Other non-current liabilities - - 8,842 - - 8,267
+Financial assets
+Financial liabilities
+Other non current liabilities - - 25 - - -
+The Group has used a sensitivity analysis technique that measures the estimated change to profit or loss of an
+market interest rates affect the interest income or expense of floating rate financial instruments. Changes in market
+interest rates only affect profit or loss in relation to financial instruments with fixed interest rates if these financial
+A change in the above market interest rates at the reporting date would have increased/(decreased) profit before tax by
+Company Increase/(decrease) in profit before tax Increase/(decrease) in profit before tax
+change to the income statement of an instantaneous 5% strengthening or 20% weakening in the Nigerian Naira against
+the reporting date would have increased/(decreased) profit before tax by the amounts shown below. The analysis has
+Company Increase/(decrease) in profit before tax Increase/(decrease) in profit before tax
+decrease in profitan increase in profit decrease in profit in an increase in
+before tax before tax before tax profit before tax
+Equity approximates share capital and reserves attributable to the owners of the company. EBITDA is defined as
+earnings before interest, tax, depreciation, amortisation and goodwill impairment/losses. Gross debt relates to MTN
+Nigeria syndicated medium term loan, net debt is the gross debt less cash and cash equivalents and total funding is
+gross debt plus equity.
+Revenue 3,358,461 2,468,847 3,363,513 2,472,473
+Other income 2,369 - 2,369 -
+Gross debt 972,915 1,177,169 972,915 1,177,169
+Gross debt 972,915 1,177,169 972,915 1,177,169
+Equity (458,007) (45,404) (356,238) 34,779
+Gross debt :Total funding 189 % 104 % 158 % 97 %
+balances on the statement of profit or loss, statements of financial position and statement of cashflows. However,
+Statement of profit or loss
+assets
+Liabilities
+Non current liabilities
+liabilities
+Current liabilities
+tax credit cost
+negative shareholders' funds of N356.2 billion (31 December 2023: N34.8 billion positive) and its current liabilities
+exceeded current assets by N1.1 trillion, after excluding derivatives, contract liabilities and provisions (31 December
+In the same period, the company's revenue grew by 36.04% year on year, an increase of N891.04 billion and the
+operating profit of N809.36 billion.
+initiatives are geared towards accelerating revenue growth development, restoring profitability and rebuilding reserves
+ There is no significant deterioration in the value of assets used to generate cash flows, although there is a
+56. Contingent liabilities
+Contingent liabilities represent possible obligations that arise from past event whose existence will be confirmed only by
+The Group has N3.99 billion (2023: N0.99 billion) contingent liabilities arising from claims and litigations in the ordinary
+effecting transactions in the Company’s shares. The policy provides for periods for Dealing in Shares and other
+Company’s Shares as well as disclosure requirements when effecting such transactions.
+Revenue 3,358,461 2,468,847
+Finance income 28,440 25,815
+Other income 2,369 -
+Income tax 21,065 155,511
+Deferred tax (170,955) (196,376)
+Revenue 3,363,513 2,472,473
+Finance income 24,998 24,753
+Other income 2,369 -
+Income tax 21,040 155,481
+Deferred tax (181,540) (195,213)
+Assets and liabilities
+Intangible assets 408,783 447,599 335,599 245,558 111,080
+Other non-current assets 1,748,568 670,336 514,369 482,856 642,488
+Net current liabilities (1,196,982) (917,638) (483,649) (301,118) (221,094)
+Non-current liabilities (2,666,680) (1,336,252) (1,032,134) (999,418) (1,041,245)
+Net (liabilities)/assets (458,007) (40,844) 262,542 201,991 177,386
+Equity
+Treasury shares (4,869) (4,869) (4,869) - -
+Total equity (458,007) (40,844) 262,542 201,991 178,386
+Statement of profit or loss
+Revenue 3,358,461 2,468,847 2,012,272 1,654,299 1,346,390
+(Loss)/profit before taxation (550,325) (177,886) 518,823 436,687 298,874
+Taxation 149,890 40,865 (170,096) (138,033) (93,660)
+(Loss)/profit for the year (400,435) (137,021) 348,727 298,654 205,214
+Net (liabilities)/assets per share (N) (21.84) (1.95) 12.52 9.63 8.46
+Assets and liabilities
+Intangible assets 404,212 426,300 314,684 219,324 79,525
+Other non-current assets 1,849,008 760,129 577,679 537,380 692,816
+Net current liabilities (1,199,890) (919,925) (479,389) (301,732) (219,458)
+Non-current liabilities (2,657,863) (1,326,836) (1,029,389) (995,078) (1,036,808)
+Net (liabilities)/assets (356,229) 34,779 311,942 234,007 202,232
+Equity
+Treasury shares (4,869) (4,869) (4,869) - -
+Total equity (356,229) 34,779 311,942 234,007 202,232
+Statement of profit or loss
+Revenue 3,363,513 2,472,473 2,011,935 1,652,925 1,346,288
+(Loss)/profit before taxation (520,976) (144,242) 549,516 448,358 309,245
+Tax credit/(expense) 160,500 39,732 (179,305) (141,534) (96,763)
+(Loss)/profit for the year (360,476) (104,510) 370,211 306,824 212,482
+Net (liabilities)/assets per share (N) (16.99) 1.66 14.88 11.16 9.65

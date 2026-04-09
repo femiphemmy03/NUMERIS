@@ -1,0 +1,427 @@
+Africa’s Global Bank Tax Identification Number : 01126011-0001
+Condensed Consolidated Statements of Comprehensive Income
+Gross earnings 2 ,468,905 2 ,398,002
+Interest income 5 1 ,980,277 1,798,894
+Interest income on amortised cost and FVOCI securities 1,927,328 1,759,567
+Interest income on FVTPL securities 52,949 39,327
+Net interest income 1 ,171,561 1 ,103,323
+Fees and commission income 7 4 07,955 392,839
+Net fee and commission income 2 34,842 2 33,853
+Net trading and foreign exchange income 9 4 1,357 182,484
+Other operating income 10 3 9,316 23,785
+Total non-interest income 3 10,075 4 35,840
+Operating income 1 ,481,636 1 ,539,163
+Net operating income after impairment loss on loans and receivables 1 ,424,746 1 ,415,685
+Profit before income tax 5 78,597 6 03,483
+Income tax expense 16 (41,070) ( 78,170)
+Profit for the period 5 37,527 5 25,313
+Other comprehensive income
+Items that will be reclassified to income statement:
+income(FVOCI):
+Net amount transferred to the income
+Tax relating to net change in fair value for the period 974 5,359
+Items that will not be reclassified to the income statement:
+Fair value changes on equity investments at
+Tax relating to net change in fair value on
+equity investments designated at FVOCI 1,002 ( 31,578)
+Other comprehensive income, net of tax 2 13,300 1 ,108,599
+Total comprehensive income for the period 7 50,827 1 ,633,912
+Profit attributable to:
+Profit for the period 5 37,527 5 25,313
+Total comprehensive income attributable to:
+Total comprehensive income for the period 7 50,827 1 ,633,912
+ASSETS
+Financial assets at fair value through profit or loss 19 220,164 100,687
+Assets under management 20 6,840 15,175
+Derivative assets 25 491 188,583
+- At fair value through other comprehensive income 23 6,280,281 4,942,106
+Other assets 24 1,476,445 1,186,262
+Intangible assets 73,269 66,864
+Deferred tax assets 142,795 140,371
+TOTAL ASSETS 32,491,560 30,323,355
+LIABILITIES
+Derivative liabilities 25 9,760 33,849
+Other liabilities 28 925,996 680,313
+Current income tax liabilities 16 16,365 138,983
+Deferred tax liabilities 4,590 5,614
+TOTAL LIABILITIES 28,190,423 26,904,716
+EQUITY
+EQUITY ATTRIBUTABLE TO OWNERS OF THE PARENT 4,176,658 3,316,565
+TOTAL EQUITY 4,301,137 3,418,639
+TOTAL LIABILITIES AND EQUITY 32,491,560 30,323,355
+Condensed Consolidated Statements of Changes in Equity
+Attributable to equity holders of the parent
+Capital premium reserve reserve reserve reserve reserve earnings Total interest equity
+Profit for the period - - - - - - - 513,416 513,416 24,111 5 37,527
+Fair value change in financial assets classified as FVOCI - - - - (8,763) - - - (8,763) - ( 8,763)
+Fair value change in equity instruments classified as FVOCI - - - - (2,338) - - - (2,338) ( 2,338)
+Net amount transferred to income statement - - - - (616) - - ( 148) (764) - ( 764)
+Total comprehensive income for the period - - 8 2,879 - (11,357) 1 43,633 - 5 13,268 728,422 2 2,405 750,827
+Profit for the period - - - - 743,121 743,121 23,447 7 66,568
+Fair value change in equity instruments classified as FVOCI - - - - 2 17,636 - - 217,636 - 217,636
+Net amount transferred to profit or loss (2,033) (2,033) ( 2,033)
+Total comprehensive income for the period - - 5 79,456 - 52,905 1 25,981 7 43,121 1,501,462 3 4,041 1,535,504
+Profit for the period - - - - - - - 743,121 743,121 23,447 766,568
+Fair value change in debt instruments classified as FVOCI net of tax - - - - (145,635) - - - (145,635) - (145,635)
+ECL on debt instruments classified as FVOCI net of tax (17,064) (17,064) (17,063)
+Fair value change in equity instruments classified as FVOCI 217,636 - 217,636 217,636
+Net amount transferred to profit or loss - - - - (2,033) - - - (2,033) - (2,033)
+Total comprehensive income for the period - - 579,456 - 52,903 125,981 - 743,121 1,501,461 34,041 1,535,503
+Profit before income tax 5 78,597 6 03,483
+Right of use of assets depreciation 14 4 ,973 4,183
+Amortisation of intangible assets 14 8 ,791 5,686
+Impairment charge on contingent liabilities 12 3 ,945 ( 1,129)
+Impairment reversal on other assets 12 3 ,216 ( 3,583)
+Dividend income 10 ( 9,203) ( 10,509)
+Net interest income ( 1,171,561) ( 1,103,323)
+Net amount transferred to the profit or loss ( 764) ( 2,033)
+Change in financial assets measure at FVTPL (119,512) ( 50,648)
+Change in other assets (352,272) ( 847,727)
+Change in other liabilities and provisions 248,371 198,876
+Income tax paid (167,135) ( 102,288)
+Purchase of intangible assets (13,309) ( 19,872)
+Proceed from sale intangible assets 2,465 1,682
+FrenchBankLimited(BFB).UBAlisteditssharesontheNigerianStockExchange(NSE)in1970andbecamethefirstNigerianbanktosubsequently
+- Financial assets measured at fair value through profit or loss.
+- Financial instruments measured at fair value through other comprehensive income.
+andreportedamountsofassetsandliabilities,incomesandexpenses.Theestimatesandassociatedassumptionsarebasedonhistoricalexperience
+about carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates.
+· theamountofanynon-controllinginterestintheacquiree;plusifthebusinesscombinationisachievedinstages,thefairvalueoftheexistingequity
+· less the net amount (generally fair value) of the identifiable assets acquired and liabilities assumed.
+When this total is negative, a bargain purchase gain is recognised in profit or loss.
+Non-controllinginterestsaremeasuredattheirproportionateshareoftheacquiree'sidentifiablenetassetsattheacquisitiondate.Changesinthe
+Group's interest in a subsidiary that do not result in a loss of control are accounted for as equity transactions.
+Costsrelatedtotheacquisition,otherthanthoseassociatedwiththeissueofdebtorequitysecuritiesthattheGroupincursinconnectionwitha
+If thebusiness combinationis achievedinstages, theacquisition datecarrying valueof anypreviously heldequity interestin theacquiree is re-
+measured to fair value at the acquisition date and any gains or losses arising from such re-measurement are recognised in profit or loss.
+Anycontingentconsiderationpayableisrecognisedatfairvalueattheacquisitiondate.Ifthecontingentconsiderationisclassifiedasequity,itisnot
+remeasuredand settlementis accountedfor withinequity. Otherwise,subsequent changes to thefair valueof thecontingentconsiderationare
+recognised in profit or loss.
+changeincarryingamountrecognisedinprofitorloss.Thefairvalueistheinitialcarryingamountforthepurposesofsubsequentlyaccountingforthe
+retainedinterestasanassociate,jointventureorfinancialasset.Inaddition,anyamountspreviouslyrecognisedinothercomprehensiveincomein
+respectofthatentityareaccountedforasifthegrouphaddirectlydisposedoftherelatedassetsorliabilities.Thismaymeanthatamountspreviously
+recognised in other comprehensive income are reclassified to profit or loss.
+Intra-groupbalancesandanyunrealisedgainsorlossesorincomesandexpensesarisingfromintra-grouptransactions,areeliminatedinpreparing
+Transactionswithnon-controllingintereststhatdonotresultinlossofcontrolareaccountedforasequitytransactions.Thedifferencebetweenfair
+valueofanyconsiderationpaidandtherelevantshareacquiredofthecarryingvalueofnetassetsofthesubsidiaryisrecordedinequity.Gainsor
+losses on disposals of non-controlling interests are also recorded in equity.
+and50%of thevoting rights.Investments inassociates areaccountedforusing theequitymethodof accounting.Under theequitymethod,the
+investmentisinitiallyrecognisedatcost,andthecarryingamountisincreasedordecreasedtorecognisetheinvestor’sshareoftheprofitorlossofthe
+recognised in other comprehensive income is reclassified to profit or loss where appropriate.
+TheGroup’sshareofpost-acquisitionprofitorlossisrecognisedinprofitorlossanditsshareofpost-acquisitionmovementsinothercomprehensive
+incomeisrecognisedinothercomprehensiveincomewithacorrespondingadjustmenttothecarryingamountoftheinvestment.Whenthegroup’s
+recognises the amount adjacent to ‘share of profit/(loss)' of associates in profit or loss.
+ProfitsandlossesresultingfromtransactionsbetweentheGroupanditsassociatearerecognisedintheGroup’sfinancialstatementsonlytotheextent
+Dilution gains and losses arising on investments in associates are recognised in the profit or loss.
+Foreigncurrency transactions arerecordedattherateof exchangeonthedateof thetransaction.Atthereporting date,monetary assets and
+liabilities denominated in foreign currencies are reported using the closing exchange rate. Exchange differences arising on the settlement of
+currency monetary assets and liabilities, are recognized in profit or loss.
+Unrealized exchange differences on non-monetary financial assets are a component of the change in their entire fair value. For non-monetary
+financial assets measured at fair value through profit or loss, unrealized exchange differences are recognized in profit or loss. For non-monetary
+financialassetsmeasuredatfairvaluethroughothercomprehensiveincome,unrealizedexchangedifferencesarerecordedinothercomprehensive
+income until the asset is sold or becomes impaired.
+Theassetsandliabilitiesofforeignoperations,includinggoodwillandfairvalueadjustmentsarisingonacquisition,aretranslatedtoNigerianNairaat
+exchange rates at each reporting date. The income and expenses of foreign operations are translated to Nigerian Naira at average rates.
+Foreigncurrency differences arerecognisedinother comprehensiveincome,andpresentedintheforeign currency translationreserveinequity.
+translation reserve related to that foreign operation is re-classified to profit or loss as part of the gain or loss on disposal.
+3.6 Interest income and interest expense
+Interestincomeandexpenseforallinterestbearingfinancialinstrumentsarecalculatedbyapplyingtheeffectiveinterestratetothegrosscarrying
+amountfornon-creditimpairedfinancialassetsandarerecognisedwithin‘interestincome’and‘interestexpense’intheprofitorloss.Theeffective
+Forcredit-impairedfinancialassetssubsequenttoinitialrecognition,interestincomeiscalculatedbyapplyingthecredit-adjustedeffectiveinterest
+Forpurchasedororiginatedcredit-impaired(POCI)financialassets,theGroupcalculatesinterestincomebycalculatingthecredit-adjustedEIRand
+3.7 Fees and commissions income and expenses
+Fees and commission income and expenses that are integral to the effective interest rate on a financial asset or liability are included in the
+measurementoftheeffectiveinterestrate.Otherfeesandcommissionincome,includingaccountservicingfees,investmentmanagementandother
+3.8 Net trading and foreign exchange income
+Nettradingandforeignexchangeincomecomprisesgainslesslossesrelatedtotradingassetsandliabilities,andincludesallrealisedandunrealised
+fairvaluechangesandforeignexchangedifferences.Netgainsorlossesonderivativefinancialinstrumentsmeasuredatfairvaluethroughprofitor
+loss are also included in net trading income.
+3.9 Dividend income
+Dividendincomeisrecognisedwhentherighttoreceiveincomeisestablished.Dividendsarereflectedasacomponentofotheroperatingincome
+andrecognisedgrossoftheassociatedwithholdingtax.Thewithholdingtaxexpenseisincludedasacomponentoftaxationchargefortherelevant
+3.10 Income tax
+Incometaxexpensecomprisescurrentanddeferredtax.Incometaxexpenseisrecognisedintheprofitorlossexcepttotheextentthatitrelatesto
+items recognised directly in equity, in which case it is recognised in equity.
+Currentincometaxliabilityistheexpectedtaxpayableontaxableincomefortheyear,usingtaxratesenactedorsubstantivelyenactedatthe
+reporting date, and any adjustment to tax payable in respect of previous years.
+Deferredtaxisrecognisedinrespectoftemporarydifferencesbetweenthecarryingamountsofassetsandliabilitiesforfinancialreportingpurposes
+andtheamountsusedfortaxationpurposes.Deferredtaxisnotrecognisedforthefollowingtemporarydifferences:theinitialrecognitionofgoodwill,
+theinitialrecognitionofassetsorliabilitiesinatransactionthatisnotabusinesscombinationandthataffectsneitheraccountingnortaxableprofit,
+and differences relating to investments in subsidiaries to the extent that they probably will not reverse in the foreseeable future. Deferred tax is
+measuredatthetaxratesthatareexpectedtobeappliedtothetemporarydifferenceswhentheyreverse,basedonlawsthathavebeenenacted
+Deferred income tax liabilities are provided on taxable temporary differences arising from investments in subsidiaries, associates and joint
+arrangements,exceptfordeferredincometaxliabilitywherethetimingofthereversalofthetemporarydifferenceiscontrolledbytheGroupanditis
+Deferred income tax assets are recognised on deductible temporary differences arising from investments in subsidiaries, associates and joint
+arrangementsonlytotheextentthatitisprobablethetemporarydifferencewillreverseinthefutureandthereissufficienttaxableprofitavailable
+Adeferredtaxassetisrecognisedonlytotheextentthatitisprobablethatfuturetaxableprofitswillbeavailableagainstwhichtheassetcanbe
+utilised.Deferredtaxassetsarereviewedateachreportingdateandarereducedtotheextentthatitisnolongerprobablethattherelatedtax
+Deferredtaxassetsandliabilitiesareoffsetifthereisalegallyenforceablerighttooffsetcurrenttaxliabilitiesagainstcurrenttaxassets,andtheyrelate
+totaxesleviedbythesametaxauthorityonthesametaxableentity,orondifferenttaxentities,buttheyintendtosettlecurrenttaxliabilitiesand
+assets on a net basis or their tax assets and liabilities will be realised simultaneously.
+3.12 Financial assets at fair value through profit or loss
+ThesearetheassetstheGroupacquiresprincipallyforthepurposeofsellinginthenearterm,orholdsaspartofaportfoliothatismanagedtogether
+for short-termprofitor position taking. Theyaremeasuredatfair valuewith changes infair valuerecognisedas partof nettrading andforeign
+exchange income in profit or loss.
+Derivativesarecarriedasassetswhentheirfairvaluearepositiveandasliabilitieswhentheirfairvaluearenegative.Allchangesinfairvalueare
+recognized as part of net trading and foreign exchange income in profit or loss.
+property and equipment are recognised in profit or loss as incurred.
+Depreciationisrecognisedinprofitorlossonastraight-linebasisovertheestimatedusefullivesofeachpartofanitemofpropertyandequipment
+since this most closely reflects the expected pattern of consumption of the future economic benefits embodied in the asset. Leased assets are
+ofthedatethattheassetisderecognisedorclassifiedasheldforsaleinaccordancewithIFRS5Non-currentAssetsHeldforSaleandDiscontinued
+Workinprogressrepresentscostsincurredonassetsthatarenotavailableforuse.Onbecomingavailableforuse,therelatedamountsaretransferred
+included in profit or loss in the year the asset is derecognised.
+3.15 Intangible assets
+GoodwillrepresentstheexcessofconsiderationovertheGroup'sinterestinnetfairvalueofnetidentifiableassets,liabilitiesandcontingentliabilitiesof
+theacquiredsubsidiariesatthedateofacquisition.Whentheexcessisnegative,itisrecognisedimmediatelyinprofitorloss.Goodwillismeasuredat
+expectedfuturecashflowsfromacashgeneratingunitwiththecarryingvalueofitsnetassets,includingattributablegoodwill.Impairmentlosseson
+Subsequentexpenditureonsoftwareassetsiscapitalisedonlywhenitincreasesthefutureeconomicbenefitsembodiedinthespecificassettowhich
+Amortisation is recognised in profit or loss on a straight-line basis over the estimated useful life not exceeding five years, from the date that it is
+3.16 Impairment of non-financial assets
+Inassessingvalueinuse,theestimatedfuturecashflowsarediscountedtotheirpresentvalueusingapre–taxdiscountratethatreflectscurrent
+For assets excluding goodwill, an assessment is made at each reporting date as to whether there is any indication that previously recognised
+asset in prior years. Such reversal is recognised in profit or loss. Impairment losses relating to goodwill are not reversed in future periods.
+3.17 Non-Current Assets Held for Sale
+Non-currentassetsclassifiedasheldforsalearemeasuredatthelowerofcarryingamountandfairvaluelesscoststosell.Non-currentassetsare
+usual and customary for sales of such assets.
+Immediatelybeforeclassificationasheldforsaleor distribution,theassetsarere-measuredinaccordancewith theGroup’s accountingpolicies.
+Thereafter generally the assets are measured at the lower of their carrying amount and fair value less costs to sell.
+Repossessedcollateralrepresentsfinancial andnon-financialassetsacquiredbytheGroupinsettlementofoverdueloans.Theassets areinitially
+recognisedatfairvaluewhenacquiredandincludedintherelevantassetsdependingonthenatureandtheGroup'sintentioninrespectofrecovery
+oftheseassets;andaresubsequentlyremeasuredandaccountedforinaccordancewiththeaccountingpoliciesforthesecategoriesofassets.In
+amount and fair value less costs to sell and reported as assets held for sale.
+TheGroupclassifies non-currentassets anddisposal groups as heldfor saleif theircarrying amountswill berecovered principallythroughasale
+transactionratherthanthroughcontinuinguse.Non-currentassetsanddisposalgroupsclassifiedasheldforsalearemeasuredattheloweroftheir
+forassociatesisappliedtorepossessedshareswheretheGroupobtainssignificantinfluence,butnotcontrol.Thecostoftheassociateisthefairvalue
+of the loan settled by repossessing the pledged shares.
+TheGroupclassifiesdebtandequityasfinancialliabilitiesorequityinstrumentsinaccordancewiththesubstanceofthecontractualtermsofthe
+interest method, except where the Group chooses to carry the liabilities at fair value through profit or loss.
+cashflowsatapre-taxratethatreflectscurrentmarketassessmentsofthetimevalueofmoneyand,whereappropriate,therisksspecifictothe
+impairment loss on the assets associated with that contract.
+Financialguaranteeliabilitiesareinitiallyrecognisedattheirfairvalue,whichisthepremiumreceived,andthenamortisedoverthelifeofthefinancial
+unamortised premium. Financial guarantees are included within other liabilities.
+assets to pay all employees the benefits relating to employee service in the current and prior periods.
+Obligations for contributions to defined contribution plans are recognised as an expense in profit or loss when they are due.
+Incremental costs directly attributable to the issue of an equity instrument are deducted from the initial measurement of the equity instruments.
+(b) Dividend on ordinary shares
+Dividends on the Group’s ordinary shares are recognised in equity in the period in which they are paid or, if earlier, approved by the Group’s
+(c) Treasury shares
+WheretheGrouporanymemberoftheGrouppurchasestheGroup’sshares,theconsiderationpaidisdeductedfromtheshareholders’equityas
+treasurysharesuntiltheyarecancelled.Wheresuchsharesaresubsequentlysoldorreissued,anyconsiderationreceivedisincludedinshareholders’
+equity.
+TheGrouppresentsbasicearningspershare(EPS)foritsordinaryshares.BasicEPSiscalculatedbydividingtheprofitorlossattributabletoordinary
+shareholders of the Group by the weighted average number of ordinary shares outstanding during the period.
+DilutedEPSisdeterminedbyadjustingtheprofitorlossattributabletoordinaryshareholdersandtheweightedaveragenumberofordinaryshares
+outstanding for the effects of all dilutive potential ordinary shares.
+The Group commonly acts as trustees in other fiduciary capacities that result in the holding or placing of assets on behalf of individuals, trusts,
+retirementbenefitplansandotherinstitutions.Theseassetsandincomesarisingthereonareexcludedfromthesefinancialstatements,astheyarenot
+assets of the Group.
+to customers, their carrying amount is recognised as an expense in the period in which the related revenue is recognised.
+An operating segment is a component of the Group that engages in business activities from which it may earn revenues and incur expenses, including
+revenuesandexpensesthatrelatetotransactionswithanyoftheGroup'sothercomponents,whoseoperatingresultsarereviewedregularlybythe
+3.28 IFRS 15: Revenue from contracts with customers
+IFRS 15 - Revenue from Contracts with Customers defines principles for recognising revenue and is applicable to all contracts with customers.
+However,interestandfeeincomeintegraltofinancialinstrumentsandleaseswillcontinuetofalloutsidethescopeofIFRS15andwillbeaccounted
+RevenueunderIFRS15isrecognisedasgoodsandservicesaretransferred,totheextentthatthetransferoranticipatesentitlementtogoodsand
+uncertainty of revenue and the corresponding cash flows with customers.
+a. Initial recognition, classification and measurement of financial assets
+Regular-waypurchasesandsalesoffinancialassetsarerecognizedonthesettlementdate.Financialassets,whichincludebothdebtandequity
+securitiesaremeasuredatinitialrecognitionatfairvalue,andareclassifiedandsubsequentlymeasuredatfairvaluethroughprofitorloss(FVTPL),fair
+valuethroughothercomprehensiveincome(FVOCI)oramortisedcost.Subsequentclassificationandmeasurementfordebtsecuritiesisbasedonthe
+The Group has irrevocably elected to measure equity instruments at FVOCI as no equity instrument is held for trading purposes.
+TheGroupdetermines thebusiness modelsatthelevel thatbestreflectshow portfoliosof financialassets aremanaged toachievetheGroup's
+•Howtheeconomicactivitiesofourbusinessesgeneratebenefits,forexamplethroughtradingrevenue,enhancingyieldsorothercostsandhow
+•Hold-to-Collect(HTC):Theobjectiveofthisbusinessmodelistoholdfinancialassetstocollectcontractualprincipalandinterestcashflows.Sales
+•Otherfairvaluebusinessmodels:ThesebusinessmodelsareneitherHTCnorHTC&S,andprimarilyrepresentbusinessmodelswhereassetsareheld-
+risksandcosts(forexample,liquidityrisk,servicingoradministrativecosts)associatedwithholdingthefinancialassetforaperiodoftime,andaprofit
+losses, calculated in accordance with the Group's policy for allowance for credit losses, as described below. Interest income, including the
+amortization of premiums and discounts on securities measured at amortised cost are recorded in interest income. Impairment gains or losses
+differencebetweenthesaleproceedsandtheamortisedcostofthesecurityatthetimeofthesaleisrecordedasafixedincomesecuritiesincomein
+Net trading and foreign exchange income.
+reserveinequity.Impairmentgainsandlossesareincludedinallowanceforcreditlossesandcorrespondinglyreducetheaccumulatedchangesin
+reserve to net trading and foreign exchange income.
+EquitysecuritiescarriedatFVOCIaremeasuredatfairvalue.Unrealizedgainsandlossesarisingfromchangesinfairvaluearerecordedinfairvalue
+reserveandnotsubsequentlyreclassifiedtoprofitorlosswhenrealized.DividendsfromFVOCIequitysecuritiesarerecognizedinotheroperating
+income.
+reflected in income for securities measured at FVTPL, and changes in the fair value of securities measured at FVOCI between the trade and settlement
+income.
+assetsifiteliminatesorsignificantlyreducesameasurementorrecognitioninconsistencythatwouldotherwisearisefrommeasuringassetsorliabilities,
+Thefairvalueoptioncanbeelectedforfinancialliabilitiesif:(i)theelectioneliminatesanaccountingmismatch;(ii)thefinancialliabilityispartofa
+Financialassetsarereclassifiedwhenandonlywhenthebusinessmodelformanagingthoseassetschanges.Thereclassificationtakesplacefromthe
+Loansaredebtinstrumentsrecognizedinitiallyatfairvalueandaresubsequentlymeasuredinaccordancewiththeclassificationoffinancialassets
+policy providedabove.Loans arecarriedatamortisedcostusing theeffective interestmethod,whichrepresents thegross carrying amountless
+Interestonloansisrecognizedininterestincomeusingtheeffectiveinterestmethod.Theestimatedfuturecashflowsusedinthiscalculationinclude
+• Loans granted (below market rate): The difference is recognized immediately in profit or loss as an expense (e.g., employee benefit expense)
+• Loans received (below market rate): The difference is recognized as income, which may be presented in accordance with IAS 20 if the loan
+represents a government grant, or as other income if received from other parties
+Fees that relate to activities such as originating, restructuring or renegotiating loans are deferred and recognized as Interest income over the
+andstandbyfeesarealsorecognizedasinterestincomeovertheexpectedtermoftheresultingloansusingtheeffectiveinterestmethod.Otherwise,
+such fees are recorded as other liabilities and amortised into Other operating income over the commitment or standby period.
+Anallowancefor creditlosses (ACL)is establishedfor all financial assets,exceptfor financial assets classifiedor designatedas FVTPL andequity
+securities,whicharenotsubjecttoimpairmentassessment.Assetssubjecttoimpairmentassessmentincludeloans,overdrafts,debtsecurities,interest
+receivableandotherfinancialassets.ThesearecarriedatamortisedcostandpresentednetofACLontheConsolidatedStatementofFinancial
+profitorlosswiththecorrespondingentrytoothercomprehensiveincome.ACLonotherfinancialassetsiscalculatedusingthe'generalapproach'
+sheet products subject to impairment assessment, ACL is separately calculated and included in Other Liabilities – Provisions.
+risk of financial assets since initial recognition:
+1) Performing financial assets:
+following the reporting date. Interest income is calculated on the gross carrying amount of these financial assets.
+2) Underperforming financial assets:
+the credit losses expected over the remaining lifetime of the asset. Interest income is calculated on the gross carrying amount of these financial assets.
+3) Impaired financial assets
+Interest revenue is calculated based on the carrying amount of the asset, net of the loss allowance, rather than on its gross carrying amount.
+4) Purchased or originated credit impaired (POCI) financial assets
+•POCI-Thesearefinancialassetsthatarecreditimpairedoninitialrecognition.POCIassetsarerecordedatfairvalueatoriginalrecognitionand
+interestincomeissubsequentlyrecognisedbasedonacredit-adjustedEIR.TheECLallowanceisonlyrecognisedorreleasedtotheextentthatthereis
+TheACLrepresentsanunbiasedestimateofexpectedcreditlossesonourfinancialassetsasatthebalancesheetdate.Judgmentisrequiredin
+sinceinitialrecognitionandcredit-impairmentareperformedindependentlyateachreportingperiod.Assetscanmoveinbothdirectionsthroughthe
+category of loans. The specialized loans to which this is applicable are Project Financing, Object Financing, Income Producing Real Estate,
+m. Credit-impaired financial assets (Stage 3)
+Financialassetsareassessedforcredit-impairmentateachbalancesheetdateandmorefrequentlywhencircumstanceswarrantfurtherassessment.
+When afinancial assethas beenidentified as credit-impaired, expectedcredit losses are measuredas thedifference betweenthe asset’s gross
+financial assets with drawn and undrawn components, expected credit losses also reflect any credit losses related to the portion of the loan
+Whenafinancialassetiscredit-impaired,interestceasestoberecognisedontheregularaccrualbasis,whichaccruesincomebasedonthegross
+carryingamountoftheasset.Rather,interestincomeiscalculatedbyapplyingtheoriginaleffectiveinterestratetotheamortisedcostoftheasset,
+which is the gross carrying amount less the related ACL.
+Following impairment, interest income is recognized on the unwinding of the discount from the initial recognition of impairment.
+The following will be applicable to modified financial assets:
+• The general impairment model does not apply to purchased or originated credit-impaired assets.
+p. Classification and measurement of financial liabilities
+The Group recognizes financial liabilities when it first becomes a party to the contractual rights and obligations in the relevant contracts.
+Under IFRS 9, financial liabilities are either classified as financial liabilities at amortised cost or financial liabilities at FVTPL.
+The Group classifies its financial liabilities as measured at amortised cost, except for:
+i.FinancialliabilitiesatFVTPL:thisclassificationisappliedtoderivatives,financialliabilitiesheldfortrading(e.g.shortpositionsinthetradingbooking)
+andotherfinancialliabilitiesdesignatedassuchatinitialrecognition.Afinancialliabilityisclassifiedasheldfortradingifitisapartofaportfolioof
+specific financial instruments that are managed together and for which there is evidence of a recent actual pattern of short-term profit-taking.
+Gains or losses fromfinancial liabilities designatedatfair valuethroughprofit or loss arepresented partially in other comprehensive income(the
+amountthatis notattributableto changes inmarketconditionsthatgiverisetomarketrisk)andpartiallyprofitorloss (theremaining amountof
+and losses attributable to changes in the Group’s credit risk are also presented in profit or loss;
+Financialliabilitiesthatarenotclassifiedatfairvaluethroughprofitorlossaremeasuredatamortisedcostusingtheeffectiveinterestratemethod.
+Financial liabilities measured at amortised cost are deposits from banks or customers, borrowings, and subordinated liabilities.
+financial assets are transferred, or has assumed an obligation to pay those cash flows to one or more recipients, subject to certain criteria.
+Any interest in transferred financial assets that is created or retained by the Group is recognised as a separate asset or liability.
+TheGroupmayenterintotransactionswherebyittransfersassets,butretainseitherallrisksandrewardsofthetransferredassetsoraportionofthem.
+If all or substantially all risks andrewards areretained,thenthetransferred assetsarenotderecognised.Intransactions wheretheGroupneither
+Therightsandobligationsretainedinthetransferarerecognisedseparatelyasassetsandliabilitiesasappropriate.Intransferswherecontroloverthe
+TheGroupadopts asinglemeasurementapproachand recognizes rightto useof assets andleaseliability atcommencement dateof alease
+Right-of-useassetsaremeasuredatcost,lessanyaccumulateddepreciationandimpairmentlosses,andadjustedforanyremeasurementoflease
+liabilities.Thecostofright-of-useassetsincludestheamountofleaseliabilitiesrecognised,initialdirectcostsincurred,andleasepaymentsmadeator
+beforethecommencementdatelessanyleaseincentivesreceived.Right-of-useassetsaredepreciatedonastraight-linebasisovertheshorterofthe
+lease term and the estimated useful lives of the assets.
+Atthecommencementdateofthelease,theGrouprecognisesleaseliabilitiesmeasuredatthepresentvalueofleasepaymentstobemadeover
+interestrateimplicitintheleaseisnotreadilydeterminable.Afterthecommencementdate,theamountofleaseliabilitiesisincreasedtoreflectthe
+accretion of interest and reduced for the lease payments made. In addition, the carrying amount of lease liabilities is remeasured if there is a
+Whenassetsareleasedtoathirdpartyunderfinanceleaseterms,thepresentvalueoftheleaseincomeisrecognisedasareceivable.Thedifference
+betweenthegrossreceivableandthepresentvalueofthereceivableisrecognisedasunearnedfinanceincome.Leaseincomeisrecognisedover
+the term of the lease using the net investment method (before tax), which reflects a constant periodic rate of return.
+(a)thegeneralpopulationpreferstokeepitswealthinnon-monetaryassetsorinarelativelystableforeigncurrency.Amountsoflocal'currencyheld
+Thecarryingamountsofnon-monetaryassetsandliabilitiesareadjustedtoreflectthechangeinthegeneralpriceindexfromthedateofacquisition
+Gainsorlossesonthenetmonetarypositionarerecognisedinprofitorloss.Allitemsrecognisedintheincomestatementarerestatedbyapplyingthe
+change in the general price index from the dates when the items of income and expenses were initially earned or incurred.
+At the beginning of the first period of application, the components of equity, except retained earnings, are restated by applying a general price index
+from the dates the components were contributed or otherwise arose. These restatements are recognised directly in equity as an adjustment to
+the first period and in subsequent periods, all components of equity are restated by applying a general price index from the beginning of the period
+recognised in foreign operations translation reserve, and restatement efefct is recognised in hyperinflation reserve, all within equity.
+a) Non-current Liabilities with Covenants - IAS 1 Presentation of Financial Statements
+The amendments require an entity to provide information about the impact of supplier finance arrangements on liabilities and cash flows, including
+terms and conditions of those arrangements, quantitative information on liabilities related to those arrangements as at the beginning and end of the
+d) Classification of Liabilities as Current or Non-current and Non-current Liabilities with Covenants - Amendments to IAS 1
+liabilities as either current or noncurrent, depending on the rights that exist at the end of the reporting period. Classification is unaffected by the
+The amendments could affect the classification of liabilities, particularly for entities that previously considered management's intentions to determine
+classification and for some liabilities that can be converted into equity.
+e) International Tax Reform – Pillar Two Model Rules - Amendments to IAS 12
+In May 2023, the Board issued amendments to IAS 12, which introduce a mandatory exception in IAS 12 from recognising and disclosing deferred tax
+assets and liabilities related to Pillar Two income taxes
+The amendments clarify that IAS 12 applies to income taxes arising from tax law enacted or substantively enacted to implement the Pillar Two Model
+Rules published by the Organization for Economic Cooperation and Development (OECD), including tax law that implements qualified domestic
+minimum top-up taxes. Such tax legislation, and the income taxes arising from it, are referred to as ‘Pillar Two legislation’ and ‘Pillar Two income taxes’,
+liability otherwise qualifies for derecognition. It also introduces an accounting policy option to derecognise financial liabilities that are settled through
+ii) Clarified how to assess the contractual cash flow characteristics of financial assets that include environmental, social and governance (ESG)-linked
+iii) Clarifies the treatment of non-recourse assets and contractually linked instruments.
+iv) Requires additional disclosures in IFRS 7 for financial assets and liabilities with contractual terms that reference a contingent event (including those
+that are ESG-linked), and equity instruments classified at fair value through other comprehensive income
+IFRS 18 introduces new categories and subtotals in the statement of profit or loss. It also requires disclosure of management-defined performance
+For the purposes of classifying its income and expenses into the categories required by IFRS 18, an entity will need to assess whether it has a ‘main
+business activity’ of investing in assets or providing financing to customers, as specific classification requirements will apply to such entities.
+IFRS 18 introduces the concept of a management-defined performance measure (MPM) which it defines as a subtotal of income and expenses that
+e) Sale or Contribution of Assets between an Investor and its Associate or Joint Venture – Amendments to IFRS 10 and IAS 28
+Business combinations. Any gain or loss resulting from the sale or contribution of assets that does not constitute a business, however, is recognised only
+5 Interest income
+Interest income on amortised cost and FVOCI securities
+Interest income on financial assets at fair value through profit or loss
+'Interest income at amortized cost and fair value through OCI are calculated using the effective interest method.
+Lease liabilities 2,610 2 ,597 582 891
+7 Fees and commission income Group Group
+Electronic banking income 157,506 1 44,487 57,005 38,337
+Trade transactions income 23,395 2 4,443 2,211 6,327
+[1] Credit related fees and commission income excludes amount included in determining effective interest rates on financial assets
+9 Net trading and foreign exchange income Group Group
+Fixed income securities 106,454 8 3,103 35,695 51,221
+Foreign exchange trading income 57,039 9 1,391 14,380 39,577
+10 Other operating income 9 months to 3 months to
+Dividend income 9 ,203 10,509 5 24 314
+Rental income 4 63 221 3 13 63
+Other income 2 9,503 13,009 7 ,742 4,707
+Impairment charge /(reversal) on other assets 3 ,216 ( 3,583) 6,539 ( 7,388)
+Amortisation of intangible assets 8,791 5 ,686 4,677 202
+Right-of-use assets depreciation 4,973 4 ,183 34 500
+16 Income tax expense
+(a)Current tax expense
+(b)Deferred tax expense/(credit)
+Total income tax expense 41,070 78,170 (11,811) ( 7,047)
+Income tax expense is recognised based on management's best estimate of the expected tax for the
+(b)Deferred tax expense
+Total income tax expense 41,070 78,170 (11,811) ( 7,047)
+(c) Current income tax liabilities
+Tax paid (167,135) (122,770)
+Income tax charge 44,518 219,082
+Profit attributable to owners of the parent 513,416 518,046 1 89,879 197,839
+Weighted average number of ordinary shares outstanding 37,857 34,199 3 7,857 34,199
+19 Financial assets at fair value through profit or loss Group Group
+(i) Thisrepresentstreasurybillsmeasuredatfairvaluethroughprofitorloss,withmaturityabovethreemonthsfromthedateofpurchase.Theyhavebeen
+20 Assets under management Group Group
+Gross amount 3 03,504 570,958
+Gross amount 7 ,552,183 7,275,343
+(a) At fair value through other comprehensive income
+Equity investments 5 30,824 505,413
+24 Other assets
+Financial assets:
+Non-financial assets:
+Recoverable taxes 2 5,317 7,776
+Gross amount 1 ,476,445 1,186,262
+(a) Movement in impairment loss on other assets
+The electronic payment receivables balance is presented on net basis in line with IAS 32. Details of the related income have been provided in note 7 of
+The table below shows the fair values of derivative financial instruments recorded as assets or liabilities together with their notional amounts. The notional
+amount which is recorded gross, is the amount of a derivative's underlying asset, reference rate or index and is the basis upon which changes in the value
+Derivative assets
+Derivative liabilities
+(a) Derivative assets Group Group
+The movement in derivative assets is as follows:
+(b) Derivative liabilities
+Derivative assets and liabilities are current.
+Derivative assets :
+Net fair value loss / (gain) on derivative assets (188,092) (310,241)
+Derivative liabilities:
+Net fair value gain on derivative liabilities 2 4,089 (31,964)
+Net fair value loss / (gain) on derivative assets and liabilities (164,004) (342,205)
+28Other liabilities
+Financial liabilities Sep. 2025 Dec. 2024
+Lease Liabilities 38,001 71,876
+Non-financial liabilities
+Deferred income 2,341 6,134
+Total other liabilities 9 25,996 6 80,313
+shares of 50k each (2024: 34,199,421,366) 1 7,100 1 7,100
+Number of shares in issue at start of the period 3 4,199 3 4,199
+Additional number of shares from rights issue 6 ,840 -
+Number of shares in issue at end of the period 41,039 34,199
+There was no repurchase of shares during the period, and the Bank did not issue any equity instrument during the period.
+Share premium is the excess paid by shareholders over the nominal value for their shares.
+Retained earnings is the carried forward recognised income net of expenses plus current year profit attributable to shareholders.
+(ii) Contingent liabilities
+Contingent liabilities and commitments comprise acceptances, endorsements, guarantees and letters of credit.
+The following tables summarise the nominal principal amount of contingent liabilities and commitments with off-balance sheet risk.
+There are no guarantees, commitments or other contingent liabilities arising from related party transactions.
+Gross amount 2,450,266 1,897,226
+The possibility of outflows in settlement of the contingent liabilities is considered remote.
+intangible assets. At the balance sheet date, the Group had capital commitments amounting to N214 million (December 2024
+Intangible assets 67 -
+IncompliancewithRule17.15DisclosureofDealingsinIssuers’Shares,RulebookoftheExchange2015(IssuersRule)UnitedBankfor
+categorizedasinsidersastotheirdealinginthe Company’sshares.ThePolicyundergoesperiodic reviewsbytheBoardandis

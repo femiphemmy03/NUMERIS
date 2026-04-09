@@ -1,0 +1,282 @@
+Statement of profit or loss and other comprehensive income 4
+Statement of changes in equity 5
+Revenue 119,245,105 89,529,217 33
+Gross profit 27,750,064 14,765,813 88
+Profit/(loss) before tax 13,826,641 (16,936,999) 182
+Profit/(loss) for the period 9,678,649 (11,855,899) 182
+Total equity 14,057,842 344,159 3,985
+Net assets per share 616 15 4,010
+Assets
+Non-current assets
+Right-of-use assets 19 505,189 9,496
+Intangible assets 10 78,991 105,504
+Deferred taxation 16,265,022 16,265,022
+Total non-current assets 35,646,044 33,086,167
+Current assets
+Total current assets 47,833,195 39,357,777
+Total assets 83,479,239 72,443,944
+Equity and liabilities
+Equity
+Total equity 14,057,842 4,379,193
+Liabilities
+Non-current liabilities
+Lease liabilities 19 69,469 -
+Total non-current liabilities 984,005 823,100
+Current liabilities
+Current tax liabilities 8 3,660,941 771,387
+Lease liabilities 19 636,536 1,747
+Total current liabilities 68,437,392 67,241,651
+Total liabilities 69,421,397 68,064,751
+Total equity and liabilities 83,479,239 72,443,944
+Statement of profit or loss and other comprehensive income
+Revenue 5 41,994,570 119,245,105 38,088,802 89,529,217
+Gross profit 5,891,368 27,750,064 5,178,611 14,765,813
+Net finance income/(cost) 7 (334,145) (2,071,983) (4,576,377) (23,184,352)
+(Loss)/ profit before tax (708,510) 13,826,641 (3,056,875) (16,936,999)
+Income tax credit/(expense) 8 212,553 (4,147,992) 917,063 5,081,100
+Profit/(loss) for the period (495,957) 9,678,649 (2,139,812) (11,855,899)
+Other comprehensive income - -
+Total comprehensive income/(loss) for the period (495,957) 9,678,649 (2,139,812) (11,855,899)
+Profit/(loss) before tax 13,826,641 (28,326,328)
+Depreciation of right of use assets 889,837 14,039
+Amortisation of intangible assets 26,513 36,450
+Equity settled share-based payment transaction - 48,722
+Finance income (353,532) (434,599)
+Accretion of interest on lease liabilities 119,254 903
+Income tax paid (1,258,438) (70,666)
+assumptionsthataffecttheapplicationofaccountingpoliciesandthereportedamountsofassets,liabilities,incomeandexpenses.
+Deferred taxation-key assumptions
+Deferredtaxisprovidedusingtheliabilitymethodontemporarydifferencesatthereportingdatebetweenthetaxbaseofassetsand
+liabilities and their carrying amounts for financial reporting purposes at the reporting date.
+Thecarryingamountofdeferredtaxassetsisreviewedateachreportingdateandreducedtotheextentthatitisnolongerprobable
+thatsufficienttaxableprofitwillbeavailabletoallowallorpartofthedeferredtaxassettobeutilised.Unrecgoniseddeferredtax
+assetsarereassessedateachreportingdateandarerecognisedtotheextentthatithasbecomeprobablethatfuturetaxableprofitswill
+allow the deferred tax asset to be recovered.
+Deferredtaxassetsanddeferredtaxliabilitiesareoffsetifalegallyenforceablerightexiststosetoffcurrenttaxassetsagainstcurrent
+income tax liabilities and the deferred taxes relate to the same taxable entity and the same taxation authority.
+lookinginformation.Forinstance,ifforecasteconomicconditions(i.e.,grossdomesticproduct)areexpectedtodeteriorateoverthe
+estimating ECL, default and credit impaired assets.
+equipment basedontheperiodoverwhichtheassetsareexpectedtobeavailableforuse.Theestimationoftheusefullivesarebased
+on technical evaluations carried out by experts and those staff with knowledge of the assets and experience with similar assets.
+committed to or significant future investments that will enhance the performance of the assets of the CGU being tested. The
+recognized fully in profit or loss.
+Theeffectofanycurtailmentisalsochargedinfullinprofitorlossimmediatelythecurtailmentoccurs.Thediscountrateistheyield
+CertainemployeesoftheCompanyparticipateinthisarrangementwhichisbasedonthesharesof International.Thegrant
+increase in equity, over the years that the employees unconditionally become entitled to the awards.
+presented as employee expenses and included in administrative expenses in the statement of profit or loss.
+payment transaction are accounted for as equity-settled share-based payment transactions, regardless of the equity instrument
+Whenthefairvaluesoffinancialassetsandfinancialliabilitiesrecordedinthestatementoffinancialpositioncannotbemeasured
+Contingent liabilities and commitments
+Contingentliabilitiesareonlydisclosedandnotrecognizedasliabilitiesinthestatementoffinancialposition.Ifthelikelihoodofan
+transaction.Monetaryassetsandliabilitiesdenominatedin foreign currenciesat the reporting date aretranslated atthe ratesof
+cost in foreign currency translated at the exchange rate at the end of the reporting period. Non-monetary assets and liabilities
+Financial assets
+Itisthe policytoinitiallyrecognisefinancialassetsatfairvalueplustransactioncosts,exceptinthecaseoffinancial
+assets recorded at fair value through profit or loss which are expensed in profit or loss.
+amortised cost. The Company has no equity investments.
+The business models applied to assess the classification of the financial assets held by the company are;
+Holdtocollect:FinancialassetsinthiscategoryareheldbytheCompanysolelytocollectcontractualcashflowsandthese
+cash flows represents solely payments of principal and interest. Assets held under this business model are measured at
+Fairvaluethroughothercomprehensiveincome:Financialassetsinthiscategoryareheldtocollectcontractualcash
+These financial assets are measured at fair value through other comprehensive income.
+Fairvaluethroughprofitorloss:Thiscategoryistheresidualcategoryforfinancialassetsthatdonotmeetthecriteria
+Thebusinessmodelforthe financialassetsare heldto collectcontractualcashflowsthataresolelypaymentsof
+principal(fornon-interestbearingfinancialassets)orsolelypaymentsofprincipalandinterest(forinterestbearingfinancial
+assets).
+The financialassetsincludetradeandotherreceivables,cashandcashequivalentsandamountduefromrelated
+parties. Theyareincluded in currentassets, exceptfor maturities greater than 12 monthsafter thereporting date.Interest
+incomefromtheseassetsisincludedinfinanceincomeusingtheeffectiveinterestratemethod.Anygainorlossarisingon
+derecognition is recognised directly in profit or loss and presented in finance income/cost.
+Financial liabilities
+Financial liabilities of the Company are classified and measured at fair value on initial recognition and subsequently at
+amortisedcostnetofdirectlyattributabletransactioncosts.The financialliabilitiesincludetradeandotherpayables,
+borrowings, amounts due to related parties and lease liabilities.
+ii) Impairment of financial assets
+applicabletofinancialassetsclassifiedatamortisedcostunderIFRS9:Financialinstruments.ThemeasurementofECLreflects
+Financialassetsclassifiedasstage1havetheirECLmeasuredasaproportionoftheirlifetimeECLthatresultsfrompossible
+defaulteventsthatcanoccurwithinoneyear,whileassetsinstage2or3havetheirECLmeasuredonalifetimebasis.Non-trade
+receivables from related parties, other assets and cash and cash equivalents have been assessed for impairment under this
+lifeofthereceivableandadjustedusingforward-lookingestimates.Thisisthenappliedtothegrosscarryingamountofthe
+receivabletoarriveatthelossallowancefortheperiod.Lossallowancesforfinancialassetsmeasuredatamortisedcostare
+deducted from the gross carrying amount of the related financial assets and the amount of the loss is recognised in profit or loss.
+Financial assets
+assets are recognised as finance income/cost.
+Financial liabilities
+amounts is recognised immediately in the statement of profit or loss.
+iv) Offsetting of financial assets and financial liabilities
+Financialassetsandliabilitiesareoffsetandthenetamountisreportedinthestatementoffinancialpositionwhenthereisa
+othercostsdirectlyattributabletobringingtheassetstothelocationandaworkingconditionfortheirintendeduse,thecostsof
+dismantling and removing the items and restoring the site on which they are located, and borrowing costs on qualifying assets.
+recognized as profit or loss in the statement of profit or loss and other comprehensive income.
+usingastraight-linebasisovertheirestimatedusefullives. Depreciationisgenerallyrecognizedinprofitorloss,unlessthe
+amountisincludedinthecarryingamountofanotherasset.Leasedassetsaredepreciatedovertheshorteroftheleasetermand
+case the assets are depreciated over the useful life.
+iv. Impairment of non-financial assets
+(b) Intangible assets, Property, plant and equipment, Right-of-use assets, Investments in subsidiaries, associates
+Intangible assets, property, plant and equipment, right-of-use assets and investments in subsidiaries, associates and joint
+venturesaretestedforimpairmentwheneverthereisanyobjectiveevidenceorindicationthattheseassetsmaybeimpaired.For
+from other assets. If this is the case, the recoverable amount is determined for the CGU to which the asset belongs.
+recognised as an impairment loss in profit or loss, unless the asset is carried at revalued amount, in which case, such
+(d) Intangible assets (Software)
+Subsequentexpenditureonsoftwareassetsiscapitalizedonlywhenitincreasesthefutureeconomicbenefitsembodiedinthe
+ii Amortizationisrecognizedinprofitorlossonastraightlinebasisovertheestimatedusefullifeofthesoftwarefromthedateit
+Intangibleassetsareassessedforimpairmentwheneverthereisanindicationthattheintangibleassetmaybeimpaired. An
+(d) Intangible assets (Software)
+low-valueassets.TheCompanyrecognisesleaseliabilitiestomakeleasepaymentsandright-of-useassetsrepresentingtheright
+to use the underlying assets.
+valueassetsrecognitionexemptiontoleasesofofficeequipmentthatareconsideredtobeoflowvalue.Leasepaymentsonshort-
+term leases and leases of low-value assets are recognised as expense on a straight-line basis over the lease term.
+Right-of-use assets
+The Company recognises right-of-use assets at the commencement date of the lease (i.e., the date the underlying asset is
+available for use). Right-of-use assets are measured at cost, less any accumulateddepreciation andimpairment losses,and
+adjusted for any remeasurement of lease liabilities. The cost of right-of-use assets includes the amount of lease liabilities
+received.Right-of-useassetsaredepreciatedonastraight-linebasisovertheshorteroftheleasetermandtheestimateduseful
+lives of the assets. The Company average lease term is four (4) years.
+Right-of-use assets are presented as non-current assets in the statement of financial position, separately from property, plant
+Lease liabilities
+At the commencement date of the lease, the Company recognises lease liabilities measured at the present value of lease
+moneymarketratederivedfromBloomberg.Afterthecommencementdate,theamountofleaseliabilitiesisincreasedtoreflect
+andpresentedunderoperatingactivitiesintheStatementofCashFlows.Inaddition,thecarryingamountofleaseliabilitiesis
+deductions.Obligationsforcontributionstothedefinedcontributionplanarerecognizedasemployeebenefitexpenseinprofit
+theCompanyandchargedtotheprofitandlossaccountovertheservicelifeoftheemployees.These entitlementsare
+Aliabilityisrecognizedfortheamountexpectedtobepaidundershort-termcashbonusorprofitsharingplansiftheCompany
+International.CertainemployeesoftheCompanyparticipateinthisarrangementwhichisbasedonthesharesof
+corresponding increase in equity, over the years that the employees unconditionally become entitled to the awards.
+They are presented as exployee expenses and included in administrative expenses in the statement of profit or loss.
+based payment transaction are accounted for as equity-settled share-based payment transactions, regardless of the equity
+Credit method. Remeasurements are recognized fully in profit or loss.
+Provisions are determined by discounting the expected future pre-tax cash flows at a rate that reflects current market
+(j) Contingent liabilities
+reliability.Contingentliabilitiesareonlydisclosedandnotrecognizedasliabilitiesinthestatementoffinancialposition.Ifthe
+awardedinthegrantcertificate.Thegrant isrecognizedinthestatementofprofitorlossasadeductionfromcostofsaleswhen
+(l) Revenue from contracts with customers
+Revenueismeasuredatthefairvalueoftheconsiderationreceivedorreceivableforgoodsorservices,intheordinarycourseof
+theCompany'sactivitiesanditisstatednetofvalueaddedtax(VAT),rebatesandreturns.Avalidcontractisrecognisedas
+revenue after the below conditions are met:
+(l) Revenue from contracts with customers (continued)
+thecreditmanagementpolicyattheinceptionofthecontract.TheCompanyistheprincipalinallofitsrevenuearrangement
+sinceitistheprimaryobligorinmostoftherevenuearrangements,hasinventoryriskanddeterminesthepricingforthegoods
+Saleofgoodsarisesfromsalesofproductstothirdpartiesandrelatedparties.Revenuefromthesaleofgoodsisrecognised
+transferredtothecustomer.Revenueisrecognisedbasedonthepricespecifiedinthecontract,netoftheestimatedrebates.
+Disaggregation of revenue from contract with customers
+TheCompanyrecognisesrevenuefromthetransferofgoodsatapointintimeinthefollowingproductlinesandgeographical
+(m) Finance income and finance costs
+Finance income comprises interest income on funds invested and changes in the fair value offinancial assetsat fairvalue
+throughprofitorlosswheretheCompanyholdssuchfinancialassets.Interestincomeisrecognizedasitaccruesinprofitor
+provisions,interestonleaseliabilities,changesinthefairvalueoffinancialassetsatfairvaluethroughprofitorlosswherethe
+Company holds such financial assets.
+(n) Taxation
+Income tax expense represents the sum of current tax expense anddeferred tax expense. Current tax anddeferred tax are
+recognizedinprofitorlossexcepttotheextentthatitrelatestoabusinesscombination,oritemsrecognizeddirectlyinequityor
+in other comprehensive income.
+i. Current tax
+Current tax isthe expected tax payableor receivableon the taxable incomeor lossfor theyear, using tax ratesstatutorily
+enactedatthereportingdate,andanyadjustmenttotaxpayableinrespectofpreviousyears.TheCompanyissubjecttothe
+following types of current income tax:
+CompanyIncomeTax-ThisrelatestotaxonrevenueandprofitgeneratedbytheCompanyduringtheyear,tobetaxedunder
+the Companies Income Tax Act Cap C21, LFN 2020 as amended to date.
+Tertiary Education Tax- Tertiary education tax is based on the assessable income of the Company and is governed by the
+TheNigeriaPoliceTrustFund(NPTF) ThisrelatestolevyonthenetprofitofcompaniesoperatingbusinessinNigeria.Itis
+TheCompanyoffsetscurrenttaxassetsandcurrenttaxliabilitiesifandonlyifithasalegallyenforceablerighttosetofftax
+assetsand taxliabilitiesandtheyrelatetoincometaxesleviedbythesametaxationauthorityoneitherthesametaxableentity
+ordifferenttaxableentitieswhichintendeithertosettlecurrenttaxliabilitiesandassetsonanetbasis,ortorealisetheassets
+and settle the liabilities simultaneously.
+ii. Deferred tax
+Deferredtaxisrecognizedinrespectoftemporarydifferencesbetweenthecarryingamountsofassetsandliabilitiesforfinancial
+reportingpurposesandtheamountsusedfortaxationpurposes.Deferredtaxisnotrecognizedfortemporarydifferencesonthe
+initialrecognitionofassetsorliabilitiesinatransactionthatisnotabusinesscombinationandthataffectsneitheraccounting
+nor taxable profit or loss;
+ThemeasurementofdeferredtaxreflectsthetaxconsequencesthatwouldfollowthemannerinwhichtheCompanyexpects,at
+the end of the reporting period, to recover or settle the carrying amount of its assets and liabilities.
+ii. Deferred tax (continued)
+Deferredtaxismeasuredatthetaxratesthatareexpectedtobeappliedtotemporarydifferenceswhentheyreverse,usingtax
+Adeferredtaxassetisrecognizedforunusedtaxlosses,taxcreditsanddeductibletemporarydifferencestotheextentthatitis
+probablethatfuturetaxableprofitswillbeavailableagainstwhichtheycanbeutilized.Deferredtaxassetsarereviewedateach
+reporting date and are reduced to the extent that it is no longer probable that the related tax benefit will be realized.
+TheCompanyoffsetsdeferredtaxassetsanddeferredtaxliabilitiesifandonlyifithasalegallyenforceablerighttosetoff
+currenttaxassetsandcurrenttaxliabilitiesandthedeferredtaxassetsanddeferredtaxliabilitiesrelatetoincometaxeslevied
+bythesametaxationauthorityoneitherthesametaxableentityordifferenttaxableentitieswhichintendeithertosettlecurrent
+taxliabilitiesandassetsonanetbasis,ortorealisetheassetsandsettletheliabilitiessimultaneously,ineachfutureperiodin
+which significant amounts of deferred tax liabilities or assets are expected to be settled or recovered.
+iii. Tax exposures
+Indeterminingtheamountofcurrentanddeferredtax,theCompanytakesintoaccounttheimpactofuncertaintaxpositions
+andwhetheradditionaltaxesandinterestmaybedue.Thisassessmentreliesonestimatesandassumptionsandmayinvolvea
+judgmentregardingtheadequacyofexistingtaxliabilities;suchchangestotaxliabilitieswillimpacttaxexpenseintheperiod
+TheCompanyhasonlyoneclassof shares:ordinaryshares. Ordinarysharesareclassifiedasequity. Whennewsharesare
+Incrementalcoststhataredirectlyattributabletoissuingnewsharesaredeductedfromequity(netofanyincometaxbenefit).
+Non-incremental costs that are not directly attributable to the share issue are recorded as an expense in profit or loss.
+The Company presents basic and diluted earnings per share (EPS) data for its ordinary shares. Basic EPS is calculated by
+dividingtheprofitorlossattributabletoordinaryshareholdersoftheCompanybytheweightedaveragenumberofordinary
+sharesoutstandingduringtheyear,adjustedforownsharesheld(ifany).DilutedEPSisdeterminedbyadjustingtheprofitor
+lossattributabletoordinaryshareholdersandtheweightedaveragenumberofordinarysharesoutstanding,adjustedforown
+shares held (if any), for the effects of all dilutive potential ordinary shares.
+equity-settled share-based payments and other non-cash items, have been eliminated for the purpose of preparing the
+financing activities while finance income is included in investing activities.
+An operating segment is a distinguishable component of the Company that earns revenue and incurs expenditure from
+thosethatcanbeallocatedonareasonablebasis.Unallocateditemscomprisemainlycorporateassets,headofficeexpensesand
+tax assets and liabilities. The Board of Directors is the Chief Operating decision maker.
+liabilities and cash flows. In addition, IFRS 7 is amended to add supplier finance arrangements as an example within the
+The amendments to IAS 1 affect only the presentation of liabilities as current or non-current in the statement of financial
+positionandnottheamountortimingofrecognitionofanyasset,liability,incomeorexpenses,ortheinformationdisclosed
+Theamendmentsclarifythattheclassificationofliabilitiesascurrentornon-currentisbasedonrightsthatareinexistenceat
+counterparty of cash, equity instruments, other assets or services.
+(iii) Amendments to IAS 1 Presentation of Financial Statements - Non current Liabilities with Covenants
+entity discloses information that enables users of financial statements to understand the risk of the liabilities becoming
+natureofthecovenantsandwhentheentityisrequiredtocomplywiththem),thecarryingamountofrelatedliabilitiesandfacts
+requirementsinIFRS15RevenuefromContractswithCustomerstobeaccountedforasasale.Theamendmentsrequirethe
+itsdebtorequityinstrumentsaretradedinapublicmarketoritisintheprocessofissuingsuchinstrumentsfortradingina
+itholdsassetsinafiduciarycapacityforabroadgroupofoutsidersasoneofitsprimarybusinesses(forexample,banks,credit
+AnumberoftheCompany'saccountingpoliciesanddisclosuresrequirethedeterminationoffairvalue,forfinancialassetsand
+liabilities.Whenapplicable,furtherinformationabouttheassumptionsmadeindeterminingfairvaluesisdisclosedinthenotes
+Level 1: quoted prices (unadjusted) in active markets for identical assets or liabilities
+5 Revenue
+Revenue for the period comprises: Un-audited Un-audited
+6 Other income / (Expense) Un-audited Un-audited
+Other income comprises: 30 September 30 September
+Impairment provision on idle assets - (873,746)
+7 Net finance (cost)/income Un-audited Un-audited
+Recognized in profit or loss: 30 September 30 September
+Finance income
+Interest income on bank deposits 353,532 343,836
+Net finance cost recognised in profit or loss (2,071,984) (23,184,352)
+8 Income tax expense Un-audited Un-audited
+Tax recognised in profit or loss: 30 September 30 September
+Current period income tax 4,147,992 (5,081,100)
+Deferred tax expense -
+Balance, end of the period Current tax liabilities 3,660,941 771,387
+10 Intangible assets
+Intangible assetsrepresentpurchaseandinstallationcostofsoftwarelicenses.Themovementonthisaccountduringtheperiodwas
+Withholding tax receivable 87,915 87,915
+(a) Ordinary shares
+Minimum issued shares 2,280,284,619 (2024: 1,878,201,962) ordinary
+shares of 50k each 1,140,142 1,140,142
+Issuedandfullypaidordinarysharesof50keach 2,280,284,619ordinary
+shares of 50k each (2024: 1,878,201,962) 1,140,142 1,140,142
+(c) Shareholding structure: Ordinary Shares Shareholding
+*Institutionholdingscomprisessharesheldbyinstitutionalshareholdersforvariousinvestorswhichareavailablefor
+Contract liabilities 635,012 393,685
+*Accrued expenses include VAT and withholding taxes due to the Tax Authorities and other trade accruals statements.
+TheCompanyhasnocontingentliabilitiesfortheperiod(2024:Nil)arisingfrompendinglitigations.IntheopinionoftheDirectorsandbased
+Setoutbelowarethecarryingamountsofleaseliabilities(includedunderinterest-bearingloansandborrowings)andthemovementsduring
+Lease - Currrent Liabilities 636,536 1,747
+Lease - Non Current Liabilities 69,469 -
+The following are the amounts recognised in profit or loss: Un-audited Audited
+Depreciation expense of right-of-use assets 889,837 14,039
+Accretion of interest on lease liabilities 119,254 903
+Total amount recognised in profit or loss 1,009,091 14,942
+Intercompany loan and interest conversion to Equity - (53,857,607)
+TheCompanysharesthesameparentcompanywithMP.AmountduetoMPattheendoftheperiodwasN269million(2024:N280.6
+TheCompanysharesthesameparentcompanywithKFSA.TransactionsduringtheperiodamountedtoN2,031.8million(FY2024:
+TheCompanysharesthesameparentcompanywithMES.TransactionsduringtheperiodamountedtoN144.7million(2024:N257.8
+TheCompanysharesthesameparentcompanywithRSS.TransactionsduringtheperiodisNIL(2024: N4.6million)representing
+TheCompanysharesthesameparentcompanywithMIF.TransactionsduringtheperiodamountedtoN0.5million(2024:N287.2
+The Company shares the same parent company with Mondelez Switzerland.
+Revenue Un-audited Un-audited
+Net finance (cost)/income Un-audited Un-audited
+Profit before taxation Un-audited Un-audited
+Total per profit or loss account 13,826,641 (16,936,999)
+Assets & liabilities by reportable segments are not presented to the Chief Operating Decision Maker (the Board of Directors).
+Consequently, information on segment assets & liabilities has not been presented.
+Revenuefromonecustomerdoesnotrepresentupto10%oftheCompany'stotalrevenue.Therefore,informationonmajorcustomersis
+IncompliancewithRule17.15DisclosureofDealingsin Shares,RulebookofTheNigerianStockExchange2015(IssuersRule),Cadbury
+insidersastotheirdealinginthe shares.ThePolicyundergoes periodicreviewsbytheBoardandisupdatedaccordingly.The

@@ -1,0 +1,12 @@
+0,1,2,3,4,5,6,7
+USD,,,,,,,
+S/N,DESCRIPTION,NUMBER,,AMOUNT CLAIMED (USD),,AMOUNT REFUNDED (USD),
+,,2023,2022,2023,2022,2023,2022
+1,Pending complaints B/F,244,785,"1,433,914","251,058,322",-,-
+2,Received Complaints,28801,"15,296","2 ,792,919,034","3 26,023,326",-,-
+3,Resolved complaints,28277,"15,837","2,611,614,279","5 75,647,733","2 ,161","3 55,153"
+4,"Unresolved Complaints
+escalated to CBN for
+intervention",0,-,-,-,-,-
+5,"Unresolved complaints
+pending with the bank C/F",768,244,"182,738,669","1,433,914",-,-

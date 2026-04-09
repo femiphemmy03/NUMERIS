@@ -1,0 +1,21 @@
+{% extends "financials/base.html" %}
+{% block title %}Not Found — NUMERIS{% endblock %}
+{% block content %}
+<div class="empty-state" style="padding:100px 20px;">
+  <div class="icon" style="font-size:60px; margin-bottom:20px; opacity:0.3;">🔍</div>
+  <h2 style="font-family:'Syne',sans-serif; font-size:22px; margin-bottom:12px; color:var(--text);">
+    Company Not Found
+  </h2>
+  <p style="color:var(--muted); margin-bottom:24px;">
+    No data found for ticker <strong style="color:var(--accent);">{{ ticker }}</strong>.<br>
+    Check the ticker or return to the dashboard.
+  </p>
+  <a href="{% url 'index' %}"
+    style="display:inline-block; background:var(--accent); color:var(--bg);
+           padding:10px 24px; border-radius:8px; text-decoration:none;
+           font-family:'Syne',sans-serif; font-weight:700; font-size:12px;
+           letter-spacing:0.1em; text-transform:uppercase;">
+    ← Back to Dashboard
+  </a>
+</div>
+{% endblock %}

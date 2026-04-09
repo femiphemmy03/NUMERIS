@@ -1,0 +1,77 @@
+Statement of Profit & Loss & Other Comprehensive Income 3
+Statement of Changes in Equity 5 - 6
+Unaudited Consolidated and Separate Statement of Profit or Loss and other Comprehensive Income for the period ended December 31st, 2025
+Revenue 1 4,048,589 1,386,850 17,497,391 14,841,373
+Gross Profit 793,691 886,135 3,788,565 4,357,887
+Other operating Income 3 2,348 345,029 163,231 23,961 1 28,060 61,280 985,710 919,630
+Operating Profit/( Loss) 102,126 241,390 1,374,953 1,171,689 - 2 7,621 3 60,068 381,493 355,467
+Finance Income 5b 309,857 14,460 327,968 48,489 3 09,857 1 47,913 309,857
+(Loss)/Profit before Taxation 150,445 194,621 804,804 856,734 8 9,715 3 76,474 108,253 104,480
+Taxation expense (Provision) (45,575) 26,418 (199,229) (465,679) (10,765) 30,352 (12,990) 125,236
+Profit/(Loss) after Taxation 104,870 221,039 605,575 391,055 7 8,949 4 06,826 95,262 229,716
+Profit/ (Loss)attributable to :
+Assets
+Non-current assets
+Right-of-use assets 1,625 6,500 - -
+Intangible assets 11 7,442,816 7,365,871 - -
+other comprehensive income 1 19,780 100,000 100,000 100,000
+Other Non current assets 1,000,000 1,325,000 - -
+Total non-current assets 12,144,386 11,804,394 7,113,729 6,009,429
+Current assets
+Total current assets 16,366,719 8,587,548 7,820,086 1,517,085
+Total assets 28,511,105 20,391,942 14,933,815 7,526,514
+Liabilities
+Non-current liabilities
+Deferred tax liabilities 123,582 123,582 16,457 16,457
+Deposit for Shares 3 98,004
+Total non-current liabilities 1,584,425 2,582,066 449,767 1,665,358
+Current liabilities
+Current tax liabilities 7 81,418 654,525 108,503 129,329
+Current portion of deferred income 608,969 - -
+Total current liabilities 8,830,009 7,816,552 2,899,609 1,869,825
+Total liabilities 10,414,434 10,398,618 3,349,376 3,535,183
+Equity
+Ordinary shares 4,500,000 2,348,030 4,500,000 2,348,030
+- Assets revaluation reserve 4,755,307 4,755,307 1,463,364 1,463,364
+Total equity 18,096,671 9,993,324 11,584,439 3,991,331
+Total liabilities and equity 28,511,105 20,391,942 14,933,815 7,526,514
+UNAUDITED STATEMENT CONSOLIDATED AND SEPARATE STATEMENT OF CHANGES IN EQUITY FOR THE PERIOD ENDED 31 DECEMBER 2025
+Statement of profit or loss 605,575 605,575 605,575
+Other comprehensive income - -
+AUDITED STATEMENT CONSOLIDATED AND SEPARATE STATEMENT OF CHANGES IN EQUITY FOR THE PERIOD ENDED 31 DECEMBER 2024
+Statement of profit or loss 408,997 408,997 (83,178) 325,819
+Other comprehensive income - -
+Share of Profit of Subsidiaries 156 1 56 1 56
+UNAUDITED STATEMENT CONSOLIDATED AND SEPARATE OF CHANGES IN EQUITY FOR THE PERIOD ENDED DECEMBER 31, 2025
+Profit /(Loss) for the Period - 95,262 95,262
+Other Comprehensive Income - - 0
+AUDITED STATEMENT CONSOLIDATED AND SEPARATE OF CHANGES IN EQUITY FOR THE PERIOD ENDED DECEMBER 31, 2024
+Changes in equity for the year: -
+Statement of Profit or Loss 229,716 229,716
+Profit/(loss) after tax 605,575 391,055 95,262 229,716
+Depreciation of right-of-use-assets 4875 3,300 -
+Amortisation of intangible assets 9,015 -
+Profit on disposal of property, plant and equipment (4,450) (3,730)
+Interest income (327,968) (48,489) (309,857) -
+Tax expense 1 99,229 465,679 (12,990) (125,236)
+Changes in operating assets and liabilities
+Increase in deferred income 3 98,004 534,233 -
+Tax paid (126,893) (197,588) 1 20 (9,282)
+Acquisition of intangible assets - (27,114) - -
+Interest income 3 27,968 48,489 309,857 -
+Proceeds from issues of Shares 7,649,203 7 ,649,203
+Lease liabilities - -
+application of accounting policies and the reported amounts of assets and liabilities, income and expenses. Actual results may differ
+5 Revenue recognition
+Revenue is recognised when it is probable that the economic benefits associated with the transaction will flow to the enterprise and
+the amount of the revenue can be measured reliably. Revenue is the fair value of the consideration received net of taxes and
+discounts. Revenue from sales of goods is recognised when delivery has taken place and transfer of risks and reward of ownership
+has been completed. Revenue from service rendered is recognised immediately the service is completed and a service delivery form
+is issued. When services are provided in phases, revenue is recognised on completion of each phase of the project.
+and borrowings in current liabilities on the consolidated statement of financial position.
+Revenue N,000
+3 Other Income
+5b Interest Income
+10 PPE and Other Non current Assets
+Share of profit of subsidiairies 605,575
+Share of profits of subsidiaries

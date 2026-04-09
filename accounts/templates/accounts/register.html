@@ -1,0 +1,47 @@
+{% extends "financials/base.html" %}
+{% block title %}Create User — NUMERIS{% endblock %}
+{% block content %}
+<div class="breadcrumb"><a href="{% url 'portal_users' %}">Users</a> <span>/</span> <span style="color:var(--accent);">New User</span></div>
+<div style="max-width:500px;">
+  <div class="card">
+    <div class="card-title">Create New User</div>
+    <div class="card-meta">ADMIN PANEL · USER MANAGEMENT</div>
+
+    {% if messages %}{% for msg in messages %}
+    <div style="background:rgba(239,68,68,0.1); border:1px solid var(--danger); border-radius:8px; padding:10px 14px; font-size:12px; color:var(--danger); margin-bottom:16px;">{{ msg }}</div>
+    {% endfor %}{% endif %}
+
+    <form method="post">
+      {% csrf_token %}
+      {% for label, name, type in field_list %}{% endfor %}
+      <div style="display:flex; flex-direction:column; gap:14px;">
+        <div>
+          <label style="font-size:10px; letter-spacing:0.14em; text-transform:uppercase; color:var(--muted); display:block; margin-bottom:5px;">Full Name</label>
+          <input type="text" name="full_name" required style="width:100%; background:var(--surface2); border:1px solid var(--border2); color:var(--text); border-radius:8px; padding:10px 14px; font-family:'DM Mono',monospace; font-size:12px; outline:none;">
+        </div>
+        <div>
+          <label style="font-size:10px; letter-spacing:0.14em; text-transform:uppercase; color:var(--muted); display:block; margin-bottom:5px;">Email</label>
+          <input type="email" name="email" required style="width:100%; background:var(--surface2); border:1px solid var(--border2); color:var(--text); border-radius:8px; padding:10px 14px; font-family:'DM Mono',monospace; font-size:12px; outline:none;">
+        </div>
+        <div>
+          <label style="font-size:10px; letter-spacing:0.14em; text-transform:uppercase; color:var(--muted); display:block; margin-bottom:5px;">Password (min 8 chars)</label>
+          <input type="password" name="password" required minlength="8" style="width:100%; background:var(--surface2); border:1px solid var(--border2); color:var(--text); border-radius:8px; padding:10px 14px; font-family:'DM Mono',monospace; font-size:12px; outline:none;">
+        </div>
+        {% if request.user.is_superadmin %}
+        <div>
+          <label style="font-size:10px; letter-spacing:0.14em; text-transform:uppercase; color:var(--muted); display:block; margin-bottom:5px;">Role</label>
+          <select name="role" style="width:100%; background:var(--surface2); border:1px solid var(--border2); color:var(--text); border-radius:8px; padding:10px 14px; font-family:'DM Mono',monospace; font-size:12px; outline:none;">
+            <option value="viewer">Viewer</option>
+            <option value="admin">Admin</option>
+            <option value="superadmin">Super Admin</option>
+          </select>
+        </div>
+        {% endif %}
+        <button type="submit" style="background:var(--accent); color:var(--bg); border:none; border-radius:8px; padding:12px; font-family:'Syne',sans-serif; font-weight:700; font-size:12px; letter-spacing:0.1em; text-transform:uppercase; cursor:pointer; margin-top:8px;">
+          Create User
+        </button>
+      </div>
+    </form>
+  </div>
+</div>
+{% endblock %}

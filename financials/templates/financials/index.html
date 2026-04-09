@@ -1,0 +1,135 @@
+{% extends "financials/base.html" %}
+
+{% block title %}NUMERIS — NGX Investment Intelligence{% endblock %}
+
+{% block content %}
+
+<div class="fade-up d1" style="margin-bottom: 10px;">
+  <div class="section-label">NGX Investment Intelligence Platform</div>
+  <h1 style="font-family:'Syne',sans-serif; font-size:34px; font-weight:800; line-height:1.15; margin-bottom:8px;">
+    Financial Intelligence <span style="color:var(--accent)">Dashboard</span>
+  </h1>
+  <p style="font-size:13px; color:var(--muted); max-width:560px;">
+    Extracted, parsed, and structured NGX filings for {{ summaries|length }} compan{{ summaries|length|pluralize:"y,ies" }}. Select a company to view key financials, extracted tables, and analytics.
+  </p>
+</div>
+
+<!-- ── QUERY BOX ── -->
+<div class="fade-up d2" style="margin: 32px 0;">
+  <div class="card" style="max-width: 560px;">
+    <div class="card-title" style="margin-bottom:6px;">Query a Company</div>
+    <div class="card-meta">SELECT FROM AVAILABLE COMPANIES IN THE PIPELINE</div>
+    <form method="get" action="" id="company-form" style="display:flex; gap:10px; align-items:center; flex-wrap:wrap;">
+      <select name="company" id="company-select"
+        style="
+          flex:1; min-width:240px;
+          background: var(--surface2); color: var(--text);
+          border: 1px solid var(--border2); border-radius: 8px;
+          padding: 10px 14px; font-family: 'DM Mono', monospace;
+          font-size: 12px; cursor: pointer; outline: none;
+          appearance: none;
+        "
+        onchange="this.form.submit()">
+        <option value="" disabled selected style="color:var(--muted)">— Select a company —</option>
+        {% for ticker, label in companies %}
+          <option value="{{ ticker }}">{{ label }}</option>
+        {% endfor %}
+      </select>
+      <button type="submit"
+        style="
+          background: var(--accent); color: var(--bg);
+          border: none; border-radius: 8px;
+          padding: 10px 22px; font-family: 'Syne', sans-serif;
+          font-weight: 700; font-size: 12px; cursor: pointer;
+          letter-spacing: 0.08em; text-transform: uppercase;
+          transition: opacity 0.18s;
+        "
+        onmouseover="this.style.opacity='0.85'"
+        onmouseout="this.style.opacity='1'">
+        View →
+      </button>
+    </form>
+  </div>
+</div>
+
+<!-- ── COMPANY SUMMARY CARDS ── -->
+<div class="fade-up d3">
+  <div class="section-label" style="margin-top:8px;">Available Companies</div>
+  <div class="grid-3">
+    {% for s in summaries %}
+    <a href="{% url 'company_detail' s.ticker %}" style="text-decoration:none;">
+      <div class="kpi-card" style="cursor:pointer;">
+        <div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:14px;">
+          <span style="font-family:'Syne',sans-serif; font-size:26px; font-weight:800; color:var(--accent); letter-spacing:0.05em;">
+            {{ s.ticker }}
+          </span>
+          <span class="signal {{ s.signal|lower }}">
+            <span class="signal-dot"></span>
+            {{ s.signal }}
+          </span>
+        </div>
+        <div style="font-size:12px; color:var(--text); margin-bottom:5px; font-weight:500;">{{ s.name }}</div>
+        <div style="font-size:11px; color:var(--muted);">{{ s.sector }}</div>
+        <div style="font-size:10px; color:var(--muted); margin-top:6px; letter-spacing:0.08em; text-transform:uppercase;">{{ s.period }}</div>
+        <div style="margin-top:14px; font-size:11px; color:var(--accent); letter-spacing:0.05em;">
+          View full report →
+        </div>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+</div>
+
+<!-- ── PIPELINE STATUS ── -->
+<div class="fade-up d4" style="margin-top:36px;">
+  <div class="section-label">Data Pipeline Status</div>
+  <div class="card">
+    <div class="card-title">Processed Files in Pipeline</div>
+    <div class="card-meta">DATA FROM data/processed/ · ALL EXTRACTED FILES</div>
+    <div class="data-table-wrap">
+      <table class="data-table">
+        <thead>
+          <tr>
+            <th>Company</th>
+            <th>Ticker</th>
+            <th>Sector</th>
+            <th>Period</th>
+            <th>Filing Date</th>
+            <th>Signal</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for s in summaries %}
+          <tr onclick="window.location='{% url 'company_detail' s.ticker %}'" style="cursor:pointer;">
+            <td>{{ s.name }}</td>
+            <td style="color:var(--accent); font-weight:600;">{{ s.ticker }}</td>
+            <td style="color:var(--label);">{{ s.sector }}</td>
+            <td style="color:var(--label);">{{ s.period }}</td>
+            <td style="color:var(--label);">
+              {% if s.ticker == "GTCO" %}April 2024{% else %}March 2024{% endif %}
+            </td>
+            <td>
+              <span class="signal {{ s.signal|lower }}" style="font-size:10px; padding:3px 10px;">
+                <span class="signal-dot"></span>{{ s.signal }}
+              </span>
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<script>
+  // Handle dropdown submit → redirect to company page
+  document.getElementById('company-form').addEventListener('submit', function(e) {
+    e.preventDefault();
+    const val = document.getElementById('company-select').value;
+    if (val) window.location.href = '/company/' + val + '/';
+  });
+  document.getElementById('company-select').addEventListener('change', function() {
+    if (this.value) window.location.href = '/company/' + this.value + '/';
+  });
+</script>
+{% endblock %}

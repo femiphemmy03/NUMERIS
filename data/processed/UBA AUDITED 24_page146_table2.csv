@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13
+Entity,Issuer,"Nature of
+Exposure",Bond Type,ISIN,Maturity Date,Face Value,"Carrying value
+before Offer","Carrying Value-
+10 Oct 2024","Carrying Value-
+31 Dec 2024","Modification
+gains /(losses)","Credit
+adjusted EIR
+adjustment","EIR-FV on
+Day 1","Credit
+Adjusted
+EIR"
+,,,,,,,a,b,c,b-a,c-b,,
+UBA NY,Republic of Ghana,Eurobonds,Down Payment New Notes,XS2893146873,03-Jul-26,"1,859",924,"1 ,789","1,420",865,-368,5.07%,1.02%
+UBA NY,Republic of Ghana,Eurobonds,Post-Default Interest,XS2893147681,03-Jan-30,"2,592","1,288","2 ,299","2,100","1,011",-199,5.05%,3.71%
+UBA NY,Republic of Ghana,Eurobonds,Long-Term Par New Notes,XS2893165584,03-Jan-37,"44,611","22,168","19,748","20,181","-2,420",433,9.85%,9.52%
+UBA UK,Republic of Ghana,Eurobonds,Down Payment New Notes,XS2893146873,03-Jul-26,286,274,277,212,3,-64,5.74%,10.80%
+UBA UK,Republic of Ghana,Eurobonds,Long-Term Par New Notes,XS2893165584,03-Jan-37,"6,871","6,569","4 ,400","2,739","-2,169","-1,661",5.74%,10.14%
+UBA Ghana,Republic of Ghana,Eurobonds,Down Payment New Notes,XS2893146873,03-Jul-26,"2,566","14,020","2 ,374","2,312","-11,647",-62,10.69%,10.44%
+UBA Ghana,Republic of Ghana,Eurobonds,Post-Default Interest,XS2893147681,03-Jan-30,"1,728","6,497","1 ,335","1,293","-5,162",-42,11.60%,6.32%
+UBA Ghana,Republic of Ghana,Eurobonds,Long-Term Par New Notes,XS2893165584,03-Jan-37,"61,587","23,772","25,944","24,455","2,172","-1,489",10.53%,10.08%
+,,,Total,,,"1 22,101","75,511","58,164","54,712","( 17,347)","(3,452)",,

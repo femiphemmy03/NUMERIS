@@ -1,0 +1,67 @@
+{% extends "financials/base.html" %}
+{% block title %}Filings — NUMERIS Admin{% endblock %}
+{% block content %}
+<div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:20px; flex-wrap:wrap; gap:12px;">
+  <div class="breadcrumb"><a href="{% url 'portal_home' %}">Portal</a> <span>/</span> <span style="color:var(--accent);">Filings</span></div>
+  <a href="{% url 'portal_upload' %}" style="background:var(--accent); color:var(--bg); padding:8px 18px; border-radius:8px; text-decoration:none; font-family:'Syne',sans-serif; font-weight:700; font-size:11px; letter-spacing:0.1em; text-transform:uppercase;">+ Upload</a>
+</div>
+
+{% if messages %}{% for msg in messages %}<div style="background:rgba(0,229,160,0.08); border:1px solid var(--accent); border-radius:8px; padding:10px 14px; font-size:12px; color:var(--accent); margin-bottom:16px;">{{ msg }}</div>{% endfor %}{% endif %}
+
+<!-- Filters -->
+<form method="get" style="display:flex; gap:10px; margin-bottom:20px; flex-wrap:wrap;">
+  <input type="text" name="company" value="{{ company_filter }}" placeholder="Filter by ticker..."
+    style="background:var(--surface2); border:1px solid var(--border2); color:var(--text); border-radius:8px; padding:8px 14px; font-family:'DM Mono',monospace; font-size:12px; outline:none;">
+  <select name="status" style="background:var(--surface2); border:1px solid var(--border2); color:var(--text); border-radius:8px; padding:8px 14px; font-family:'DM Mono',monospace; font-size:12px; outline:none;">
+    <option value="">All statuses</option>
+    <option value="done" {% if status_filter == 'done' %}selected{% endif %}>Done</option>
+    <option value="failed" {% if status_filter == 'failed' %}selected{% endif %}>Failed</option>
+    <option value="pending" {% if status_filter == 'pending' %}selected{% endif %}>Pending</option>
+  </select>
+  <button type="submit" style="background:var(--surface2); border:1px solid var(--border2); color:var(--label); border-radius:8px; padding:8px 16px; font-size:11px; cursor:pointer; letter-spacing:0.08em; text-transform:uppercase;">Filter</button>
+</form>
+
+<div class="card">
+  <div class="data-table-wrap">
+    <table class="data-table">
+      <thead><tr><th>Ticker</th><th>Period</th><th>Status</th><th>Uploaded By</th><th>Date</th><th>Actions</th></tr></thead>
+      <tbody>
+      {% for f in filings %}
+      <tr>
+        <td style="color:var(--accent); font-weight:600;">{{ f.company.ticker }}</td>
+        <td>{{ f.period_label }}</td>
+        <td>
+          <span style="font-size:10px; padding:2px 10px; border-radius:4px; letter-spacing:0.08em; text-transform:uppercase;
+            {% if f.status == 'done' %}background:rgba(0,229,160,0.1); color:var(--accent);
+            {% elif f.status == 'failed' %}background:rgba(239,68,68,0.1); color:var(--danger);
+            {% elif f.status == 'processing' %}background:rgba(245,158,11,0.1); color:var(--warn);
+            {% else %}background:var(--surface2); color:var(--muted);{% endif %}">
+            {{ f.status }}
+          </span>
+          {% if f.status == 'failed' and f.error_log %}
+          <div style="font-size:10px; color:var(--danger); margin-top:3px; max-width:200px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;" title="{{ f.error_log }}">{{ f.error_log|truncatechars:60 }}</div>
+          {% endif %}
+        </td>
+        <td style="color:var(--muted);">{{ f.uploaded_by.email|default:"—" }}</td>
+        <td style="color:var(--muted);">{{ f.uploaded_at|date:"d M Y H:i" }}</td>
+        <td style="display:flex; gap:6px; flex-wrap:wrap;">
+          {% if f.pdf_file %}
+          <form method="post" action="{% url 'portal_reprocess' f.pk %}">
+            {% csrf_token %}
+            <button type="submit" style="background:none; border:1px solid var(--border2); border-radius:5px; color:var(--label); padding:3px 10px; font-size:10px; cursor:pointer;">↺ Redo</button>
+          </form>
+          {% endif %}
+          <form method="post" action="{% url 'portal_delete_filing' f.pk %}" onsubmit="return confirm('Delete {{ f.company.ticker }} {{ f.period_label }}?')">
+            {% csrf_token %}
+            <button type="submit" style="background:none; border:1px solid rgba(239,68,68,0.4); border-radius:5px; color:var(--danger); padding:3px 10px; font-size:10px; cursor:pointer;">🗑 Delete</button>
+          </form>
+        </td>
+      </tr>
+      {% empty %}
+      <tr><td colspan="6" style="text-align:center; color:var(--muted); padding:32px;">No filings found. <a href="{% url 'portal_upload' %}" style="color:var(--accent);">Upload one →</a></td></tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+{% endblock %}

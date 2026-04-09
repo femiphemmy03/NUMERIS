@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7,8,9,10
+,,,,,,,,,,
+,Number,,Amount Claimed (N'Million),,"Amount Refunded
+(N'Million)",,"Amount
+Claimed (USD)","Amount
+Refunded
+(USD)","Amount
+Refunded
+(GBP)","Amount
+Refunded
+(GBP)"
+DESCRIPTION,2024,2023,2024,2023,2024,2023,2024,2023,2024,2023
+Pending Complaints B/F,"643,719","15,375","59,139","1,551",-,-,-,-,-,-
+Received Complaints,"3,210,708","2,946,318","262,870","178,086",-,-,-,-,-,-
+Resolved Complaints,"2,090,122","2,317,974","187,892","117,978","2,314",450,"4,446,814","94,547",-,-
+"Unresolved Complaints
+Escalated from CBN for
+Intervention",218,80,"1,417",38,-,-,-,-,-,-
+"Unresolved Complaints Pending
+with the bank C/F","1,120,907","643,719","132,297","59,139",-,-,-,-,-,-
+"% Of Complaint/Transaction
+Volume",0.04%,0.04%,-,-,-,-,-,-,-,-
+,,,,,,,,,,
