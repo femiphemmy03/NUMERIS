@@ -1,0 +1,92 @@
+{% extends "financials/base.html" %}
+{% block title %}Admin Portal — NUMERIS{% endblock %}
+{% block content %}
+<div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:28px; flex-wrap:wrap; gap:12px;">
+  <div>
+    <div class="section-label">Admin Portal</div>
+    <h1 style="font-family:'Syne',sans-serif; font-size:26px; font-weight:800;">Welcome, {{ request.user.full_name|default:request.user.email }}</h1>
+    <div style="font-size:11px; color:var(--muted); margin-top:4px; text-transform:uppercase; letter-spacing:0.1em;">{{ request.user.role }}</div>
+  </div>
+  <a href="{% url 'portal_upload' %}"
+     style="background:var(--accent); color:var(--bg); padding:10px 22px; border-radius:8px; text-decoration:none;
+            font-family:'Syne',sans-serif; font-weight:700; font-size:12px; letter-spacing:0.1em; text-transform:uppercase;">
+    + Upload PDF
+  </a>
+</div>
+
+{% if messages %}{% for msg in messages %}
+<div style="background:rgba(0,229,160,0.08); border:1px solid var(--accent); border-radius:8px; padding:12px 16px; font-size:12px; color:var(--accent); margin-bottom:20px;">{{ msg }}</div>
+{% endfor %}{% endif %}
+
+<!-- Stat cards -->
+<div class="grid-4" style="margin-bottom:28px;">
+  <div class="kpi-card">
+    <div class="kpi-label">Companies</div>
+    <div class="kpi-value">{{ total_companies }}</div>
+    <div class="kpi-sub">In database</div>
+  </div>
+  <div class="kpi-card">
+    <div class="kpi-label">Total Filings</div>
+    <div class="kpi-value">{{ total_filings }}</div>
+    <div class="kpi-sub">Across all companies</div>
+  </div>
+  <div class="kpi-card">
+    <div class="kpi-label">Users</div>
+    <div class="kpi-value">{{ total_users }}</div>
+    <div class="kpi-sub">Registered accounts</div>
+  </div>
+  <div class="kpi-card">
+    <div class="kpi-label">Failed Extractions</div>
+    <div class="kpi-value {% if failed_filings > 0 %}negative{% endif %}">{{ failed_filings }}</div>
+    <div class="kpi-sub">Need attention</div>
+  </div>
+</div>
+
+<!-- Nav links -->
+<div style="display:flex; gap:10px; margin-bottom:28px; flex-wrap:wrap;">
+  {% for label, url_name in nav_links %}{% endfor %}
+  <a href="{% url 'portal_upload' %}"    style="padding:9px 18px; background:var(--surface2); border:1px solid var(--border2); border-radius:8px; color:var(--label); text-decoration:none; font-size:11px; letter-spacing:0.08em; text-transform:uppercase;">📤 Upload</a>
+  <a href="{% url 'portal_companies' %}" style="padding:9px 18px; background:var(--surface2); border:1px solid var(--border2); border-radius:8px; color:var(--label); text-decoration:none; font-size:11px; letter-spacing:0.08em; text-transform:uppercase;">🏢 Companies</a>
+  <a href="{% url 'portal_filings' %}"   style="padding:9px 18px; background:var(--surface2); border:1px solid var(--border2); border-radius:8px; color:var(--label); text-decoration:none; font-size:11px; letter-spacing:0.08em; text-transform:uppercase;">📄 Filings</a>
+  <a href="{% url 'portal_users' %}"     style="padding:9px 18px; background:var(--surface2); border:1px solid var(--border2); border-radius:8px; color:var(--label); text-decoration:none; font-size:11px; letter-spacing:0.08em; text-transform:uppercase;">👤 Users</a>
+  <a href="{% url 'index' %}"            style="padding:9px 18px; background:var(--surface2); border:1px solid var(--border2); border-radius:8px; color:var(--label); text-decoration:none; font-size:11px; letter-spacing:0.08em; text-transform:uppercase;">← Public Dashboard</a>
+</div>
+
+<!-- Recent Filings -->
+<div class="card">
+  <div class="card-title">Recent Uploads</div>
+  <div class="card-meta">LAST 8 FILINGS</div>
+  <div class="data-table-wrap">
+    <table class="data-table">
+      <thead><tr><th>Company</th><th>Period</th><th>Status</th><th>Uploaded By</th><th>Date</th><th>Actions</th></tr></thead>
+      <tbody>
+      {% for f in recent_filings %}
+      <tr>
+        <td style="color:var(--accent); font-weight:600;">{{ f.company.ticker }}</td>
+        <td>{{ f.period_label }}</td>
+        <td>
+          <span style="font-size:10px; padding:2px 8px; border-radius:4px;
+            {% if f.status == 'done' %}background:rgba(0,229,160,0.1); color:var(--accent);
+            {% elif f.status == 'failed' %}background:rgba(239,68,68,0.1); color:var(--danger);
+            {% elif f.status == 'processing' %}background:rgba(245,158,11,0.1); color:var(--warn);
+            {% else %}background:var(--surface2); color:var(--muted);{% endif %}">
+            {{ f.status }}
+          </span>
+        </td>
+        <td style="color:var(--muted);">{{ f.uploaded_by.email|default:"—" }}</td>
+        <td style="color:var(--muted);">{{ f.uploaded_at|date:"d M Y" }}</td>
+        <td>
+          <form method="post" action="{% url 'portal_reprocess' f.pk %}" style="display:inline;">
+            {% csrf_token %}
+            <button type="submit" style="background:none; border:1px solid var(--border2); border-radius:5px; color:var(--label); padding:3px 10px; font-size:10px; cursor:pointer; letter-spacing:0.08em;">↺ Reprocess</button>
+          </form>
+        </td>
+      </tr>
+      {% empty %}
+      <tr><td colspan="6" style="text-align:center; color:var(--muted); padding:24px;">No filings yet. Upload a PDF to get started.</td></tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+{% endblock %}

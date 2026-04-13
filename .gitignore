@@ -1,3 +1,4 @@
+
 # Python cache
 __pycache__/
 *.pyc
@@ -23,3 +24,30 @@ Thumbs.db
 
 # Jupyter notebooks checkpoints
 .ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+
+*.log
+staticfiles/
+db.sqlite3
+
+.env
+.env.*
+*.env
+
+# Raw PDFs stay local (too large for git)
+data/raw/
+# Uploaded PDFs via admin also stay local / go to cloud storage
+media/
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+ b29f256d2beb105be902bf8e1571c57eafc07475

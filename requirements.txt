@@ -8,3 +8,11 @@ sqlalchemy
 psycopg2-binary
 python-dotenv
 requests
+Django>=4.2,<5.0
+pandas>=1.5.0
+pdfplumber
+gunicorn
+whitenoise
+dj-database-url
+psycopg2-binary
+ b29f256d2beb105be902bf8e1571c57eafc07475

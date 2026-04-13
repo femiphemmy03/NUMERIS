@@ -1,0 +1,561 @@
+{% extends "financials/base.html" %}
+
+{% block title %}{{ company.ticker }} — NUMERIS{% endblock %}
+
+{% block extra_head %}
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+{% endblock %}
+
+{% block content %}
+
+<!-- Breadcrumb -->
+<div class="breadcrumb fade-up d1">
+  <a href="{% url 'index' %}">Dashboard</a>
+  <span>/</span>
+  <span style="color:var(--accent);">{{ company.ticker }}</span>
+</div>
+
+<!-- Company Header -->
+<div class="company-header fade-up d1">
+  <div>
+    <div class="ch-ticker">{{ company.ticker }}</div>
+    <div class="ch-name">{{ company.name }}</div>
+    <div class="ch-period">{{ company.period }}</div>
+    <div class="ch-meta">
+      <span class="meta-chip">📄 {{ company.filing_date }}</span>
+      <span class="meta-chip">🏦 NGX Listed</span>
+      <span class="meta-chip">📊 {{ company.total_tables }} Extracted Tables</span>
+      <span class="meta-chip">🏢 {{ company.sector }}</span>
+    </div>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:flex-end; gap:12px;">
+    <span class="signal {{ company.signal|lower }}" style="font-size:13px; padding:8px 18px;">
+      <span class="signal-dot"></span>
+      {{ company.signal }}
+    </span>
+    <a href="{% url 'index' %}"
+      style="font-size:11px; color:var(--muted); text-decoration:none; letter-spacing:0.08em; text-transform:uppercase;">
+      ← Back to Dashboard
+    </a>
+  </div>
+</div>
+
+<!-- ── TABS ── -->
+<div class="tab-bar fade-up d2">
+  <button class="tab-btn active" data-tabgroup="main" data-tab="overview"   onclick="switchTab('main','overview')">Overview</button>
+  <button class="tab-btn"        data-tabgroup="main" data-tab="charts"     onclick="switchTab('main','charts')">Charts</button>
+  <button class="tab-btn"        data-tabgroup="main" data-tab="tables"     onclick="switchTab('main','tables')">Raw Tables ({{ company.total_tables }})</button>
+  <button class="tab-btn"        data-tabgroup="main" data-tab="finlines"   onclick="switchTab('main','finlines')">Financial Lines</button>
+  <button class="tab-btn"        data-tabgroup="main" data-tab="flags"      onclick="switchTab('main','flags')">Intelligence Flags</button>
+</div>
+
+<!-- ════════════ TAB: OVERVIEW ════════════ -->
+<div class="tab-panel active" data-tabgroup="main" data-tab="overview" data-tabpanel="main" data-panel="overview">
+
+  <!-- KPIs -->
+  <div class="section-label fade-up d3">Key Performance Indicators</div>
+  <div class="grid-4 fade-up d3" style="margin-bottom:28px;">
+    {% for label, val_delta in company.kpis.items %}
+    <div class="kpi-card">
+      <div class="kpi-label">{{ label }}</div>
+      <div class="kpi-value {% if '-' in val_delta.0 or '−' in val_delta.0 %}negative{% elif '₦' in val_delta.0 and not '-' in val_delta.0 %}positive{% endif %}">
+        {{ val_delta.0 }}
+      </div>
+      <div class="kpi-sub">{{ val_delta.1 }}</div>
+    </div>
+    {% endfor %}
+  </div>
+
+  <!-- Ratios + Flags side by side -->
+  <div class="grid-2 fade-up d4" style="margin-bottom:28px;">
+
+    <!-- Ratios -->
+    <div class="card">
+      <div class="card-title">Financial Ratios</div>
+      <div class="card-meta">DERIVED FROM FILING DATA</div>
+      {% for name, val in company.ratios.items %}
+      <div class="ratio-row">
+        <span class="ratio-name">{{ name }}</span>
+        <span class="ratio-val"
+          style="{% if '-' in val %}color:var(--danger){% elif '+' in val %}color:var(--accent){% endif %}">
+          {{ val }}
+        </span>
+        <div class="ratio-bar">
+          <div class="ratio-fill"
+            style="
+              width:{% if '+' in val %}75%{% elif '-' in val %}15%{% else %}50%{% endif %};
+              {% if '-' in val %}background:var(--danger);{% elif '+' in val %}background:var(--accent);{% endif %}
+            "></div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+
+    <!-- Top Flags preview -->
+    <div class="card">
+      <div class="card-title">Intelligence Flags</div>
+      <div class="card-meta">RULES-BASED SIGNAL SUMMARY</div>
+      <div class="flag-list">
+        {% for color, icon, title, desc in company.flags %}
+        <div class="flag-item {{ color }}">
+          <span class="flag-icon">{{ icon }}</span>
+          <div class="flag-body">
+            <strong>{{ title }}</strong>
+            {{ desc|truncatechars:120 }}
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+      <div style="margin-top:14px;">
+        <button class="tab-btn" onclick="switchTab('main','flags')"
+          style="font-size:11px; color:var(--accent); border:none; background:none; cursor:pointer; padding:0; letter-spacing:0.08em; text-transform:uppercase;">
+          View full analysis →
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Mini charts row -->
+  <div class="grid-2 fade-up d5">
+    <div class="card">
+      <div class="card-title">Revenue Trend</div>
+      <div class="card-meta">N'000 · HISTORICAL</div>
+      <div class="chart-wrap">
+        <canvas id="mini-revenue-chart"></canvas>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-title">Profit After Tax Trend</div>
+      <div class="card-meta">N'000 · HISTORICAL</div>
+      <div class="chart-wrap">
+        <canvas id="mini-pat-chart"></canvas>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- ════════════ TAB: CHARTS ════════════ -->
+<div class="tab-panel" data-tabgroup="main" data-tab="charts" data-tabpanel="main" data-panel="charts">
+
+  <div class="grid-2" style="margin-bottom:24px;">
+    <div class="card">
+      <div class="card-title">Revenue Trend</div>
+      <div class="card-meta">N'000 · ALL AVAILABLE PERIODS</div>
+      <div class="chart-wrap-tall">
+        <canvas id="revenue-chart-full"></canvas>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-title">Profit After Tax Trend</div>
+      <div class="card-meta">N'000 · ALL AVAILABLE PERIODS</div>
+      <div class="chart-wrap-tall">
+        <canvas id="pat-chart-full"></canvas>
+      </div>
+    </div>
+  </div>
+
+  <div class="grid-2">
+    <div class="card">
+      <div class="card-title">Revenue by Segment</div>
+      <div class="card-meta">N'000 · LATEST PERIOD</div>
+      <div class="chart-wrap-tall">
+        <canvas id="segment-chart"></canvas>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-title">Revenue vs PAT Comparison</div>
+      <div class="card-meta">N'000 · SIDE-BY-SIDE BAR</div>
+      <div class="chart-wrap-tall">
+        <canvas id="compare-chart"></canvas>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- ════════════ TAB: RAW TABLES ════════════ -->
+<div class="tab-panel" data-tabgroup="main" data-tab="tables" data-tabpanel="main" data-panel="tables">
+
+  {% if company.csv_tables %}
+  <div style="margin-bottom:16px; font-size:12px; color:var(--muted);">
+    {{ company.total_tables }} tables extracted from NGX PDF filing. Click any row to expand.
+  </div>
+  <div class="table-accordion">
+    {% for table in company.csv_tables %}
+    <div class="table-acc-item {% if forloop.first %}open{% endif %}">
+      <div class="table-acc-header" onclick="toggleAcc(this)">
+        <div>
+          <span class="table-acc-title">{{ table.label }}</span>
+          <span class="table-acc-meta" style="margin-left:12px;">{{ table.row_count }} row{{ table.row_count|pluralize }}</span>
+        </div>
+        <span class="table-acc-chevron">▼</span>
+      </div>
+      <div class="table-acc-body">
+        <div class="data-table-wrap" style="padding:0 2px 2px;">
+          <table class="data-table">
+            {% if table.headers %}
+            <thead>
+              <tr>
+                {% for h in table.headers %}
+                <th>{{ h|default:"—" }}</th>
+                {% endfor %}
+              </tr>
+            </thead>
+            {% endif %}
+            <tbody>
+              {% for row in table.rows %}
+              <tr>
+                {% for cell in row %}
+                <td>{{ cell|default:"" }}</td>
+                {% endfor %}
+              </tr>
+              {% endfor %}
+              {% if not table.rows %}
+              <tr><td colspan="{{ table.headers|length }}" style="text-align:center; color:var(--muted); padding:20px;">No row data</td></tr>
+              {% endif %}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+  {% else %}
+  <div class="empty-state">
+    <div class="icon">📂</div>
+    No CSV tables found for this company in the processed data folder.
+  </div>
+  {% endif %}
+</div>
+
+
+<!-- ════════════ TAB: FINANCIAL LINES ════════════ -->
+<div class="tab-panel" data-tabgroup="main" data-tab="finlines" data-tabpanel="main" data-panel="finlines">
+
+  <div class="card">
+    <div class="card-title">Extracted Financial Statement Lines</div>
+    <div class="card-meta">KEYWORD-MATCHED FROM RAW PDF TEXT · HIGHLIGHTED = KEY METRICS</div>
+
+    {% if company.financial_lines %}
+    <div style="margin-bottom:12px; font-size:12px; color:var(--muted);">
+      {{ company.financial_lines|length }} lines extracted. Lines with
+      <span style="color:var(--accent); font-weight:600;">green border</span>
+      are key financial metrics.
+    </div>
+    <div class="fin-lines-list">
+      {% for item in company.financial_lines %}
+      <div class="fin-line {% if item.highlighted %}hl{% endif %}">{{ item.line }}</div>
+      {% endfor %}
+    </div>
+    {% else %}
+    <div class="empty-state">
+      <div class="icon">📄</div>
+      No financial lines file found for this company.
+    </div>
+    {% endif %}
+  </div>
+</div>
+
+
+<!-- ════════════ TAB: FLAGS ════════════ -->
+<div class="tab-panel" data-tabgroup="main" data-tab="flags" data-tabpanel="main" data-panel="flags">
+
+  <div class="section-label">Intelligence Analysis</div>
+  <div style="font-size:12px; color:var(--muted); margin-bottom:20px;">
+    Rules-based signal engine applied to {{ company.ticker }} — {{ company.period }}
+  </div>
+
+  <!-- Summary counts -->
+  <div class="grid-3" style="margin-bottom:28px;">
+    <div class="kpi-card" style="border-color:rgba(0,229,160,0.2);">
+      <div class="kpi-label">Green Flags</div>
+      <div class="kpi-value positive">
+        {% with count=0 %}
+        {% for color,icon,title,desc in company.flags %}{% if color == 'green' %}{{ forloop.counter|add:"-1" }}{% endif %}{% endfor %}
+        {% for color,icon,title,desc in company.flags %}{% if color == 'green' %}{% with count=count|add:"1" %}{% endwith %}{% endif %}{% endfor %}
+        {{ company.flags|length }}
+        {% endwith %}
+      </div>
+      <!-- simpler count via template -->
+      <div class="kpi-sub">Positive indicators found</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Total Signals</div>
+      <div class="kpi-value">{{ company.flags|length }}</div>
+      <div class="kpi-sub">Across all categories</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Overall Signal</div>
+      <div class="kpi-value">
+        <span class="signal {{ company.signal|lower }}">
+          <span class="signal-dot"></span>{{ company.signal }}
+        </span>
+      </div>
+      <div class="kpi-sub">Based on fundamentals</div>
+    </div>
+  </div>
+
+  <div class="flag-list">
+    {% for color, icon, title, desc in company.flags %}
+    <div class="flag-item {{ color }}" style="padding:18px 20px;">
+      <span class="flag-icon" style="font-size:20px;">{{ icon }}</span>
+      <div class="flag-body">
+        <strong style="font-size:14px;">{{ title }}</strong>
+        <span style="font-size:13px; line-height:1.65;">{{ desc }}</span>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+  <div class="card" style="margin-top:28px;">
+    <div class="card-title">Disclaimer</div>
+    <div class="card-meta">IMPORTANT NOTICE</div>
+    <p style="font-size:12px; color:var(--muted); line-height:1.7;">
+      All data is sourced from NGX Group filings extracted via PDF parsing.
+      Numbers are in thousands of Naira (N'000) unless otherwise stated.
+      This dashboard is for analytical and research purposes only and does not constitute
+      financial advice. Always verify against the original NGX filings before making
+      investment decisions.
+    </p>
+  </div>
+</div>
+
+{% endblock %}
+
+
+{% block extra_js %}
+<script>
+// Chart data from Django context
+const revenueData = {
+  labels: {{ company.revenue_chart.labels|safe }},
+  values: {{ company.revenue_chart.values|safe }},
+};
+const patData = {
+  labels: {{ company.pat_chart.labels|safe }},
+  values: {{ company.pat_chart.values|safe }},
+};
+const segData = {
+  labels: {{ company.segment_chart.labels|safe }},
+  values: {{ company.segment_chart.values|safe }},
+  colors: {{ company.segment_chart.colors|safe }},
+};
+
+// Chart defaults
+Chart.defaults.color = '#7a88b0';
+Chart.defaults.font.family = "'DM Mono', monospace";
+Chart.defaults.font.size = 11;
+
+const gridColor = 'rgba(28,36,64,0.8)';
+const accentColor = '#00e5a0';
+const blueColor = '#3b82f6';
+const dangerColor = '#ef4444';
+
+function barColor(value) {
+  return value >= 0 ? accentColor : dangerColor;
+}
+
+// ── MINI CHARTS (overview tab) ─────────────────────────────────────
+function buildMiniChart(id, labels, values, label) {
+  const ctx = document.getElementById(id);
+  if (!ctx) return;
+  new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels,
+      datasets: [{
+        label,
+        data: values,
+        backgroundColor: values.map(v => v >= 0
+          ? 'rgba(0,229,160,0.7)' : 'rgba(239,68,68,0.7)'),
+        borderColor: values.map(v => v >= 0 ? accentColor : dangerColor),
+        borderWidth: 1,
+        borderRadius: 4,
+      }]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { grid: { color: gridColor }, ticks: { maxRotation: 30 } },
+        y: {
+          grid: { color: gridColor },
+          ticks: {
+            callback: v => {
+              if (Math.abs(v) >= 1000000) return (v/1000000).toFixed(1)+'T';
+              if (Math.abs(v) >= 1000) return (v/1000).toFixed(0)+'B';
+              return v;
+            }
+          }
+        }
+      }
+    }
+  });
+}
+
+buildMiniChart('mini-revenue-chart', revenueData.labels, revenueData.values, 'Revenue');
+buildMiniChart('mini-pat-chart', patData.labels, patData.values, 'PAT');
+
+// ── FULL CHARTS (charts tab) ───────────────────────────────────────
+function buildLineChart(id, labels, values, label, color) {
+  const ctx = document.getElementById(id);
+  if (!ctx) return;
+  new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels,
+      datasets: [{
+        label,
+        data: values,
+        borderColor: color,
+        backgroundColor: color + '18',
+        fill: true,
+        tension: 0.35,
+        pointBackgroundColor: values.map(v => v >= 0 ? color : dangerColor),
+        pointBorderColor: '#07090f',
+        pointRadius: 5,
+        pointHoverRadius: 7,
+        borderWidth: 2,
+      }]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          callbacks: {
+            label: ctx => {
+              const v = ctx.parsed.y;
+              if (Math.abs(v) >= 1000000) return ` ₦${(v/1000000).toFixed(2)}T`;
+              if (Math.abs(v) >= 1000) return ` ₦${(v/1000).toFixed(1)}B`;
+              return ` ₦${v.toLocaleString()}`;
+            }
+          }
+        }
+      },
+      scales: {
+        x: { grid: { color: gridColor } },
+        y: {
+          grid: { color: gridColor },
+          ticks: {
+            callback: v => {
+              if (Math.abs(v) >= 1000000) return (v/1000000).toFixed(1)+'T';
+              if (Math.abs(v) >= 1000) return (v/1000).toFixed(0)+'B';
+              return v;
+            }
+          }
+        }
+      }
+    }
+  });
+}
+
+buildLineChart('revenue-chart-full', revenueData.labels, revenueData.values, 'Revenue', accentColor);
+buildLineChart('pat-chart-full', patData.labels, patData.values, 'PAT', blueColor);
+
+// ── SEGMENT DOUGHNUT ──────────────────────────────────────────────
+const segCtx = document.getElementById('segment-chart');
+if (segCtx) {
+  new Chart(segCtx, {
+    type: 'doughnut',
+    data: {
+      labels: segData.labels,
+      datasets: [{
+        data: segData.values,
+        backgroundColor: segData.colors.map(c => c + 'cc'),
+        borderColor: segData.colors,
+        borderWidth: 2,
+        hoverOffset: 8,
+      }]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      cutout: '60%',
+      plugins: {
+        legend: {
+          position: 'right',
+          labels: { boxWidth: 12, padding: 14, font: { size: 11 } }
+        },
+        tooltip: {
+          callbacks: {
+            label: ctx => {
+              const v = ctx.parsed;
+              const total = ctx.dataset.data.reduce((a,b) => a+b, 0);
+              const pct = ((v/total)*100).toFixed(1);
+              if (v >= 1000000) return ` ₦${(v/1000000).toFixed(2)}T (${pct}%)`;
+              if (v >= 1000) return ` ₦${(v/1000).toFixed(1)}B (${pct}%)`;
+              return ` ₦${v.toLocaleString()} (${pct}%)`;
+            }
+          }
+        }
+      }
+    }
+  });
+}
+
+// ── REVENUE vs PAT GROUPED BAR ─────────────────────────────────────
+const cmpCtx = document.getElementById('compare-chart');
+if (cmpCtx) {
+  // Use only last 3 periods for clarity
+  const n = Math.min(revenueData.labels.length, patData.labels.length, 3);
+  const revSlice = revenueData.values.slice(-n);
+  const patSlice = patData.values.slice(-n);
+  const lblSlice = revenueData.labels.slice(-n);
+
+  new Chart(cmpCtx, {
+    type: 'bar',
+    data: {
+      labels: lblSlice,
+      datasets: [
+        {
+          label: 'Revenue',
+          data: revSlice,
+          backgroundColor: 'rgba(0,229,160,0.7)',
+          borderColor: accentColor,
+          borderWidth: 1,
+          borderRadius: 4,
+        },
+        {
+          label: 'PAT',
+          data: patSlice,
+          backgroundColor: patSlice.map(v => v >= 0 ? 'rgba(59,130,246,0.7)' : 'rgba(239,68,68,0.7)'),
+          borderColor: patSlice.map(v => v >= 0 ? blueColor : dangerColor),
+          borderWidth: 1,
+          borderRadius: 4,
+        }
+      ]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: {
+        legend: { labels: { boxWidth: 12 } },
+        tooltip: {
+          callbacks: {
+            label: ctx => {
+              const v = ctx.parsed.y;
+              if (Math.abs(v) >= 1000000) return ` ${ctx.dataset.label}: ₦${(v/1000000).toFixed(2)}T`;
+              if (Math.abs(v) >= 1000) return ` ${ctx.dataset.label}: ₦${(v/1000).toFixed(1)}B`;
+              return ` ${ctx.dataset.label}: ₦${v.toLocaleString()}`;
+            }
+          }
+        }
+      },
+      scales: {
+        x: { grid: { color: gridColor } },
+        y: {
+          grid: { color: gridColor },
+          ticks: {
+            callback: v => {
+              if (Math.abs(v) >= 1000000) return (v/1000000).toFixed(1)+'T';
+              if (Math.abs(v) >= 1000) return (v/1000).toFixed(0)+'B';
+              return v;
+            }
+          }
+        }
+      }
+    }
+  });
+}
+</script>
+{% endblock %}
